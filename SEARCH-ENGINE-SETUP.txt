@@ -1,0 +1,37 @@
+APEX COMPUTERS — GOOGLE / BING SEARCH SETUP
+
+The website itself is already prepared with:
+- search-friendly titles and descriptions
+- dynamic canonical URLs
+- Product + Offer structured data
+- Open Graph / social sharing metadata
+- crawlable full catalogue index
+- /sitemap.xml
+- /robots.txt
+- mobile-friendly responsive pages
+
+GOOGLE
+1. Deploy the website to Vercel and connect your final domain.
+2. Open Google Search Console.
+3. Add the final domain or URL-prefix property.
+4. Complete Google's ownership verification.
+5. In Sitemaps, submit: https://YOUR-DOMAIN/sitemap.xml
+6. Use URL Inspection for the homepage and a few important product URLs, then request indexing.
+
+BING / OTHER PARTICIPATING SEARCH ENGINES
+1. Open Bing Webmaster Tools.
+2. Add the website, or import it from Google Search Console.
+3. Submit: https://YOUR-DOMAIN/sitemap.xml
+4. Enable IndexNow in Bing Webmaster Tools if you want faster notification of future product/price changes.
+
+IMPORTANT
+- Search ranking is not instant or guaranteed. Good indexing, useful content, accurate product data, mobile speed, backlinks, business profiles and customer engagement all matter.
+- Keep prices and stock current.
+- Do not copy the same product description across many different models.
+- Keep exact photos attached to the correct products.
+- After every major stock update, redeploy and make sure sitemap.xml still loads.
+
+LOCAL DISCOVERY
+- Create/maintain a Google Business Profile for the real shop location if applicable.
+- Keep the business name, phone number and location consistent everywhere online.
+- Link the website from Instagram and other official social profiles.

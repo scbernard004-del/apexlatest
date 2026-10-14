@@ -1,0 +1,21 @@
+APEX COMPUTERS v2.4.4 — SIMPLE GITHUB + VERCEL UPLOAD
+
+Upload all loose root files and the 5 folders into the existing repository.
+Do not nest the package in another folder. Replace obsolete release files.
+
+MEDIA COUNTS
+- media-01: 98 files
+- media-02: 99 files
+- media-03: 99 files
+- media-04: 93 files
+
+Vercel: Framework Other; no build command; no output directory.
+Node: 24.x. Run npm test before deployment.
+
+CONTACTS
+WhatsApp / orders: 0746 584 214 / +255746584214
+Notification Gmail: scbernard004@gmail.com
+
+Configure SMTP credentials in Vercel environment variables only.
+After deployment test the live order flow, /sitemap.xml and /robots.txt.
+This package update has not itself been deployed to a live domain.

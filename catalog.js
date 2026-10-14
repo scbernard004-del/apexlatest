@@ -1,0 +1,8927 @@
+window.SHOP_DATA = {
+  "config": {
+    "catalogueDate": "2026-10-10",
+    "currency": "TZS",
+    "email": "scbernard004@gmail.com",
+    "featured": [
+      "hp-elitebook-x360-1040-g8",
+      "dell-latitude-5310-2-in-1",
+      "p10",
+      "dell-latitude-7480",
+      "hp820",
+      "hp-prodesk-600-g6",
+      "hp-elitedesk-800-g5-sff",
+      "dell-p2422h",
+      "lenovo-27-frameless-monitor",
+      "hp-elitebook-840-g6",
+      "hp845",
+      "hp-elite-dragonfly-g3",
+      "fortis",
+      "p23",
+      "hp-elitedisplay-e273m",
+      "hp-e22-g4",
+      "dell-optiplex-7020",
+      "hp-elite-dragonfly-g2",
+      "hp-elite-dragonfly-max",
+      "hp-elitebook-830-g9",
+      "p6",
+      "hp-probook-440-g9",
+      "lenovo-thinkpad-t14s-gen2",
+      "carbon9",
+      "lenovo-thinkpad-x1-yoga-gen7",
+      "hp-zbook-firefly-14-g8",
+      "hp-zbook-firefly-14-g9",
+      "hp-zbook-firefly-15-g8",
+      "hp-probook-x360-435-g9",
+      "hp-elitebook-845-g7",
+      "hp1040g6",
+      "p19",
+      "p1",
+      "p2",
+      "hp830",
+      "p4",
+      "p5",
+      "p7",
+      "p9",
+      "p12",
+      "p14",
+      "p15",
+      "p16",
+      "p26",
+      "p18",
+      "p20",
+      "p21",
+      "p22",
+      "p24",
+      "p25",
+      "dell-latitude-7290",
+      "hp1030",
+      "hp-zbook-power-g7",
+      "aio11",
+      "aio12",
+      "aio6",
+      "aio7",
+      "aio8",
+      "aio9",
+      "hp-probook-640-g9",
+      "apex-usbc-charger-kit",
+      "apex-vga-cable",
+      "apex-laptop-bag",
+      "apex-phone-stand",
+      "apex-bass-earphones",
+      "yoga",
+      "dell3390"
+    ],
+    "location": "Tanzania",
+    "name": "Apex Computers",
+    "phone": "255746584214",
+    "phoneDisplay": "0746 584 214",
+    "tagline": "Your next upgrade.",
+    "instagram": "https://www.instagram.com/apex_computers_tz?stkn=bzI0MzBkMjhhbnlx",
+    "accuracyUpdated": "2026-10-10",
+    "designVersion": "2.4.2-simple"
+  },
+  "media": [
+    {
+      "id": "dell-latitude-7290-cutout",
+      "kind": "render",
+      "original": "Background-removed enhancement of 1002445735.jpg",
+      "products": [
+        "dell-latitude-7290"
+      ],
+      "searchText": "Dell Latitude 7390 Core i5 8th Gen 8GB DDR4 256GB SSD USB-C 13.3 inch",
+      "src": "media-03/dell-latitude-7290-cutout.webp",
+      "thumb": "media-03/dell-latitude-7290-cutout.webp",
+      "title": "Dell Latitude 7390 · Enhanced transparent product view",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "id": "dell-latitude-7290-photo-01",
+      "kind": "photo",
+      "original": "1002445736.jpg",
+      "products": [
+        "dell-latitude-7290"
+      ],
+      "searchText": "Dell Latitude 7390 supplied product photo slim portable USB-C",
+      "src": "media-03/dell-latitude-7290-photo-01.webp",
+      "thumb": "media-03/dell-latitude-7290-photo-01.webp",
+      "title": "Dell Latitude 7390 · Slim profile and ports",
+      "width": 1317,
+      "height": 1484
+    },
+    {
+      "id": "dell-latitude-7290-photo-02",
+      "kind": "photo",
+      "original": "1002445735.jpg",
+      "products": [
+        "dell-latitude-7290"
+      ],
+      "searchText": "Dell Latitude 7390 supplied product photo open laptop keyboard",
+      "src": "media-03/dell-latitude-7290-photo-02.webp",
+      "thumb": "media-03/dell-latitude-7290-photo-02.webp",
+      "title": "Dell Latitude 7390 · Open three-quarter view",
+      "width": 1400,
+      "height": 1518
+    },
+    {
+      "id": "dell-latitude-7290-photo-03",
+      "kind": "photo",
+      "original": "1002445734.jpg",
+      "products": [
+        "dell-latitude-7290"
+      ],
+      "searchText": "Dell Latitude 7390 supplied product photo underside USB-C ports",
+      "src": "media-03/dell-latitude-7290-photo-03.webp",
+      "thumb": "media-03/dell-latitude-7290-photo-03.webp",
+      "title": "Dell Latitude 7390 · Underside and ports",
+      "width": 1400,
+      "height": 1524
+    },
+    {
+      "id": "dell-latitude-7290-photo-04",
+      "kind": "photo",
+      "original": "1002445733.jpg",
+      "products": [
+        "dell-latitude-7290"
+      ],
+      "searchText": "Dell Latitude 7390 supplied product photo carbon texture Dell lid",
+      "src": "media-03/dell-latitude-7290-photo-04.webp",
+      "thumb": "media-03/dell-latitude-7290-photo-04.webp",
+      "title": "Dell Latitude 7390 · Textured rear lid",
+      "width": 1400,
+      "height": 1453
+    },
+    {
+      "id": "dell-latitude-7290-photo-05",
+      "kind": "photo",
+      "original": "1002445732.jpg",
+      "products": [
+        "dell-latitude-7290"
+      ],
+      "searchText": "Dell Latitude 7390 supplied product photo front display backlit keyboard",
+      "src": "media-03/dell-latitude-7290-photo-05.webp",
+      "thumb": "media-03/dell-latitude-7290-photo-05.webp",
+      "title": "Dell Latitude 7390 · Open front view",
+      "width": 1400,
+      "height": 1473
+    },
+    {
+      "id": "nec-versapro-cutout",
+      "kind": "render",
+      "original": "Background-removed enhancement of 1002441543.jpg",
+      "products": [
+        "p25"
+      ],
+      "searchText": "NEC VersaPro 11th Gen Core i5-1135G7 8GB 256GB Intel Iris Xe 14 inch",
+      "src": "media-03/nec-versapro-cutout.webp",
+      "thumb": "media-03/nec-versapro-cutout.webp",
+      "title": "NEC VersaPro · Enhanced transparent product view",
+      "width": 1101,
+      "height": 1193
+    },
+    {
+      "id": "nec-versapro-flyer",
+      "kind": "flyer",
+      "original": "Apex Computers branded flyer · 14 September 2026",
+      "products": [
+        "p25"
+      ],
+      "searchText": "NEC VersaPro flyer 11th Gen Core i5 8GB 256GB Intel Iris Xe 880,000",
+      "src": "media-03/nec-versapro-flyer.webp",
+      "thumb": "media-03/nec-versapro-flyer.webp",
+      "title": "NEC VersaPro · Brand new condition · Apex sales flyer",
+      "width": 1080,
+      "height": 1350,
+      "archived": true,
+      "archiveReason": "Superseded by the verified 16 September 2026 stock and price refresh."
+    },
+    {
+      "id": "nec-versapro-photo-01",
+      "kind": "photo",
+      "original": "1002441544.jpg",
+      "products": [
+        "p25"
+      ],
+      "searchText": "NEC VersaPro supplied product photo brand new condition",
+      "src": "media-03/nec-versapro-photo-01.webp",
+      "thumb": "media-03/nec-versapro-photo-01.webp",
+      "title": "NEC VersaPro · Rear lid view",
+      "width": 1152,
+      "height": 1536
+    },
+    {
+      "id": "nec-versapro-photo-02",
+      "kind": "photo",
+      "original": "1002441543.jpg",
+      "products": [
+        "p25"
+      ],
+      "searchText": "NEC VersaPro supplied product photo brand new condition",
+      "src": "media-04/nec-versapro-photo-02.webp",
+      "thumb": "media-04/nec-versapro-photo-02.webp",
+      "title": "NEC VersaPro · Open front view",
+      "width": 1152,
+      "height": 1536
+    },
+    {
+      "id": "nec-versapro-photo-03",
+      "kind": "photo",
+      "original": "1002441542.jpg",
+      "products": [
+        "p25"
+      ],
+      "searchText": "NEC VersaPro supplied product photo brand new condition ports",
+      "src": "media-04/nec-versapro-photo-03.webp",
+      "thumb": "media-04/nec-versapro-photo-03.webp",
+      "title": "NEC VersaPro · Right-side ports",
+      "width": 1152,
+      "height": 1536
+    },
+    {
+      "id": "nec-versapro-photo-04",
+      "kind": "photo",
+      "original": "1002441541.jpg",
+      "products": [
+        "p25"
+      ],
+      "searchText": "NEC VersaPro supplied product photo brand new condition side profile",
+      "src": "media-04/nec-versapro-photo-04.webp",
+      "thumb": "media-04/nec-versapro-photo-04.webp",
+      "title": "NEC VersaPro · Left-side profile",
+      "width": 1152,
+      "height": 1536
+    },
+    {
+      "id": "hp-elitebook-x360-1030-g7-cutout",
+      "kind": "render",
+      "original": "Background-removed enhancement of 1002435781.jpg",
+      "products": [
+        "hp1030"
+      ],
+      "searchText": "HP EliteBook x360 1030 G7 touchscreen 16GB 256GB Core i7",
+      "src": "media-03/hp-elitebook-x360-1030-g7-cutout.webp",
+      "thumb": "media-03/hp-elitebook-x360-1030-g7-cutout.webp",
+      "title": "HP EliteBook x360 1030 G7 · Enhanced transparent product view",
+      "width": 1417,
+      "height": 1110
+    },
+    {
+      "id": "hp-elitebook-x360-1030-g7-flyer",
+      "kind": "flyer",
+      "original": "Apex Computers branded flyer · 11 September 2026",
+      "products": [
+        "hp1030"
+      ],
+      "searchText": "HP EliteBook x360 1030 G7 flyer touchscreen 16GB 256GB 1,250,000",
+      "src": "media-03/hp-elitebook-x360-1030-g7-flyer.webp",
+      "thumb": "media-03/hp-elitebook-x360-1030-g7-flyer.webp",
+      "title": "HP EliteBook x360 1030 G7 · Apex sales flyer",
+      "width": 1080,
+      "height": 1350,
+      "archived": true,
+      "archiveReason": "Removed from public gallery because the flyer contains a broken placeholder graphic instead of the exact laptop image."
+    },
+    {
+      "id": "hp-elitebook-x360-1030-g7-photo-01",
+      "kind": "photo",
+      "original": "1002435788.jpg",
+      "products": [
+        "hp1030"
+      ],
+      "searchText": "HP EliteBook x360 1030 G7 supplied product photo",
+      "src": "media-03/hp-elitebook-x360-1030-g7-photo-01.webp",
+      "thumb": "media-03/hp-elitebook-x360-1030-g7-photo-01.webp",
+      "title": "HP EliteBook x360 1030 G7 · Open front view",
+      "width": 1152,
+      "height": 1536
+    },
+    {
+      "id": "hp-elitebook-x360-1030-g7-photo-02",
+      "kind": "photo",
+      "original": "1002435787.jpg",
+      "products": [
+        "hp1030"
+      ],
+      "searchText": "HP EliteBook x360 1030 G7 supplied product photo",
+      "src": "media-03/hp-elitebook-x360-1030-g7-photo-02.webp",
+      "thumb": "media-03/hp-elitebook-x360-1030-g7-photo-02.webp",
+      "title": "HP EliteBook x360 1030 G7 · Folded touchscreen view",
+      "width": 1152,
+      "height": 1536
+    },
+    {
+      "id": "hp-elitebook-x360-1030-g7-photo-03",
+      "kind": "photo",
+      "original": "1002435786.jpg",
+      "products": [
+        "hp1030"
+      ],
+      "searchText": "HP EliteBook x360 1030 G7 supplied product photo",
+      "src": "media-03/hp-elitebook-x360-1030-g7-photo-03.webp",
+      "thumb": "media-03/hp-elitebook-x360-1030-g7-photo-03.webp",
+      "title": "HP EliteBook x360 1030 G7 · Tent mode",
+      "width": 1152,
+      "height": 1536
+    },
+    {
+      "id": "hp-elitebook-x360-1030-g7-photo-04",
+      "kind": "photo",
+      "original": "1002435785.jpg",
+      "products": [
+        "hp1030"
+      ],
+      "searchText": "HP EliteBook x360 1030 G7 supplied product photo",
+      "src": "media-03/hp-elitebook-x360-1030-g7-photo-04.webp",
+      "thumb": "media-03/hp-elitebook-x360-1030-g7-photo-04.webp",
+      "title": "HP EliteBook x360 1030 G7 · Keyboard and palm rest",
+      "width": 1152,
+      "height": 1536
+    },
+    {
+      "id": "hp-elitebook-x360-1030-g7-photo-05",
+      "kind": "photo",
+      "original": "1002435783.jpg",
+      "products": [
+        "hp1030"
+      ],
+      "searchText": "HP EliteBook x360 1030 G7 supplied product photo",
+      "src": "media-03/hp-elitebook-x360-1030-g7-photo-05.webp",
+      "thumb": "media-03/hp-elitebook-x360-1030-g7-photo-05.webp",
+      "title": "HP EliteBook x360 1030 G7 · Silver lid view",
+      "width": 1152,
+      "height": 1536
+    },
+    {
+      "id": "hp-elitebook-x360-1030-g7-photo-06",
+      "kind": "photo",
+      "original": "1002435784.jpg",
+      "products": [
+        "hp1030"
+      ],
+      "searchText": "HP EliteBook x360 1030 G7 supplied product photo",
+      "src": "media-03/hp-elitebook-x360-1030-g7-photo-06.webp",
+      "thumb": "media-03/hp-elitebook-x360-1030-g7-photo-06.webp",
+      "title": "HP EliteBook x360 1030 G7 · Side and ports",
+      "width": 1152,
+      "height": 1536
+    },
+    {
+      "id": "hp-elitebook-x360-1030-g7-photo-07",
+      "kind": "photo",
+      "original": "1002435782.jpg",
+      "products": [
+        "hp1030"
+      ],
+      "searchText": "HP EliteBook x360 1030 G7 supplied product photo",
+      "src": "media-03/hp-elitebook-x360-1030-g7-photo-07.webp",
+      "thumb": "media-03/hp-elitebook-x360-1030-g7-photo-07.webp",
+      "title": "HP EliteBook x360 1030 G7 · Underside",
+      "width": 1152,
+      "height": 1536
+    },
+    {
+      "id": "hp-elitebook-x360-1030-g7-photo-08",
+      "kind": "photo",
+      "original": "1002435781.jpg",
+      "products": [
+        "hp1030"
+      ],
+      "searchText": "HP EliteBook x360 1030 G7 supplied product photo",
+      "src": "media-03/hp-elitebook-x360-1030-g7-photo-08.webp",
+      "thumb": "media-03/hp-elitebook-x360-1030-g7-photo-08.webp",
+      "title": "HP EliteBook x360 1030 G7 · Front product view",
+      "width": 1152,
+      "height": 1536
+    },
+    {
+      "id": "hp-zbook-power-g7-cutout",
+      "kind": "render",
+      "original": "Background-removed enhancement of 1002435797.jpg",
+      "products": [
+        "hp-zbook-power-g7"
+      ],
+      "searchText": "HP ZBook Power G7 mobile workstation Core i7 Quadro T2000",
+      "src": "media-03/hp-zbook-power-g7-cutout.webp",
+      "thumb": "media-03/hp-zbook-power-g7-cutout.webp",
+      "title": "HP ZBook Power G7 · Enhanced transparent product view",
+      "width": 1230,
+      "height": 1278
+    },
+    {
+      "id": "hp-zbook-power-g7-flyer",
+      "kind": "flyer",
+      "original": "Apex Computers branded flyer · 11 September 2026",
+      "products": [
+        "hp-zbook-power-g7"
+      ],
+      "searchText": "HP ZBook Power G7 flyer workstation 16GB 512GB Quadro 1,400,000",
+      "src": "media-03/hp-zbook-power-g7-flyer.webp",
+      "thumb": "media-03/hp-zbook-power-g7-flyer.webp",
+      "title": "HP ZBook Power G7 · One unit · Apex sales flyer",
+      "width": 1080,
+      "height": 1350,
+      "archived": true,
+      "archiveReason": "Removed from public gallery because the flyer contains a broken placeholder graphic instead of the exact laptop image."
+    },
+    {
+      "id": "hp-zbook-power-g7-photo-01",
+      "kind": "photo",
+      "original": "1002435803.jpg",
+      "products": [
+        "hp-zbook-power-g7"
+      ],
+      "searchText": "HP ZBook Power G7 supplied product photo",
+      "src": "media-03/hp-zbook-power-g7-photo-01.webp",
+      "thumb": "media-03/hp-zbook-power-g7-photo-01.webp",
+      "title": "HP ZBook Power G7 · Right-side ports",
+      "width": 1152,
+      "height": 1536
+    },
+    {
+      "id": "hp-zbook-power-g7-photo-02",
+      "kind": "photo",
+      "original": "1002435802.jpg",
+      "products": [
+        "hp-zbook-power-g7"
+      ],
+      "searchText": "HP ZBook Power G7 supplied product photo",
+      "src": "media-03/hp-zbook-power-g7-photo-02.webp",
+      "thumb": "media-03/hp-zbook-power-g7-photo-02.webp",
+      "title": "HP ZBook Power G7 · Lid and left-side ports",
+      "width": 1152,
+      "height": 1536
+    },
+    {
+      "id": "hp-zbook-power-g7-photo-03",
+      "kind": "photo",
+      "original": "1002435801.jpg",
+      "products": [
+        "hp-zbook-power-g7"
+      ],
+      "searchText": "HP ZBook Power G7 supplied product photo",
+      "src": "media-03/hp-zbook-power-g7-photo-03.webp",
+      "thumb": "media-03/hp-zbook-power-g7-photo-03.webp",
+      "title": "HP ZBook Power G7 · Open side view",
+      "width": 1152,
+      "height": 1536
+    },
+    {
+      "id": "hp-zbook-power-g7-photo-04",
+      "kind": "photo",
+      "original": "1002435800.jpg",
+      "products": [
+        "hp-zbook-power-g7"
+      ],
+      "searchText": "HP ZBook Power G7 supplied product photo",
+      "src": "media-03/hp-zbook-power-g7-photo-04.webp",
+      "thumb": "media-03/hp-zbook-power-g7-photo-04.webp",
+      "title": "HP ZBook Power G7 · Rear lid view",
+      "width": 1152,
+      "height": 1536
+    },
+    {
+      "id": "hp-zbook-power-g7-photo-05",
+      "kind": "photo",
+      "original": "1002435798.jpg",
+      "products": [
+        "hp-zbook-power-g7"
+      ],
+      "searchText": "HP ZBook Power G7 supplied product photo",
+      "src": "media-03/hp-zbook-power-g7-photo-05.webp",
+      "thumb": "media-03/hp-zbook-power-g7-photo-05.webp",
+      "title": "HP ZBook Power G7 · Open front view",
+      "width": 1152,
+      "height": 1536
+    },
+    {
+      "id": "hp-zbook-power-g7-photo-06",
+      "kind": "photo",
+      "original": "1002435799.jpg",
+      "products": [
+        "hp-zbook-power-g7"
+      ],
+      "searchText": "HP ZBook Power G7 supplied product photo",
+      "src": "media-03/hp-zbook-power-g7-photo-06.webp",
+      "thumb": "media-03/hp-zbook-power-g7-photo-06.webp",
+      "title": "HP ZBook Power G7 · Angled workstation view",
+      "width": 1152,
+      "height": 1536
+    },
+    {
+      "id": "hp-zbook-power-g7-photo-07",
+      "kind": "photo",
+      "original": "1002435797.jpg",
+      "products": [
+        "hp-zbook-power-g7"
+      ],
+      "searchText": "HP ZBook Power G7 supplied product photo",
+      "src": "media-03/hp-zbook-power-g7-photo-07.webp",
+      "thumb": "media-03/hp-zbook-power-g7-photo-07.webp",
+      "title": "HP ZBook Power G7 · Full keyboard and display",
+      "width": 1152,
+      "height": 1536
+    },
+    {
+      "id": "online-lenovo-thinkcentre-neo-50a-24-gen5",
+      "kind": "photo",
+      "original": "Online manufacturer product image",
+      "products": [
+        "aio11"
+      ],
+      "searchText": "Lenovo ThinkCentre Neo 50a 24 Gen 5 all-in-one desktop non-touch cash deal",
+      "src": "media-04/online-lenovo-thinkcentre-neo-50a-24-gen5.webp",
+      "thumb": "media-04/online-lenovo-thinkcentre-neo-50a-24-gen5.webp",
+      "title": "Lenovo ThinkCentre Neo 50a 24 Gen 5 · Official product image",
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "id": "online-hp-24-cr1090nh-white",
+      "kind": "photo",
+      "original": "Online manufacturer product image",
+      "products": [
+        "aio12"
+      ],
+      "searchText": "HP 24-cr1090nh white all-in-one desktop non-touch cash deal",
+      "src": "media-04/online-hp-24-cr1090nh-white.webp",
+      "thumb": "media-04/online-hp-24-cr1090nh-white.webp",
+      "title": "HP 24-cr1090nh · White · Official product image",
+      "width": 1200,
+      "height": 900
+    },
+    {
+      "id": "online-hp-24-cr1081nh-white",
+      "kind": "photo",
+      "original": "Online manufacturer product image",
+      "products": [
+        "aio6"
+      ],
+      "searchText": "HP 24-cr1081nh white all-in-one desktop non-touch cash deal",
+      "src": "media-03/online-hp-24-cr1081nh-white.webp",
+      "thumb": "media-03/online-hp-24-cr1081nh-white.webp",
+      "title": "HP 24-cr1081nh · White · Official product image",
+      "width": 1200,
+      "height": 900,
+      "sourcePage": "https://www.hp.com/emea_africa-en/products/desktops/product-details/2103613816"
+    },
+    {
+      "id": "online-hp-proone-240-g10-black",
+      "kind": "photo",
+      "original": "Online product image",
+      "products": [
+        "aio7"
+      ],
+      "searchText": "HP ProOne 240 G10 black all-in-one desktop non-touch cash deal",
+      "src": "media-04/online-hp-proone-240-g10-black.webp",
+      "thumb": "media-04/online-hp-proone-240-g10-black.webp",
+      "title": "HP ProOne 240 G10 · Black product image",
+      "width": 1200,
+      "height": 1200,
+      "sourcePage": "https://support.hp.com/emea_africa-en/product/product-specs/hp/2101669476"
+    },
+    {
+      "id": "online-hp-27-cr1077nh-white",
+      "kind": "photo",
+      "original": "Online exact-model product image",
+      "products": [
+        "aio8"
+      ],
+      "searchText": "HP 27-cr1077nh white all-in-one desktop non-touch cash deal",
+      "src": "media-04/online-hp-27-cr1077nh-white.webp",
+      "thumb": "media-04/online-hp-27-cr1077nh-white.webp",
+      "title": "HP 27-cr1077nh · White product image",
+      "width": 1000,
+      "height": 1000
+    },
+    {
+      "id": "online-hp-27-cr2033nh-white",
+      "kind": "photo",
+      "original": "Online manufacturer product image",
+      "products": [
+        "aio9"
+      ],
+      "searchText": "HP 27-cr2033nh white all-in-one desktop non-touch cash deal",
+      "src": "media-04/online-hp-27-cr2033nh-white.webp",
+      "thumb": "media-04/online-hp-27-cr2033nh-white.webp",
+      "title": "HP 27-cr2033nh · White · Official product image",
+      "width": 1200,
+      "height": 900,
+      "variantIndex": 0
+    },
+    {
+      "id": "online-hp-27-cr2034nh-black",
+      "kind": "photo",
+      "original": "Online manufacturer product image",
+      "products": [
+        "aio9"
+      ],
+      "searchText": "HP 27-cr2034nh black all-in-one desktop non-touch cash deal",
+      "src": "media-04/online-hp-27-cr2034nh-black.webp",
+      "thumb": "media-04/online-hp-27-cr2034nh-black.webp",
+      "title": "HP 27-cr2034nh · Black · Official product image",
+      "width": 1200,
+      "height": 900,
+      "variantIndex": 1
+    },
+    {
+      "id": "online-hp-27-cr1063nh-white",
+      "kind": "photo",
+      "original": "Online exact-model product image",
+      "products": [
+        "aio10"
+      ],
+      "searchText": "HP 27-cr1063nh white all-in-one desktop cash deal exact stock confirmation required",
+      "src": "media-04/online-hp-27-cr1063nh-white.webp",
+      "thumb": "media-04/online-hp-27-cr1063nh-white.webp",
+      "title": "HP 27-cr1063nh · White product image · Confirm display",
+      "width": 1024,
+      "height": 870
+    },
+    {
+      "id": "apex-usbc-charger-kit",
+      "kind": "flyer",
+      "original": "1002416704.jpg",
+      "products": [
+        "apex-usbc-charger-kit"
+      ],
+      "searchText": "USB-C charger cable kit adapter Lightning 25,000 accessories",
+      "src": "media-02/apex-usbc-charger-kit.webp",
+      "thumb": "media-02/apex-usbc-charger-kit.webp",
+      "title": "USB-C Charger & Cable Kit · Correct Apex contact",
+      "width": 746,
+      "height": 933
+    },
+    {
+      "id": "apex-vga-cable-gold",
+      "kind": "flyer",
+      "original": "1002416698.jpg",
+      "products": [
+        "apex-vga-cable"
+      ],
+      "searchText": "VGA cable male display connector 7,000 accessories",
+      "src": "media-02/apex-vga-cable-gold.webp",
+      "thumb": "media-02/apex-vga-cable-gold.webp",
+      "title": "VGA Cable · Supplied image 1",
+      "width": 746,
+      "height": 933
+    },
+    {
+      "id": "apex-vga-cable-blue",
+      "kind": "flyer",
+      "original": "1002416681.jpg",
+      "products": [
+        "apex-vga-cable"
+      ],
+      "searchText": "VGA cable male display connector 7,000 accessories",
+      "src": "media-02/apex-vga-cable-blue.webp",
+      "thumb": "media-02/apex-vga-cable-blue.webp",
+      "title": "VGA Cable · Supplied image 2",
+      "width": 746,
+      "height": 933
+    },
+    {
+      "id": "apex-laptop-bag-green",
+      "kind": "flyer",
+      "original": "1002416692.jpg",
+      "products": [
+        "apex-laptop-bag"
+      ],
+      "searchText": "green padded laptop bag sleeve 25,000 accessories",
+      "src": "media-02/apex-laptop-bag-green.webp",
+      "thumb": "media-02/apex-laptop-bag-green.webp",
+      "title": "Laptop Bag · Green supplied image",
+      "width": 746,
+      "height": 933
+    },
+    {
+      "id": "apex-laptop-bag-grey",
+      "kind": "flyer",
+      "original": "1002416671.jpg",
+      "products": [
+        "apex-laptop-bag"
+      ],
+      "searchText": "grey padded laptop bag 13 15.6 inch 25,000 accessories",
+      "src": "media-02/apex-laptop-bag-grey.webp",
+      "thumb": "media-02/apex-laptop-bag-grey.webp",
+      "title": "Laptop Bag · Grey supplied image",
+      "width": 746,
+      "height": 944
+    },
+    {
+      "id": "apex-phone-stand-silver",
+      "kind": "flyer",
+      "original": "1002416690.jpg",
+      "products": [
+        "apex-phone-stand"
+      ],
+      "searchText": "folding desktop phone tablet stand silver adjustable 5,000 accessories",
+      "src": "media-02/apex-phone-stand-silver.webp",
+      "thumb": "media-02/apex-phone-stand-silver.webp",
+      "title": "Folding Phone Stand · Silver supplied image",
+      "width": 746,
+      "height": 918
+    },
+    {
+      "id": "apex-phone-stand-purple",
+      "kind": "flyer",
+      "original": "1002416675.jpg",
+      "products": [
+        "apex-phone-stand"
+      ],
+      "searchText": "folding swivel desktop phone stand purple accessories",
+      "src": "media-02/apex-phone-stand-purple.webp",
+      "thumb": "media-02/apex-phone-stand-purple.webp",
+      "title": "Folding Phone Stand · Purple supplied image",
+      "width": 746,
+      "height": 934
+    },
+    {
+      "id": "apex-bass-earphones",
+      "kind": "flyer",
+      "original": "1002416659.jpg",
+      "products": [
+        "apex-bass-earphones"
+      ],
+      "searchText": "wired bass earphones 3.5mm 3,000 accessories",
+      "src": "media-02/apex-bass-earphones.webp",
+      "thumb": "media-02/apex-bass-earphones.webp",
+      "title": "Bass Earphones · Correct Apex contact",
+      "width": 746,
+      "height": 933
+    },
+    {
+      "duration": 20.3,
+      "height": 832,
+      "id": "hp-probook-640-g9-video",
+      "kind": "video",
+      "mime": "video/mp4",
+      "original": "1002416409.mp4",
+      "products": [
+        "hp-probook-640-g9"
+      ],
+      "searchText": "HP ProBook 640 G9 14 inch 12th Gen Intel Core i5-1235U product video",
+      "src": "media-01/hp-probook-640-g9-video.mp4",
+      "thumb": "media-01/hp-probook-640-g9-video-poster.webp",
+      "title": "HP ProBook 640 G9 · Supplied product video",
+      "width": 464
+    },
+    {
+      "height": 1536,
+      "id": "surface-laptop-shared-01",
+      "kind": "photo",
+      "original": "1002416360.jpg",
+      "products": [
+        "surface-laptop-3"
+      ],
+      "searchText": "Microsoft Surface Laptop 3 Microsoft Surface Laptop 4",
+      "src": "media-02/surface-laptop-shared-01.webp",
+      "thumb": "media-02/surface-laptop-shared-01.webp",
+      "title": "Microsoft Surface Laptop 3 / 4 · Supplied photo 01",
+      "width": 1152
+    },
+    {
+      "height": 1536,
+      "id": "surface-laptop-shared-02",
+      "kind": "photo",
+      "original": "1002416359.jpg",
+      "products": [
+        "surface-laptop-3"
+      ],
+      "searchText": "Microsoft Surface Laptop 3 Microsoft Surface Laptop 4",
+      "src": "media-02/surface-laptop-shared-02.webp",
+      "thumb": "media-02/surface-laptop-shared-02.webp",
+      "title": "Microsoft Surface Laptop 3 / 4 · Supplied photo 02",
+      "width": 1152
+    },
+    {
+      "height": 1536,
+      "id": "surface-laptop-shared-03",
+      "kind": "photo",
+      "original": "1002416358.jpg",
+      "products": [
+        "surface-laptop-3"
+      ],
+      "searchText": "Microsoft Surface Laptop 3 Microsoft Surface Laptop 4",
+      "src": "media-02/surface-laptop-shared-03.webp",
+      "thumb": "media-02/surface-laptop-shared-03.webp",
+      "title": "Microsoft Surface Laptop 3 / 4 · Supplied photo 03",
+      "width": 1152
+    },
+    {
+      "height": 1536,
+      "id": "surface-laptop-shared-04",
+      "kind": "photo",
+      "original": "1002416355.jpg",
+      "products": [
+        "surface-laptop-3"
+      ],
+      "searchText": "Microsoft Surface Laptop 3 Microsoft Surface Laptop 4",
+      "src": "media-02/surface-laptop-shared-04.webp",
+      "thumb": "media-02/surface-laptop-shared-04.webp",
+      "title": "Microsoft Surface Laptop 3 / 4 · Supplied photo 04",
+      "width": 1152
+    },
+    {
+      "height": 1536,
+      "id": "surface-laptop-shared-05",
+      "kind": "photo",
+      "original": "1002416357.jpg",
+      "products": [
+        "surface-laptop-3"
+      ],
+      "searchText": "Microsoft Surface Laptop 3 Microsoft Surface Laptop 4",
+      "src": "media-02/surface-laptop-shared-05.webp",
+      "thumb": "media-02/surface-laptop-shared-05.webp",
+      "title": "Microsoft Surface Laptop 3 / 4 · Supplied photo 05",
+      "width": 1152
+    },
+    {
+      "height": 1536,
+      "id": "surface-laptop-shared-06",
+      "kind": "photo",
+      "original": "1002416356.jpg",
+      "products": [
+        "surface-laptop-3"
+      ],
+      "searchText": "Microsoft Surface Laptop 3 Microsoft Surface Laptop 4",
+      "src": "media-02/surface-laptop-shared-06.webp",
+      "thumb": "media-02/surface-laptop-shared-06.webp",
+      "title": "Microsoft Surface Laptop 3 / 4 · Supplied photo 06",
+      "width": 1152
+    },
+    {
+      "height": 1536,
+      "id": "surface-laptop-shared-07",
+      "kind": "photo",
+      "original": "1002416352.jpg",
+      "products": [
+        "surface-laptop-3"
+      ],
+      "searchText": "Microsoft Surface Laptop 3 Microsoft Surface Laptop 4",
+      "src": "media-02/surface-laptop-shared-07.webp",
+      "thumb": "media-02/surface-laptop-shared-07.webp",
+      "title": "Microsoft Surface Laptop 3 / 4 · Supplied photo 07",
+      "width": 1152
+    },
+    {
+      "height": 1536,
+      "id": "surface-laptop-shared-08",
+      "kind": "photo",
+      "original": "1002416351.jpg",
+      "products": [
+        "surface-laptop-3"
+      ],
+      "searchText": "Microsoft Surface Laptop 3 Microsoft Surface Laptop 4",
+      "src": "media-02/surface-laptop-shared-08.webp",
+      "thumb": "media-02/surface-laptop-shared-08.webp",
+      "title": "Microsoft Surface Laptop 3 / 4 · Supplied photo 08",
+      "width": 1152
+    },
+    {
+      "height": 1350,
+      "id": "final-10-hp-elitebook-x360-830-g6",
+      "kind": "flyer",
+      "original": "10-hp-elitebook-x360-830-g6.png",
+      "products": [
+        "p10"
+      ],
+      "searchText": "HP EliteBook x360 830 G6",
+      "src": "media-01/final-10-hp-elitebook-x360-830-g6.webp",
+      "thumb": "media-01/final-10-hp-elitebook-x360-830-g6.webp",
+      "title": "hp elitebook x360 830 g6",
+      "width": 1080,
+      "variantIndex": 1
+    },
+    {
+      "height": 1350,
+      "id": "final-20-hp-elite-x2-g8",
+      "kind": "flyer",
+      "original": "20-hp-elite-x2-g8.png",
+      "products": [
+        "p20"
+      ],
+      "searchText": "HP Elite x2 G8 Tablet",
+      "src": "media-01/final-20-hp-elite-x2-g8.webp",
+      "thumb": "media-01/final-20-hp-elite-x2-g8.webp",
+      "title": "hp elite x2 g8",
+      "width": 1080,
+      "archived": true,
+      "archiveReason": "Superseded by the verified 16 September 2026 stock and price refresh."
+    },
+    {
+      "height": 1350,
+      "id": "final-05-hp-elitebook-840-g8",
+      "kind": "flyer",
+      "original": "05-hp-elitebook-840-g8.png",
+      "products": [
+        "p5"
+      ],
+      "searchText": "HP EliteBook 840 G8",
+      "src": "media-01/final-05-hp-elitebook-840-g8.webp",
+      "thumb": "media-01/final-05-hp-elitebook-840-g8.webp",
+      "title": "hp elitebook 840 g8",
+      "width": 1080,
+      "archived": true,
+      "archiveReason": "Superseded by the verified 16 September 2026 stock and price refresh."
+    },
+    {
+      "height": 1350,
+      "id": "final-11-hp-elitebook-x360-830-g8",
+      "kind": "flyer",
+      "original": "11-hp-elitebook-x360-830-g8.png",
+      "products": [
+        "p11"
+      ],
+      "searchText": "HP EliteBook x360 830 G8",
+      "src": "media-01/final-11-hp-elitebook-x360-830-g8.webp",
+      "thumb": "media-01/final-11-hp-elitebook-x360-830-g8.webp",
+      "title": "hp elitebook x360 830 g8",
+      "width": 1080
+    },
+    {
+      "height": 1350,
+      "id": "final-07-hp-zbook-firefly-14-g7-i5",
+      "kind": "flyer",
+      "original": "07-hp-zbook-firefly-14-g7-i5.png",
+      "products": [
+        "p7"
+      ],
+      "searchText": "HP ZBook Firefly 14 G7 · i5",
+      "src": "media-01/final-07-hp-zbook-firefly-14-g7-i5.webp",
+      "thumb": "media-01/final-07-hp-zbook-firefly-14-g7-i5.webp",
+      "title": "hp zbook firefly 14 g7 i5",
+      "width": 1080,
+      "archived": true,
+      "archiveReason": "Superseded by the verified 16 September 2026 stock and price refresh."
+    },
+    {
+      "height": 1350,
+      "id": "final-08-hp-zbook-firefly-14-g7-i7",
+      "kind": "flyer",
+      "original": "08-hp-zbook-firefly-14-g7-i7.png",
+      "products": [
+        "p7"
+      ],
+      "searchText": "HP ZBook Firefly 14 G7 · i7",
+      "src": "media-01/final-08-hp-zbook-firefly-14-g7-i7.webp",
+      "thumb": "media-01/final-08-hp-zbook-firefly-14-g7-i7.webp",
+      "title": "hp zbook firefly 14 g7 i7",
+      "width": 1080,
+      "variantIndex": 1
+    },
+    {
+      "height": 1350,
+      "id": "final-12-hp-elitebook-x360-1040-g7",
+      "kind": "flyer",
+      "original": "12-hp-elitebook-x360-1040-g7.png",
+      "products": [
+        "p12"
+      ],
+      "searchText": "HP EliteBook x360 1040 G7",
+      "src": "media-01/final-12-hp-elitebook-x360-1040-g7.webp",
+      "thumb": "media-01/final-12-hp-elitebook-x360-1040-g7.webp",
+      "title": "hp elitebook x360 1040 g7",
+      "width": 1080,
+      "archived": true,
+      "archiveReason": "Superseded by the verified 16 September 2026 stock and price refresh."
+    },
+    {
+      "height": 1350,
+      "id": "final-01-dell-latitude-3189",
+      "kind": "flyer",
+      "original": "01-dell-latitude-3189.png",
+      "products": [
+        "p1"
+      ],
+      "searchText": "Dell Latitude 3189 x360",
+      "src": "media-01/final-01-dell-latitude-3189.webp",
+      "thumb": "media-01/final-01-dell-latitude-3189.webp",
+      "title": "dell latitude 3189",
+      "width": 1080,
+      "archived": true,
+      "archiveReason": "Superseded by the verified 16 September 2026 stock and price refresh."
+    },
+    {
+      "height": 1350,
+      "id": "final-22-lenovo-thinkpad-e580",
+      "kind": "flyer",
+      "original": "22-lenovo-thinkpad-e580.png",
+      "products": [
+        "p22"
+      ],
+      "searchText": "Lenovo ThinkPad E580",
+      "src": "media-01/final-22-lenovo-thinkpad-e580.webp",
+      "thumb": "media-01/final-22-lenovo-thinkpad-e580.webp",
+      "title": "lenovo thinkpad e580",
+      "width": 1080,
+      "archived": true,
+      "archiveReason": "Superseded by the verified 16 September 2026 stock and price refresh."
+    },
+    {
+      "height": 1350,
+      "id": "final-03-hp-elitebook-840-g5",
+      "kind": "flyer",
+      "original": "03-hp-elitebook-840-g5.png",
+      "products": [
+        "p3"
+      ],
+      "searchText": "HP EliteBook 840 G5",
+      "src": "media-01/final-03-hp-elitebook-840-g5.webp",
+      "thumb": "media-01/final-03-hp-elitebook-840-g5.webp",
+      "title": "hp elitebook 840 g5",
+      "width": 1080
+    },
+    {
+      "height": 1350,
+      "id": "final-15-lenovo-thinkpad-p43s",
+      "kind": "flyer",
+      "original": "15-lenovo-thinkpad-p43s.png",
+      "products": [
+        "p15"
+      ],
+      "searchText": "Lenovo ThinkPad P43s",
+      "src": "media-01/final-15-lenovo-thinkpad-p43s.webp",
+      "thumb": "media-01/final-15-lenovo-thinkpad-p43s.webp",
+      "title": "lenovo thinkpad p43s",
+      "width": 1080,
+      "archived": true,
+      "archiveReason": "Superseded by the verified 16 September 2026 stock and price refresh."
+    },
+    {
+      "height": 1350,
+      "id": "final-09-hp-elitebook-830-840-g7",
+      "kind": "flyer",
+      "original": "09-hp-elitebook-830-840-g7.png",
+      "products": [
+        "p9"
+      ],
+      "searchText": "HP EliteBook 830 / 840 G7",
+      "src": "media-01/final-09-hp-elitebook-830-840-g7.webp",
+      "thumb": "media-01/final-09-hp-elitebook-830-840-g7.webp",
+      "title": "hp elitebook 830 840 g7",
+      "width": 1080
+    },
+    {
+      "height": 1350,
+      "id": "final-21-hp-probook-x360-435-g8",
+      "kind": "flyer",
+      "original": "21-hp-probook-x360-435-g8.png",
+      "products": [
+        "p21"
+      ],
+      "searchText": "HP ProBook x360 435 G8",
+      "src": "media-01/final-21-hp-probook-x360-435-g8.webp",
+      "thumb": "media-01/final-21-hp-probook-x360-435-g8.webp",
+      "title": "hp probook x360 435 g8",
+      "width": 1080,
+      "archived": true,
+      "archiveReason": "Superseded by the verified 16 September 2026 stock and price refresh."
+    },
+    {
+      "height": 1350,
+      "id": "final-16-lenovo-thinkpad-p14s",
+      "kind": "flyer",
+      "original": "16-lenovo-thinkpad-p14s.png",
+      "products": [
+        "p16"
+      ],
+      "searchText": "Lenovo ThinkPad P14s",
+      "src": "media-01/final-16-lenovo-thinkpad-p14s.webp",
+      "thumb": "media-01/final-16-lenovo-thinkpad-p14s.webp",
+      "title": "lenovo thinkpad p14s",
+      "width": 1080,
+      "archived": true,
+      "archiveReason": "Superseded by the verified 16 September 2026 stock and price refresh."
+    },
+    {
+      "height": 1350,
+      "id": "final-02-hp-probook-x360-11-g5",
+      "kind": "flyer",
+      "original": "02-hp-probook-x360-11-g5.png",
+      "products": [
+        "p2"
+      ],
+      "searchText": "HP ProBook x360 11 G5",
+      "src": "media-01/final-02-hp-probook-x360-11-g5.webp",
+      "thumb": "media-01/final-02-hp-probook-x360-11-g5.webp",
+      "title": "hp probook x360 11 g5",
+      "width": 1080,
+      "archived": true,
+      "archiveReason": "Superseded by the verified 16 September 2026 stock and price refresh."
+    },
+    {
+      "height": 1350,
+      "id": "final-19-hp-elitebook-1040-g9",
+      "kind": "flyer",
+      "original": "19-hp-elitebook-1040-g9.png",
+      "products": [
+        "p19"
+      ],
+      "searchText": "HP EliteBook 1040 G9",
+      "src": "media-01/final-19-hp-elitebook-1040-g9.webp",
+      "thumb": "media-01/final-19-hp-elitebook-1040-g9.webp",
+      "title": "hp elitebook 1040 g9",
+      "width": 1080,
+      "archived": true,
+      "archiveReason": "Superseded by the verified 16 September 2026 stock and price refresh."
+    },
+    {
+      "height": 1350,
+      "id": "final-25-nec-versapro-14",
+      "kind": "flyer",
+      "original": "25-nec-versapro-14.png",
+      "products": [
+        "p25"
+      ],
+      "searchText": "NEC VersaPro",
+      "src": "media-01/final-25-nec-versapro-14.webp",
+      "thumb": "media-01/final-25-nec-versapro-14.webp",
+      "title": "nec versapro 14",
+      "width": 1080,
+      "archived": true,
+      "archiveReason": "Archived in the October 10 QA: the printed price or configuration conflicts with the latest public offer."
+    },
+    {
+      "height": 1350,
+      "id": "final-17-hp-zbook-firefly-g7-i7-32gb",
+      "kind": "flyer",
+      "original": "17-hp-zbook-firefly-g7-i7-32gb.png",
+      "products": [
+        "p7"
+      ],
+      "searchText": "HP ZBook Firefly G7 · 32GB",
+      "src": "media-01/final-17-hp-zbook-firefly-g7-i7-32gb.webp",
+      "thumb": "media-01/final-17-hp-zbook-firefly-g7-i7-32gb.webp",
+      "title": "hp zbook firefly g7 i7 32gb",
+      "width": 1080,
+      "variantIndex": 2
+    },
+    {
+      "height": 1350,
+      "id": "final-24-dell-latitude-5320",
+      "kind": "flyer",
+      "original": "24-dell-latitude-5320.png",
+      "products": [
+        "p24"
+      ],
+      "searchText": "Dell Latitude 5320",
+      "src": "media-01/final-24-dell-latitude-5320.webp",
+      "thumb": "media-01/final-24-dell-latitude-5320.webp",
+      "title": "dell latitude 5320",
+      "width": 1080,
+      "archived": true,
+      "archiveReason": "Superseded by the verified 16 September 2026 stock and price refresh."
+    },
+    {
+      "height": 1350,
+      "id": "final-18-hp-elitebook-1040-g10",
+      "kind": "flyer",
+      "original": "18-hp-elitebook-1040-g10.png",
+      "products": [
+        "p18"
+      ],
+      "searchText": "HP EliteBook 1040 G10",
+      "src": "media-01/final-18-hp-elitebook-1040-g10.webp",
+      "thumb": "media-01/final-18-hp-elitebook-1040-g10.webp",
+      "title": "hp elitebook 1040 g10",
+      "width": 1080,
+      "archived": true,
+      "archiveReason": "Superseded by the verified 16 September 2026 stock and price refresh."
+    },
+    {
+      "height": 1350,
+      "id": "final-13-hp-pavilion-15-ryzen",
+      "kind": "flyer",
+      "original": "13-hp-pavilion-15-ryzen.png",
+      "products": [
+        "p13"
+      ],
+      "searchText": "HP Pavilion 15 Ryzen",
+      "src": "media-01/final-13-hp-pavilion-15-ryzen.webp",
+      "thumb": "media-01/final-13-hp-pavilion-15-ryzen.webp",
+      "title": "hp pavilion 15 ryzen",
+      "width": 1080,
+      "archived": true,
+      "archiveReason": "Superseded by the verified 16 September 2026 stock and price refresh."
+    },
+    {
+      "height": 1350,
+      "id": "final-14-dell-latitude-7400-2in1",
+      "kind": "flyer",
+      "original": "14-dell-latitude-7400-2in1.png",
+      "products": [
+        "p14"
+      ],
+      "searchText": "Dell Latitude 7400 2-in-1",
+      "src": "media-01/final-14-dell-latitude-7400-2in1.webp",
+      "thumb": "media-01/final-14-dell-latitude-7400-2in1.webp",
+      "title": "dell latitude 7400 2in1",
+      "width": 1080,
+      "archived": true,
+      "archiveReason": "Superseded by the verified 16 September 2026 stock and price refresh."
+    },
+    {
+      "height": 1440,
+      "id": "recovered-hp-probook-11-g2-price-drop",
+      "kind": "flyer",
+      "original": "HP ProBook 11 G2 Price Drop.png",
+      "products": [
+        "hp11"
+      ],
+      "searchText": "HP ProBook 11 G2",
+      "src": "media-03/recovered-hp-probook-11-g2-price-drop.webp",
+      "thumb": "media-03/recovered-hp-probook-11-g2-price-drop.webp",
+      "title": "HP ProBook 11 G2 Price Drop",
+      "width": 960
+    },
+    {
+      "height": 1440,
+      "id": "recovered-small-body-big-hustle-hp-elitebook",
+      "kind": "flyer",
+      "original": "Small body, big hustle: HP EliteBook.png",
+      "products": [
+        "hp830"
+      ],
+      "searchText": "HP EliteBook 830 G6",
+      "src": "media-03/recovered-small-body-big-hustle-hp-elitebook.webp",
+      "thumb": "media-03/recovered-small-body-big-hustle-hp-elitebook.webp",
+      "title": "Small body, big hustle: HP EliteBook",
+      "width": 960,
+      "archived": true,
+      "archiveReason": "Archived in the October 10 QA: the printed price or configuration conflicts with the latest public offer."
+    },
+    {
+      "height": 1440,
+      "id": "recovered-thinkpad-x13-yoga-sales-flyer",
+      "kind": "flyer",
+      "original": "ThinkPad X13 Yoga sales flyer.png",
+      "products": [
+        "yoga"
+      ],
+      "searchText": "Lenovo ThinkPad X13 Yoga Gen 2",
+      "src": "media-03/recovered-thinkpad-x13-yoga-sales-flyer.webp",
+      "thumb": "media-03/recovered-thinkpad-x13-yoga-sales-flyer.webp",
+      "title": "ThinkPad X13 Yoga sales flyer",
+      "width": 960
+    },
+    {
+      "height": 1440,
+      "id": "recovered-hp-elitebook-x360-work-smart-flex-hard",
+      "kind": "flyer",
+      "original": "HP EliteBook x360: Work smart, flex hard.png",
+      "products": [
+        "hp1030"
+      ],
+      "searchText": "HP EliteBook x360 1030 G7",
+      "src": "media-03/recovered-hp-elitebook-x360-work-smart-flex-hard.webp",
+      "thumb": "media-03/recovered-hp-elitebook-x360-work-smart-flex-hard.webp",
+      "title": "HP EliteBook x360: Work smart, flex hard",
+      "width": 960
+    },
+    {
+      "height": 1440,
+      "id": "recovered-emerald-hp-elitebook-840-g8-sale",
+      "kind": "flyer",
+      "original": "Emerald HP EliteBook 840 G8 Sale.png",
+      "products": [
+        "p5"
+      ],
+      "searchText": "HP EliteBook 840 G8 · i7",
+      "src": "media-03/recovered-emerald-hp-elitebook-840-g8-sale.webp",
+      "thumb": "media-03/recovered-emerald-hp-elitebook-840-g8-sale.webp",
+      "title": "Emerald HP EliteBook 840 G8 Sale",
+      "width": 683,
+      "variantIndex": 1
+    },
+    {
+      "height": 1440,
+      "id": "recovered-one-laptop-two-attitudes",
+      "kind": "flyer",
+      "original": "One laptop, two attitudes.png",
+      "products": [
+        "dell3390"
+      ],
+      "searchText": "Dell Latitude 3390 2-in-1",
+      "src": "media-03/recovered-one-laptop-two-attitudes.webp",
+      "thumb": "media-03/recovered-one-laptop-two-attitudes.webp",
+      "title": "One laptop, two attitudes",
+      "width": 921
+    },
+    {
+      "height": 1080,
+      "id": "recovered-hp-pavilion-15-silver-laptop-cutout",
+      "kind": "render",
+      "original": "HP Pavilion 15 silver laptop cutout.png",
+      "products": [
+        "p13"
+      ],
+      "searchText": "HP Pavilion 15 Ryzen",
+      "src": "media-03/recovered-hp-pavilion-15-silver-laptop-cutout.webp",
+      "thumb": "media-03/recovered-hp-pavilion-15-silver-laptop-cutout.webp",
+      "title": "HP Pavilion 15 silver laptop cutout",
+      "width": 1440
+    },
+    {
+      "height": 1440,
+      "id": "recovered-silver-hp-elitebook-x360-sales-flyer",
+      "kind": "flyer",
+      "original": "Silver HP EliteBook x360 sales flyer.png",
+      "products": [
+        "hp1040g6"
+      ],
+      "searchText": "HP EliteBook x360 1040 G6",
+      "src": "media-03/recovered-silver-hp-elitebook-x360-sales-flyer.webp",
+      "thumb": "media-03/recovered-silver-hp-elitebook-x360-sales-flyer.webp",
+      "title": "Silver HP EliteBook x360 sales flyer",
+      "width": 921
+    },
+    {
+      "height": 1402,
+      "id": "recovered-upgrade-to-speed-with-futuristic-ssds",
+      "kind": "flyer",
+      "original": "Upgrade to speed with futuristic SSDs.png",
+      "products": [
+        "netac-ssd"
+      ],
+      "searchText": "Netac 256GB M.2 SSD Hiksemi Internal SSD",
+      "src": "media-03/recovered-upgrade-to-speed-with-futuristic-ssds.webp",
+      "thumb": "media-03/recovered-upgrade-to-speed-with-futuristic-ssds.webp",
+      "title": "Upgrade to speed with futuristic SSDs",
+      "width": 1122
+    },
+    {
+      "height": 960,
+      "id": "recovered-hp-zbook-firefly-14-g7-cutout",
+      "kind": "render",
+      "original": "HP ZBook Firefly 14 G7 cutout.png",
+      "products": [
+        "p7"
+      ],
+      "searchText": "HP ZBook Firefly 14 G7 · i5 HP ZBook Firefly 14 G7 · i7",
+      "src": "media-03/recovered-hp-zbook-firefly-14-g7-cutout.webp",
+      "thumb": "media-03/recovered-hp-zbook-firefly-14-g7-cutout.webp",
+      "title": "HP ZBook Firefly 14 G7 cutout",
+      "width": 1440
+    },
+    {
+      "height": 1440,
+      "id": "recovered-hp-elitebook-820-g3-promo",
+      "kind": "flyer",
+      "original": "HP Elitebook 820 G3 promo.png",
+      "products": [
+        "hp820"
+      ],
+      "searchText": "HP EliteBook 820 G3",
+      "src": "media-03/recovered-hp-elitebook-820-g3-promo.webp",
+      "thumb": "media-03/recovered-hp-elitebook-820-g3-promo.webp",
+      "title": "HP Elitebook 820 G3 promo",
+      "width": 810,
+      "archived": true,
+      "archiveReason": "Superseded by newer supplied stock photos and offer in LAPTOP FLYER DESIGN, October 2026."
+    },
+    {
+      "height": 1440,
+      "id": "recovered-detachable-power-and-versatility-in-style",
+      "kind": "flyer",
+      "original": "Detachable power and versatility in style.png",
+      "products": [
+        "x21012"
+      ],
+      "searchText": "HP Elite x2 1012 G2",
+      "src": "media-03/recovered-detachable-power-and-versatility-in-style.webp",
+      "thumb": "media-03/recovered-detachable-power-and-versatility-in-style.webp",
+      "title": "Detachable power and versatility in style",
+      "width": 810
+    },
+    {
+      "height": 1402,
+      "id": "recovered-sunday-special-epson-printer-promo",
+      "kind": "flyer",
+      "original": "Sunday special: Epson printer promo.png",
+      "products": [
+        "epson-l3250"
+      ],
+      "searchText": "Epson EcoTank L3250",
+      "src": "media-03/recovered-sunday-special-epson-printer-promo.webp",
+      "thumb": "media-03/recovered-sunday-special-epson-printer-promo.webp",
+      "title": "Sunday special: Epson printer promo",
+      "width": 1122
+    },
+    {
+      "height": 1440,
+      "id": "recovered-bright-dell-latitude-3189-x360-sales-flyer",
+      "kind": "flyer",
+      "original": "Bright Dell Latitude 3189 X360 sales flyer.png",
+      "products": [
+        "p1"
+      ],
+      "searchText": "Dell Latitude 3189 · Pentium",
+      "src": "media-03/recovered-bright-dell-latitude-3189-x360-sales-flyer.webp",
+      "thumb": "media-03/recovered-bright-dell-latitude-3189-x360-sales-flyer.webp",
+      "title": "Bright Dell Latitude 3189 X360 sales flyer",
+      "width": 921,
+      "archived": true,
+      "archiveReason": "Archived in the October 10 QA: the printed price or configuration conflicts with the latest public offer."
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002319744",
+      "kind": "photo",
+      "original": "1002319744.jpg",
+      "products": [
+        "p16"
+      ],
+      "searchText": "Lenovo ThinkPad P14s",
+      "src": "media-02/recovered-1002319744.webp",
+      "thumb": "media-02/recovered-1002319744.webp",
+      "title": "Lenovo ThinkPad P14s · Product photo",
+      "width": 1080
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002303035",
+      "kind": "photo",
+      "original": "1002303035.jpg",
+      "products": [
+        "xps9350"
+      ],
+      "searchText": "Dell XPS 13 9350",
+      "src": "media-02/recovered-1002303035.webp",
+      "thumb": "media-02/recovered-1002303035.webp",
+      "title": "Dell XPS 13 9350 · Product photo",
+      "width": 1080
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002279380-1",
+      "kind": "photo",
+      "original": "1002279380(1).jpg",
+      "products": [
+        "x21012"
+      ],
+      "searchText": "HP Elite x2 1012 G2",
+      "src": "media-02/recovered-1002279380-1.webp",
+      "thumb": "media-02/recovered-1002279380-1.webp",
+      "title": "HP Elite x2 1012 G2 · Product photo",
+      "width": 1237
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002303827",
+      "kind": "photo",
+      "original": "1002303827.jpg",
+      "products": [
+        "p21"
+      ],
+      "searchText": "HP ProBook x360 435 G8",
+      "src": "media-02/recovered-1002303827.webp",
+      "thumb": "media-02/recovered-1002303827.webp",
+      "title": "HP ProBook x360 435 G8 · Product photo",
+      "width": 1080
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002303165-1",
+      "kind": "photo",
+      "original": "1002303165(1).jpg",
+      "products": [
+        "dell5300"
+      ],
+      "searchText": "Dell Latitude 5300 2-in-1",
+      "src": "media-02/recovered-1002303165-1.webp",
+      "thumb": "media-02/recovered-1002303165-1.webp",
+      "title": "Dell Latitude 5300 2-in-1 · Product photo",
+      "width": 1080
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002303754",
+      "kind": "photo",
+      "original": "1002303754.jpg",
+      "products": [
+        "hp845"
+      ],
+      "searchText": "HP EliteBook 845 G8",
+      "src": "media-02/recovered-1002303754.webp",
+      "thumb": "media-02/recovered-1002303754.webp",
+      "title": "HP EliteBook 845 G8 · Product photo",
+      "width": 1080
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002234109",
+      "kind": "photo",
+      "original": "1002234109.jpg",
+      "products": [
+        "hp820"
+      ],
+      "searchText": "HP EliteBook 820 G3",
+      "src": "media-02/recovered-1002234109.webp",
+      "thumb": "media-02/recovered-1002234109.webp",
+      "title": "HP EliteBook 820 G3 · Product photo",
+      "width": 1080,
+      "archived": true,
+      "archiveReason": "Superseded by newer supplied stock photos and offer in LAPTOP FLYER DESIGN, October 2026."
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002234107",
+      "kind": "photo",
+      "original": "1002234107.jpg",
+      "products": [
+        "hp820"
+      ],
+      "searchText": "HP EliteBook 820 G3",
+      "src": "media-02/recovered-1002234107.webp",
+      "thumb": "media-02/recovered-1002234107.webp",
+      "title": "HP EliteBook 820 G3 · Product photo",
+      "width": 1080,
+      "archived": true,
+      "archiveReason": "Superseded by newer supplied stock photos and offer in LAPTOP FLYER DESIGN, October 2026."
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002319566",
+      "kind": "photo",
+      "original": "1002319566.jpg",
+      "products": [
+        "hp1040g6"
+      ],
+      "searchText": "HP EliteBook x360 1040 G6",
+      "src": "media-02/recovered-1002319566.webp",
+      "thumb": "media-02/recovered-1002319566.webp",
+      "title": "HP EliteBook x360 1040 G6 · Product photo",
+      "width": 1080
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002320187",
+      "kind": "photo",
+      "original": "1002320187.jpg",
+      "products": [
+        "hp11"
+      ],
+      "searchText": "HP ProBook 11 G2",
+      "src": "media-03/recovered-1002320187.webp",
+      "thumb": "media-03/recovered-1002320187.webp",
+      "title": "HP ProBook 11 G2 · Product photo",
+      "width": 1080
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002319661",
+      "kind": "photo",
+      "original": "1002319661.jpg",
+      "products": [
+        "p5"
+      ],
+      "searchText": "HP EliteBook 840 G8 · i7",
+      "src": "media-02/recovered-1002319661.webp",
+      "thumb": "media-02/recovered-1002319661.webp",
+      "title": "HP EliteBook 840 G8 · i7 · Product photo",
+      "width": 1080
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002279383-1",
+      "kind": "photo",
+      "original": "1002279383(1).jpg",
+      "products": [
+        "x21012"
+      ],
+      "searchText": "HP Elite x2 1012 G2",
+      "src": "media-02/recovered-1002279383-1.webp",
+      "thumb": "media-02/recovered-1002279383-1.webp",
+      "title": "HP Elite x2 1012 G2 · Product photo",
+      "width": 1251
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002185167",
+      "kind": "photo",
+      "original": "1002185167.jpg",
+      "products": [
+        "p7"
+      ],
+      "searchText": "HP ZBook Firefly G7 · 32GB",
+      "src": "media-02/recovered-1002185167.webp",
+      "thumb": "media-02/recovered-1002185167.webp",
+      "title": "HP ZBook Firefly G7 · 32GB · Product photo",
+      "width": 1080
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002303161",
+      "kind": "photo",
+      "original": "1002303161.jpg",
+      "products": [
+        "dell5300"
+      ],
+      "searchText": "Dell Latitude 5300 2-in-1",
+      "src": "media-02/recovered-1002303161.webp",
+      "thumb": "media-02/recovered-1002303161.webp",
+      "title": "Dell Latitude 5300 2-in-1 · Product photo",
+      "width": 1080
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002303167",
+      "kind": "photo",
+      "original": "1002303167.jpg",
+      "products": [
+        "dell5300"
+      ],
+      "searchText": "Dell Latitude 5300 2-in-1",
+      "src": "media-02/recovered-1002303167.webp",
+      "thumb": "media-02/recovered-1002303167.webp",
+      "title": "Dell Latitude 5300 2-in-1 · Product photo",
+      "width": 1080
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002303695",
+      "kind": "photo",
+      "original": "1002303695.jpg",
+      "products": [
+        "carbon8"
+      ],
+      "searchText": "Lenovo ThinkPad X1 Carbon Gen 8",
+      "src": "media-02/recovered-1002303695.webp",
+      "thumb": "media-02/recovered-1002303695.webp",
+      "title": "Lenovo ThinkPad X1 Carbon Gen 8 · Product photo",
+      "width": 1080
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002385291",
+      "kind": "photo",
+      "original": "1002385291.jpg",
+      "products": [
+        "dell3390"
+      ],
+      "searchText": "Dell Latitude 3390 2-in-1",
+      "src": "media-03/recovered-1002385291.webp",
+      "thumb": "media-03/recovered-1002385291.webp",
+      "title": "Dell Latitude 3390 2-in-1 · Product photo",
+      "width": 1080
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002320185",
+      "kind": "photo",
+      "original": "1002320185.jpg",
+      "products": [
+        "hp11"
+      ],
+      "searchText": "HP ProBook 11 G2",
+      "src": "media-03/recovered-1002320185.webp",
+      "thumb": "media-03/recovered-1002320185.webp",
+      "title": "HP ProBook 11 G2 · Product photo",
+      "width": 1080
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002303160",
+      "kind": "photo",
+      "original": "1002303160.jpg",
+      "products": [
+        "dell5300"
+      ],
+      "searchText": "Dell Latitude 5300 2-in-1",
+      "src": "media-02/recovered-1002303160.webp",
+      "thumb": "media-02/recovered-1002303160.webp",
+      "title": "Dell Latitude 5300 2-in-1 · Product photo",
+      "width": 1080
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002303752-1",
+      "kind": "photo",
+      "original": "1002303752(1).jpg",
+      "products": [
+        "hp845"
+      ],
+      "searchText": "HP EliteBook 845 G8",
+      "src": "media-02/recovered-1002303752-1.webp",
+      "thumb": "media-02/recovered-1002303752-1.webp",
+      "title": "HP EliteBook 845 G8 · Product photo",
+      "width": 1080
+    },
+    {
+      "height": 1352,
+      "id": "recovered-1002353930",
+      "kind": "photo",
+      "original": "1002353930.jpg",
+      "products": [
+        "hp830"
+      ],
+      "searchText": "HP EliteBook 830 G6",
+      "src": "media-03/recovered-1002353930.webp",
+      "thumb": "media-03/recovered-1002353930.webp",
+      "title": "HP EliteBook 830 G6 · Product photo",
+      "width": 1440
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002303163",
+      "kind": "photo",
+      "original": "1002303163.jpg",
+      "products": [
+        "dell5300"
+      ],
+      "searchText": "Dell Latitude 5300 2-in-1",
+      "src": "media-02/recovered-1002303163.webp",
+      "thumb": "media-02/recovered-1002303163.webp",
+      "title": "Dell Latitude 5300 2-in-1 · Product photo",
+      "width": 1080
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002361101",
+      "kind": "photo",
+      "original": "1002361101.jpg",
+      "products": [
+        "yoga"
+      ],
+      "searchText": "Lenovo ThinkPad X13 Yoga Gen 2",
+      "src": "media-03/recovered-1002361101.webp",
+      "thumb": "media-03/recovered-1002361101.webp",
+      "title": "Lenovo ThinkPad X13 Yoga Gen 2 · Product photo",
+      "width": 1080
+    },
+    {
+      "height": 1133,
+      "id": "recovered-1002353929",
+      "kind": "photo",
+      "original": "1002353929.jpg",
+      "products": [
+        "hp830"
+      ],
+      "searchText": "HP EliteBook 830 G6",
+      "src": "media-03/recovered-1002353929.webp",
+      "thumb": "media-03/recovered-1002353929.webp",
+      "title": "HP EliteBook 830 G6 · Product photo",
+      "width": 1440
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002234108",
+      "kind": "photo",
+      "original": "1002234108.jpg",
+      "products": [
+        "hp820"
+      ],
+      "searchText": "HP EliteBook 820 G3",
+      "src": "media-02/recovered-1002234108.webp",
+      "thumb": "media-02/recovered-1002234108.webp",
+      "title": "HP EliteBook 820 G3 · Product photo",
+      "width": 1080,
+      "archived": true,
+      "archiveReason": "Superseded by newer supplied stock photos and offer in LAPTOP FLYER DESIGN, October 2026."
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002185168",
+      "kind": "photo",
+      "original": "1002185168.jpg",
+      "products": [
+        "p7"
+      ],
+      "searchText": "HP ZBook Firefly G7 · 32GB",
+      "src": "media-02/recovered-1002185168.webp",
+      "thumb": "media-02/recovered-1002185168.webp",
+      "title": "HP ZBook Firefly G7 · 32GB · Product photo",
+      "width": 1080
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002279381",
+      "kind": "photo",
+      "original": "1002279381.jpg",
+      "products": [
+        "x21012"
+      ],
+      "searchText": "HP Elite x2 1012 G2",
+      "src": "media-02/recovered-1002279381.webp",
+      "thumb": "media-02/recovered-1002279381.webp",
+      "title": "HP Elite x2 1012 G2 · Product photo",
+      "width": 1210
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002303030",
+      "kind": "photo",
+      "original": "1002303030.jpg",
+      "products": [
+        "xps9350"
+      ],
+      "searchText": "Dell XPS 13 9350",
+      "src": "media-02/recovered-1002303030.webp",
+      "thumb": "media-02/recovered-1002303030.webp",
+      "title": "Dell XPS 13 9350 · Product photo",
+      "width": 1080
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002361103",
+      "kind": "photo",
+      "original": "1002361103.jpg",
+      "products": [
+        "yoga"
+      ],
+      "searchText": "Lenovo ThinkPad X13 Yoga Gen 2",
+      "src": "media-03/recovered-1002361103.webp",
+      "thumb": "media-03/recovered-1002361103.webp",
+      "title": "Lenovo ThinkPad X13 Yoga Gen 2 · Product photo",
+      "width": 1080
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002385295",
+      "kind": "photo",
+      "original": "1002385295.jpg",
+      "products": [
+        "dell3390"
+      ],
+      "searchText": "Dell Latitude 3390 2-in-1",
+      "src": "media-03/recovered-1002385295.webp",
+      "thumb": "media-03/recovered-1002385295.webp",
+      "title": "Dell Latitude 3390 2-in-1 · Product photo",
+      "width": 1080
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002303753",
+      "kind": "photo",
+      "original": "1002303753.jpg",
+      "products": [
+        "hp845"
+      ],
+      "searchText": "HP EliteBook 845 G8",
+      "src": "media-02/recovered-1002303753.webp",
+      "thumb": "media-02/recovered-1002303753.webp",
+      "title": "HP EliteBook 845 G8 · Product photo",
+      "width": 1080
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002319567",
+      "kind": "photo",
+      "original": "1002319567.jpg",
+      "products": [
+        "hp1040g6"
+      ],
+      "searchText": "HP EliteBook x360 1040 G6",
+      "src": "media-02/recovered-1002319567.webp",
+      "thumb": "media-02/recovered-1002319567.webp",
+      "title": "HP EliteBook x360 1040 G6 · Product photo",
+      "width": 1080
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002303037",
+      "kind": "photo",
+      "original": "1002303037.jpg",
+      "products": [
+        "xps9350"
+      ],
+      "searchText": "Dell XPS 13 9350",
+      "src": "media-02/recovered-1002303037.webp",
+      "thumb": "media-02/recovered-1002303037.webp",
+      "title": "Dell XPS 13 9350 · Product photo",
+      "width": 1080
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002320181",
+      "kind": "photo",
+      "original": "1002320181.jpg",
+      "products": [
+        "hp11"
+      ],
+      "searchText": "HP ProBook 11 G2",
+      "src": "media-03/recovered-1002320181.webp",
+      "thumb": "media-03/recovered-1002320181.webp",
+      "title": "HP ProBook 11 G2 · Product photo",
+      "width": 1080
+    },
+    {
+      "height": 774,
+      "id": "recovered-1002373381",
+      "kind": "photo",
+      "original": "1002373381.jpg",
+      "products": [
+        "p1"
+      ],
+      "searchText": "Dell Latitude 3189 · Pentium",
+      "src": "media-03/recovered-1002373381.webp",
+      "thumb": "media-03/recovered-1002373381.webp",
+      "title": "Dell Latitude 3189 · Pentium · Product photo",
+      "width": 1440
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002319740",
+      "kind": "photo",
+      "original": "1002319740.jpg",
+      "products": [
+        "p16"
+      ],
+      "searchText": "Lenovo ThinkPad P14s",
+      "src": "media-02/recovered-1002319740.webp",
+      "thumb": "media-02/recovered-1002319740.webp",
+      "title": "Lenovo ThinkPad P14s · Product photo",
+      "width": 1080
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002373380",
+      "kind": "photo",
+      "original": "1002373380.jpg",
+      "products": [
+        "p1"
+      ],
+      "searchText": "Dell Latitude 3189 · Pentium",
+      "src": "media-03/recovered-1002373380.webp",
+      "thumb": "media-03/recovered-1002373380.webp",
+      "title": "Dell Latitude 3189 · Pentium · Product photo",
+      "width": 1260
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002303166-1",
+      "kind": "photo",
+      "original": "1002303166(1).jpg",
+      "products": [
+        "dell5300"
+      ],
+      "searchText": "Dell Latitude 5300 2-in-1",
+      "src": "media-02/recovered-1002303166-1.webp",
+      "thumb": "media-02/recovered-1002303166-1.webp",
+      "title": "Dell Latitude 5300 2-in-1 · Product photo",
+      "width": 1080
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002320182",
+      "kind": "photo",
+      "original": "1002320182.jpg",
+      "products": [
+        "hp11"
+      ],
+      "searchText": "HP ProBook 11 G2",
+      "src": "media-03/recovered-1002320182.webp",
+      "thumb": "media-03/recovered-1002320182.webp",
+      "title": "HP ProBook 11 G2 · Product photo",
+      "width": 1080
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002319660",
+      "kind": "photo",
+      "original": "1002319660.jpg",
+      "products": [
+        "p5"
+      ],
+      "searchText": "HP EliteBook 840 G8 · i7",
+      "src": "media-02/recovered-1002319660.webp",
+      "thumb": "media-02/recovered-1002319660.webp",
+      "title": "HP EliteBook 840 G8 · i7 · Product photo",
+      "width": 1080
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002303697",
+      "kind": "photo",
+      "original": "1002303697.jpg",
+      "products": [
+        "carbon8"
+      ],
+      "searchText": "Lenovo ThinkPad X1 Carbon Gen 8",
+      "src": "media-02/recovered-1002303697.webp",
+      "thumb": "media-02/recovered-1002303697.webp",
+      "title": "Lenovo ThinkPad X1 Carbon Gen 8 · Product photo",
+      "width": 1080
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002303162",
+      "kind": "photo",
+      "original": "1002303162.jpg",
+      "products": [
+        "dell5300"
+      ],
+      "searchText": "Dell Latitude 5300 2-in-1",
+      "src": "media-02/recovered-1002303162.webp",
+      "thumb": "media-02/recovered-1002303162.webp",
+      "title": "Dell Latitude 5300 2-in-1 · Product photo",
+      "width": 1080
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002279382-2",
+      "kind": "photo",
+      "original": "1002279382(2).jpg",
+      "products": [
+        "x21012"
+      ],
+      "searchText": "HP Elite x2 1012 G2",
+      "src": "media-02/recovered-1002279382-2.webp",
+      "thumb": "media-02/recovered-1002279382-2.webp",
+      "title": "HP Elite x2 1012 G2 · Product photo",
+      "width": 1197
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002361097",
+      "kind": "photo",
+      "original": "1002361097.jpg",
+      "products": [
+        "yoga"
+      ],
+      "searchText": "Lenovo ThinkPad X13 Yoga Gen 2",
+      "src": "media-03/recovered-1002361097.webp",
+      "thumb": "media-03/recovered-1002361097.webp",
+      "title": "Lenovo ThinkPad X13 Yoga Gen 2 · Product photo",
+      "width": 1080
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002361099",
+      "kind": "photo",
+      "original": "1002361099.jpg",
+      "products": [
+        "yoga"
+      ],
+      "searchText": "Lenovo ThinkPad X13 Yoga Gen 2",
+      "src": "media-03/recovered-1002361099.webp",
+      "thumb": "media-03/recovered-1002361099.webp",
+      "title": "Lenovo ThinkPad X13 Yoga Gen 2 · Product photo",
+      "width": 1080
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002385290",
+      "kind": "photo",
+      "original": "1002385290.jpg",
+      "products": [
+        "dell3390"
+      ],
+      "searchText": "Dell Latitude 3390 2-in-1",
+      "src": "media-03/recovered-1002385290.webp",
+      "thumb": "media-03/recovered-1002385290.webp",
+      "title": "Dell Latitude 3390 2-in-1 · Product photo",
+      "width": 1080
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002303829",
+      "kind": "photo",
+      "original": "1002303829.jpg",
+      "products": [
+        "p21"
+      ],
+      "searchText": "HP ProBook x360 435 G8",
+      "src": "media-02/recovered-1002303829.webp",
+      "thumb": "media-02/recovered-1002303829.webp",
+      "title": "HP ProBook x360 435 G8 · Product photo",
+      "width": 1080
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002373375",
+      "kind": "photo",
+      "original": "1002373375.jpg",
+      "products": [
+        "p1"
+      ],
+      "searchText": "Dell Latitude 3189 · Pentium",
+      "src": "media-03/recovered-1002373375.webp",
+      "thumb": "media-03/recovered-1002373375.webp",
+      "title": "Dell Latitude 3189 · Pentium · Product photo",
+      "width": 1172
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002202569",
+      "kind": "photo",
+      "original": "1002202569.jpg",
+      "products": [
+        "p20"
+      ],
+      "searchText": "HP Elite x2 G8 Tablet",
+      "src": "media-02/recovered-1002202569.webp",
+      "thumb": "media-02/recovered-1002202569.webp",
+      "title": "HP Elite x2 G8 Tablet · Product photo",
+      "width": 1176
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002303032",
+      "kind": "photo",
+      "original": "1002303032.jpg",
+      "products": [
+        "xps9350"
+      ],
+      "searchText": "Dell XPS 13 9350",
+      "src": "media-02/recovered-1002303032.webp",
+      "thumb": "media-02/recovered-1002303032.webp",
+      "title": "Dell XPS 13 9350 · Product photo",
+      "width": 1080
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002202567",
+      "kind": "photo",
+      "original": "1002202567.jpg",
+      "products": [
+        "p20"
+      ],
+      "searchText": "HP Elite x2 G8 Tablet",
+      "src": "media-02/recovered-1002202567.webp",
+      "thumb": "media-02/recovered-1002202567.webp",
+      "title": "HP Elite x2 G8 Tablet · Product photo",
+      "width": 1148
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002303031",
+      "kind": "photo",
+      "original": "1002303031.jpg",
+      "products": [
+        "xps9350"
+      ],
+      "searchText": "Dell XPS 13 9350",
+      "src": "media-02/recovered-1002303031.webp",
+      "thumb": "media-02/recovered-1002303031.webp",
+      "title": "Dell XPS 13 9350 · Product photo",
+      "width": 1080
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002303755-1",
+      "kind": "photo",
+      "original": "1002303755(1).jpg",
+      "products": [
+        "hp845"
+      ],
+      "searchText": "HP EliteBook 845 G8",
+      "src": "media-02/recovered-1002303755-1.webp",
+      "thumb": "media-02/recovered-1002303755-1.webp",
+      "title": "HP EliteBook 845 G8 · Product photo",
+      "width": 1080
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002385288",
+      "kind": "photo",
+      "original": "1002385288.jpg",
+      "products": [
+        "dell3390"
+      ],
+      "searchText": "Dell Latitude 3390 2-in-1",
+      "src": "media-03/recovered-1002385288.webp",
+      "thumb": "media-03/recovered-1002385288.webp",
+      "title": "Dell Latitude 3390 2-in-1 · Product photo",
+      "width": 1080
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002185171",
+      "kind": "photo",
+      "original": "1002185171.jpg",
+      "products": [
+        "p7"
+      ],
+      "searchText": "HP ZBook Firefly G7 · 32GB",
+      "src": "media-02/recovered-1002185171.webp",
+      "thumb": "media-02/recovered-1002185171.webp",
+      "title": "HP ZBook Firefly G7 · 32GB · Product photo",
+      "width": 1080
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002303828",
+      "kind": "photo",
+      "original": "1002303828.jpg",
+      "products": [
+        "p21"
+      ],
+      "searchText": "HP ProBook x360 435 G8",
+      "src": "media-02/recovered-1002303828.webp",
+      "thumb": "media-02/recovered-1002303828.webp",
+      "title": "HP ProBook x360 435 G8 · Product photo",
+      "width": 1080
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002319563",
+      "kind": "photo",
+      "original": "1002319563.jpg",
+      "products": [
+        "hp1040g6"
+      ],
+      "searchText": "HP EliteBook x360 1040 G6",
+      "src": "media-02/recovered-1002319563.webp",
+      "thumb": "media-02/recovered-1002319563.webp",
+      "title": "HP EliteBook x360 1040 G6 · Product photo",
+      "width": 1080
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002353927",
+      "kind": "photo",
+      "original": "1002353927.jpg",
+      "products": [
+        "hp830"
+      ],
+      "searchText": "HP EliteBook 830 G6",
+      "src": "media-03/recovered-1002353927.webp",
+      "thumb": "media-03/recovered-1002353927.webp",
+      "title": "HP EliteBook 830 G6 · Product photo",
+      "width": 1346
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002319742",
+      "kind": "photo",
+      "original": "1002319742.jpg",
+      "products": [
+        "p16"
+      ],
+      "searchText": "Lenovo ThinkPad P14s",
+      "src": "media-02/recovered-1002319742.webp",
+      "thumb": "media-02/recovered-1002319742.webp",
+      "title": "Lenovo ThinkPad P14s · Product photo",
+      "width": 1080
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002234110",
+      "kind": "photo",
+      "original": "1002234110.jpg",
+      "products": [
+        "hp820"
+      ],
+      "searchText": "HP EliteBook 820 G3",
+      "src": "media-02/recovered-1002234110.webp",
+      "thumb": "media-02/recovered-1002234110.webp",
+      "title": "HP EliteBook 820 G3 · Product photo",
+      "width": 1080,
+      "archived": true,
+      "archiveReason": "Superseded by newer supplied stock photos and offer in LAPTOP FLYER DESIGN, October 2026."
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002303164",
+      "kind": "photo",
+      "original": "1002303164.jpg",
+      "products": [
+        "dell5300"
+      ],
+      "searchText": "Dell Latitude 5300 2-in-1",
+      "src": "media-02/recovered-1002303164.webp",
+      "thumb": "media-02/recovered-1002303164.webp",
+      "title": "Dell Latitude 5300 2-in-1 · Product photo",
+      "width": 1080
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002319565",
+      "kind": "photo",
+      "original": "1002319565.jpg",
+      "products": [
+        "hp1040g6"
+      ],
+      "searchText": "HP EliteBook x360 1040 G6",
+      "src": "media-02/recovered-1002319565.webp",
+      "thumb": "media-02/recovered-1002319565.webp",
+      "title": "HP EliteBook x360 1040 G6 · Product photo",
+      "width": 1080
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002319662",
+      "kind": "photo",
+      "original": "1002319662.jpg",
+      "products": [
+        "p5"
+      ],
+      "searchText": "HP EliteBook 840 G8 · i7",
+      "src": "media-02/recovered-1002319662.webp",
+      "thumb": "media-02/recovered-1002319662.webp",
+      "title": "HP EliteBook 840 G8 · i7 · Product photo",
+      "width": 1080
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002320183",
+      "kind": "photo",
+      "original": "1002320183.jpg",
+      "products": [
+        "hp11"
+      ],
+      "searchText": "HP ProBook 11 G2",
+      "src": "media-03/recovered-1002320183.webp",
+      "thumb": "media-03/recovered-1002320183.webp",
+      "title": "HP ProBook 11 G2 · Product photo",
+      "width": 1080
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002202571",
+      "kind": "photo",
+      "original": "1002202571.jpg",
+      "products": [
+        "p20"
+      ],
+      "searchText": "HP Elite x2 G8 Tablet",
+      "src": "media-02/recovered-1002202571.webp",
+      "thumb": "media-02/recovered-1002202571.webp",
+      "title": "HP Elite x2 G8 Tablet · Product photo",
+      "width": 1080
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002361104",
+      "kind": "photo",
+      "original": "1002361104.jpg",
+      "products": [
+        "yoga"
+      ],
+      "searchText": "Lenovo ThinkPad X13 Yoga Gen 2",
+      "src": "media-03/recovered-1002361104.webp",
+      "thumb": "media-03/recovered-1002361104.webp",
+      "title": "Lenovo ThinkPad X13 Yoga Gen 2 · Product photo",
+      "width": 1080
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002303756-1",
+      "kind": "photo",
+      "original": "1002303756(1).jpg",
+      "products": [
+        "hp845"
+      ],
+      "searchText": "HP EliteBook 845 G8",
+      "src": "media-02/recovered-1002303756-1.webp",
+      "thumb": "media-02/recovered-1002303756-1.webp",
+      "title": "HP EliteBook 845 G8 · Product photo",
+      "width": 1080
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002185170",
+      "kind": "photo",
+      "original": "1002185170.jpg",
+      "products": [
+        "p7"
+      ],
+      "searchText": "HP ZBook Firefly G7 · 32GB",
+      "src": "media-02/recovered-1002185170.webp",
+      "thumb": "media-02/recovered-1002185170.webp",
+      "title": "HP ZBook Firefly G7 · 32GB · Product photo",
+      "width": 1080
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002385294",
+      "kind": "photo",
+      "original": "1002385294.jpg",
+      "products": [
+        "dell3390"
+      ],
+      "searchText": "Dell Latitude 3390 2-in-1",
+      "src": "media-03/recovered-1002385294.webp",
+      "thumb": "media-03/recovered-1002385294.webp",
+      "title": "Dell Latitude 3390 2-in-1 · Product photo",
+      "width": 1080
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002385297",
+      "kind": "photo",
+      "original": "1002385297.jpg",
+      "products": [
+        "dell3390"
+      ],
+      "searchText": "Dell Latitude 3390 2-in-1",
+      "src": "media-03/recovered-1002385297.webp",
+      "thumb": "media-03/recovered-1002385297.webp",
+      "title": "Dell Latitude 3390 2-in-1 · Product photo",
+      "width": 1080
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002303036",
+      "kind": "photo",
+      "original": "1002303036.jpg",
+      "products": [
+        "xps9350"
+      ],
+      "searchText": "Dell XPS 13 9350",
+      "src": "media-02/recovered-1002303036.webp",
+      "thumb": "media-02/recovered-1002303036.webp",
+      "title": "Dell XPS 13 9350 · Product photo",
+      "width": 1080
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002319741",
+      "kind": "photo",
+      "original": "1002319741.jpg",
+      "products": [
+        "p16"
+      ],
+      "searchText": "Lenovo ThinkPad P14s",
+      "src": "media-02/recovered-1002319741.webp",
+      "thumb": "media-02/recovered-1002319741.webp",
+      "title": "Lenovo ThinkPad P14s · Product photo",
+      "width": 1080
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002319659",
+      "kind": "photo",
+      "original": "1002319659.jpg",
+      "products": [
+        "p5"
+      ],
+      "searchText": "HP EliteBook 840 G8 · i7",
+      "src": "media-02/recovered-1002319659.webp",
+      "thumb": "media-02/recovered-1002319659.webp",
+      "title": "HP EliteBook 840 G8 · i7 · Product photo",
+      "width": 1080
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002361098",
+      "kind": "photo",
+      "original": "1002361098.jpg",
+      "products": [
+        "yoga"
+      ],
+      "searchText": "Lenovo ThinkPad X13 Yoga Gen 2",
+      "src": "media-03/recovered-1002361098.webp",
+      "thumb": "media-03/recovered-1002361098.webp",
+      "title": "Lenovo ThinkPad X13 Yoga Gen 2 · Product photo",
+      "width": 1080
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002320186",
+      "kind": "photo",
+      "original": "1002320186.jpg",
+      "products": [
+        "hp11"
+      ],
+      "searchText": "HP ProBook 11 G2",
+      "src": "media-03/recovered-1002320186.webp",
+      "thumb": "media-03/recovered-1002320186.webp",
+      "title": "HP ProBook 11 G2 · Product photo",
+      "width": 1080
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002185169",
+      "kind": "photo",
+      "original": "1002185169.jpg",
+      "products": [
+        "p7"
+      ],
+      "searchText": "HP ZBook Firefly G7 · 32GB",
+      "src": "media-02/recovered-1002185169.webp",
+      "thumb": "media-02/recovered-1002185169.webp",
+      "title": "HP ZBook Firefly G7 · 32GB · Product photo",
+      "width": 1080
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002373376",
+      "kind": "photo",
+      "original": "1002373376.jpg",
+      "products": [
+        "p1"
+      ],
+      "searchText": "Dell Latitude 3189 · Pentium",
+      "src": "media-03/recovered-1002373376.webp",
+      "thumb": "media-03/recovered-1002373376.webp",
+      "title": "Dell Latitude 3189 · Pentium · Product photo",
+      "width": 1203
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002234106",
+      "kind": "photo",
+      "original": "1002234106.jpg",
+      "products": [
+        "hp820"
+      ],
+      "searchText": "HP EliteBook 820 G3",
+      "src": "media-02/recovered-1002234106.webp",
+      "thumb": "media-02/recovered-1002234106.webp",
+      "title": "HP EliteBook 820 G3 · Product photo",
+      "width": 1080,
+      "archived": true,
+      "archiveReason": "Superseded by newer supplied stock photos and offer in LAPTOP FLYER DESIGN, October 2026."
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002202570",
+      "kind": "photo",
+      "original": "1002202570.jpg",
+      "products": [
+        "p20"
+      ],
+      "searchText": "HP Elite x2 G8 Tablet",
+      "src": "media-02/recovered-1002202570.webp",
+      "thumb": "media-02/recovered-1002202570.webp",
+      "title": "HP Elite x2 G8 Tablet · Product photo",
+      "width": 1080
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002303029",
+      "kind": "photo",
+      "original": "1002303029.jpg",
+      "products": [
+        "xps9350"
+      ],
+      "searchText": "Dell XPS 13 9350",
+      "src": "media-02/recovered-1002303029.webp",
+      "thumb": "media-02/recovered-1002303029.webp",
+      "title": "Dell XPS 13 9350 · Product photo",
+      "width": 1080
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002319564",
+      "kind": "photo",
+      "original": "1002319564.jpg",
+      "products": [
+        "hp1040g6"
+      ],
+      "searchText": "HP EliteBook x360 1040 G6",
+      "src": "media-02/recovered-1002319564.webp",
+      "thumb": "media-02/recovered-1002319564.webp",
+      "title": "HP EliteBook x360 1040 G6 · Product photo",
+      "width": 1080
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002320184",
+      "kind": "photo",
+      "original": "1002320184.jpg",
+      "products": [
+        "hp11"
+      ],
+      "searchText": "HP ProBook 11 G2",
+      "src": "media-03/recovered-1002320184.webp",
+      "thumb": "media-03/recovered-1002320184.webp",
+      "title": "HP ProBook 11 G2 · Product photo",
+      "width": 1080
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002319663",
+      "kind": "photo",
+      "original": "1002319663.jpg",
+      "products": [
+        "p5"
+      ],
+      "searchText": "HP EliteBook 840 G8 · i7",
+      "src": "media-02/recovered-1002319663.webp",
+      "thumb": "media-02/recovered-1002319663.webp",
+      "title": "HP EliteBook 840 G8 · i7 · Product photo",
+      "width": 1080
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002385292",
+      "kind": "photo",
+      "original": "1002385292.jpg",
+      "products": [
+        "dell3390"
+      ],
+      "searchText": "Dell Latitude 3390 2-in-1",
+      "src": "media-03/recovered-1002385292.webp",
+      "thumb": "media-03/recovered-1002385292.webp",
+      "title": "Dell Latitude 3390 2-in-1 · Product photo",
+      "width": 1080
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002319743",
+      "kind": "photo",
+      "original": "1002319743.jpg",
+      "products": [
+        "p16"
+      ],
+      "searchText": "Lenovo ThinkPad P14s",
+      "src": "media-02/recovered-1002319743.webp",
+      "thumb": "media-02/recovered-1002319743.webp",
+      "title": "Lenovo ThinkPad P14s · Product photo",
+      "width": 1080
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002385289",
+      "kind": "photo",
+      "original": "1002385289.jpg",
+      "products": [
+        "dell3390"
+      ],
+      "searchText": "Dell Latitude 3390 2-in-1",
+      "src": "media-03/recovered-1002385289.webp",
+      "thumb": "media-03/recovered-1002385289.webp",
+      "title": "Dell Latitude 3390 2-in-1 · Product photo",
+      "width": 1080
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002385296",
+      "kind": "photo",
+      "original": "1002385296.jpg",
+      "products": [
+        "dell3390"
+      ],
+      "searchText": "Dell Latitude 3390 2-in-1",
+      "src": "media-03/recovered-1002385296.webp",
+      "thumb": "media-03/recovered-1002385296.webp",
+      "title": "Dell Latitude 3390 2-in-1 · Product photo",
+      "width": 1080
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002385293",
+      "kind": "photo",
+      "original": "1002385293.jpg",
+      "products": [
+        "dell3390"
+      ],
+      "searchText": "Dell Latitude 3390 2-in-1",
+      "src": "media-03/recovered-1002385293.webp",
+      "thumb": "media-03/recovered-1002385293.webp",
+      "title": "Dell Latitude 3390 2-in-1 · Product photo",
+      "width": 1080
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002373379",
+      "kind": "photo",
+      "original": "1002373379.jpg",
+      "products": [
+        "p1"
+      ],
+      "searchText": "Dell Latitude 3189 · Pentium",
+      "src": "media-03/recovered-1002373379.webp",
+      "thumb": "media-03/recovered-1002373379.webp",
+      "title": "Dell Latitude 3189 · Pentium · Product photo",
+      "width": 1080
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002319664",
+      "kind": "photo",
+      "original": "1002319664.jpg",
+      "products": [
+        "p5"
+      ],
+      "searchText": "HP EliteBook 840 G8 · i7",
+      "src": "media-02/recovered-1002319664.webp",
+      "thumb": "media-02/recovered-1002319664.webp",
+      "title": "HP EliteBook 840 G8 · i7 · Product photo",
+      "width": 1080
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002373377",
+      "kind": "photo",
+      "original": "1002373377.jpg",
+      "products": [
+        "p1"
+      ],
+      "searchText": "Dell Latitude 3189 · Pentium",
+      "src": "media-03/recovered-1002373377.webp",
+      "thumb": "media-03/recovered-1002373377.webp",
+      "title": "Dell Latitude 3189 · Pentium · Product photo",
+      "width": 1319
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002361100",
+      "kind": "photo",
+      "original": "1002361100.jpg",
+      "products": [
+        "yoga"
+      ],
+      "searchText": "Lenovo ThinkPad X13 Yoga Gen 2",
+      "src": "media-03/recovered-1002361100.webp",
+      "thumb": "media-03/recovered-1002361100.webp",
+      "title": "Lenovo ThinkPad X13 Yoga Gen 2 · Product photo",
+      "width": 1080
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002353928",
+      "kind": "photo",
+      "original": "1002353928.jpg",
+      "products": [
+        "hp830"
+      ],
+      "searchText": "HP EliteBook 830 G6",
+      "src": "media-03/recovered-1002353928.webp",
+      "thumb": "media-03/recovered-1002353928.webp",
+      "title": "HP EliteBook 830 G6 · Product photo",
+      "width": 1427
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002373378",
+      "kind": "photo",
+      "original": "1002373378.jpg",
+      "products": [
+        "p1"
+      ],
+      "searchText": "Dell Latitude 3189 · Pentium",
+      "src": "media-03/recovered-1002373378.webp",
+      "thumb": "media-03/recovered-1002373378.webp",
+      "title": "Dell Latitude 3189 · Pentium · Product photo",
+      "width": 1155
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002303825",
+      "kind": "photo",
+      "original": "1002303825.jpg",
+      "products": [
+        "p21"
+      ],
+      "searchText": "HP ProBook x360 435 G8",
+      "src": "media-02/recovered-1002303825.webp",
+      "thumb": "media-02/recovered-1002303825.webp",
+      "title": "HP ProBook x360 435 G8 · Product photo",
+      "width": 1080
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002361102",
+      "kind": "photo",
+      "original": "1002361102.jpg",
+      "products": [
+        "yoga"
+      ],
+      "searchText": "Lenovo ThinkPad X13 Yoga Gen 2",
+      "src": "media-03/recovered-1002361102.webp",
+      "thumb": "media-03/recovered-1002361102.webp",
+      "title": "Lenovo ThinkPad X13 Yoga Gen 2 · Product photo",
+      "width": 1080
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002202568",
+      "kind": "photo",
+      "original": "1002202568.jpg",
+      "products": [
+        "p20"
+      ],
+      "searchText": "HP Elite x2 G8 Tablet",
+      "src": "media-02/recovered-1002202568.webp",
+      "thumb": "media-02/recovered-1002202568.webp",
+      "title": "HP Elite x2 G8 Tablet · Product photo",
+      "width": 1273
+    },
+    {
+      "height": 1440,
+      "id": "recovered-1002303694",
+      "kind": "photo",
+      "original": "1002303694.jpg",
+      "products": [
+        "carbon8"
+      ],
+      "searchText": "Lenovo ThinkPad X1 Carbon Gen 8",
+      "src": "media-02/recovered-1002303694.webp",
+      "thumb": "media-02/recovered-1002303694.webp",
+      "title": "Lenovo ThinkPad X1 Carbon Gen 8 · Product photo",
+      "width": 1080
+    },
+    {
+      "height": 1350,
+      "id": "hp-omen-5-laptop-flyers-pack-04-hp-omen-15-i7-10th-rtx3060-flyer",
+      "kind": "flyer",
+      "original": "04_hp_omen_15_i7_10th_rtx3060_flyer.png",
+      "products": [
+        "omen1"
+      ],
+      "searchText": "HP OMEN 15 · RTX 3060",
+      "src": "media-01/hp-omen-5-laptop-flyers-pack-04-hp-omen-15-i7-10th-rtx3060-flyer.webp",
+      "thumb": "media-01/hp-omen-5-laptop-flyers-pack-04-hp-omen-15-i7-10th-rtx3060-flyer.webp",
+      "title": "hp omen 15 i7 10th rtx3060 flyer",
+      "width": 1080
+    },
+    {
+      "height": 1350,
+      "id": "hp-omen-5-laptop-flyers-pack-05-hp-omen-16-i9-13th-rtx4060-flyer",
+      "kind": "flyer",
+      "original": "05_hp_omen_16_i9_13th_rtx4060_flyer.png",
+      "products": [
+        "omen5"
+      ],
+      "searchText": "HP OMEN 16 · RTX 4060",
+      "src": "media-01/hp-omen-5-laptop-flyers-pack-05-hp-omen-16-i9-13th-rtx4060-flyer.webp",
+      "thumb": "media-01/hp-omen-5-laptop-flyers-pack-05-hp-omen-16-i9-13th-rtx4060-flyer.webp",
+      "title": "hp omen 16 i9 13th rtx4060 flyer",
+      "width": 1080
+    },
+    {
+      "height": 1350,
+      "id": "hp-omen-5-laptop-flyers-pack-02-hp-omen-15-i7-10th-gtx1650-flyer",
+      "kind": "flyer",
+      "original": "02_hp_omen_15_i7_10th_gtx1650_flyer.png",
+      "products": [
+        "omen1"
+      ],
+      "searchText": "HP OMEN 15 · GTX 1650",
+      "src": "media-01/hp-omen-5-laptop-flyers-pack-02-hp-omen-15-i7-10th-gtx1650-flyer.webp",
+      "thumb": "media-01/hp-omen-5-laptop-flyers-pack-02-hp-omen-15-i7-10th-gtx1650-flyer.webp",
+      "title": "hp omen 15 i7 10th gtx1650 flyer",
+      "width": 1080
+    },
+    {
+      "height": 1350,
+      "id": "hp-omen-5-laptop-flyers-pack-01-hp-omen-15-i7-8th-gtx1060-flyer",
+      "kind": "flyer",
+      "original": "01_hp_omen_15_i7_8th_gtx1060_flyer.png",
+      "products": [
+        "omen1"
+      ],
+      "searchText": "HP OMEN 15 · GTX 1060",
+      "src": "media-01/hp-omen-5-laptop-flyers-pack-01-hp-omen-15-i7-8th-gtx1060-flyer.webp",
+      "thumb": "media-01/hp-omen-5-laptop-flyers-pack-01-hp-omen-15-i7-8th-gtx1060-flyer.webp",
+      "title": "hp omen 15 i7 8th gtx1060 flyer",
+      "width": 1080
+    },
+    {
+      "height": 1350,
+      "id": "hp-omen-5-laptop-flyers-pack-03-hp-omen-15-i7-10th-rtx2060-flyer",
+      "kind": "flyer",
+      "original": "03_hp_omen_15_i7_10th_rtx2060_flyer.png",
+      "products": [
+        "omen1"
+      ],
+      "searchText": "HP OMEN 15 · RTX 2060",
+      "src": "media-01/hp-omen-5-laptop-flyers-pack-03-hp-omen-15-i7-10th-rtx2060-flyer.webp",
+      "thumb": "media-01/hp-omen-5-laptop-flyers-pack-03-hp-omen-15-i7-10th-rtx2060-flyer.webp",
+      "title": "hp omen 15 i7 10th rtx2060 flyer",
+      "width": 1080
+    },
+    {
+      "height": 1440,
+      "id": "hp-mobile-weekend-flyers-04-hp-14s-drxxx-mobile-weekend-flyer",
+      "kind": "flyer",
+      "original": "04_HP_14s_drxxx_Mobile_Weekend_Flyer.png",
+      "products": [
+        "hp14s"
+      ],
+      "searchText": "HP 14s-drxxx",
+      "src": "media-01/hp-mobile-weekend-flyers-04-hp-14s-drxxx-mobile-weekend-flyer.webp",
+      "thumb": "media-01/hp-mobile-weekend-flyers-04-hp-14s-drxxx-mobile-weekend-flyer.webp",
+      "title": "HP 14s drxxx Mobile Weekend Flyer",
+      "width": 960
+    },
+    {
+      "height": 1440,
+      "id": "hp-mobile-weekend-flyers-06-hp-pavilion-16-ag0050au-mobile-weekend-flyer",
+      "kind": "flyer",
+      "original": "06_HP_Pavilion_16_Ag0050AU_Mobile_Weekend_Flyer.png",
+      "products": [
+        "pavilion16"
+      ],
+      "searchText": "HP Pavilion 16-ag0050AU",
+      "src": "media-01/hp-mobile-weekend-flyers-06-hp-pavilion-16-ag0050au-mobile-weekend-flyer.webp",
+      "thumb": "media-01/hp-mobile-weekend-flyers-06-hp-pavilion-16-ag0050au-mobile-weekend-flyer.webp",
+      "title": "HP Pavilion 16 Ag0050AU Mobile Weekend Flyer",
+      "width": 960
+    },
+    {
+      "height": 1440,
+      "id": "hp-mobile-weekend-flyers-03-hp-246-g8-mobile-weekend-flyer",
+      "kind": "flyer",
+      "original": "03_HP_246_G8_Mobile_Weekend_Flyer.png",
+      "products": [
+        "hp246"
+      ],
+      "searchText": "HP 246 G8",
+      "src": "media-01/hp-mobile-weekend-flyers-03-hp-246-g8-mobile-weekend-flyer.webp",
+      "thumb": "media-01/hp-mobile-weekend-flyers-03-hp-246-g8-mobile-weekend-flyer.webp",
+      "title": "HP 246 G8 Mobile Weekend Flyer",
+      "width": 960
+    },
+    {
+      "height": 1440,
+      "id": "hp-mobile-weekend-flyers-01-hp-245-g8-mobile-weekend-flyer",
+      "kind": "flyer",
+      "original": "01_HP_245_G8_Mobile_Weekend_Flyer.png",
+      "products": [
+        "hp245"
+      ],
+      "searchText": "HP 245 G8",
+      "src": "media-01/hp-mobile-weekend-flyers-01-hp-245-g8-mobile-weekend-flyer.webp",
+      "thumb": "media-01/hp-mobile-weekend-flyers-01-hp-245-g8-mobile-weekend-flyer.webp",
+      "title": "HP 245 G8 Mobile Weekend Flyer",
+      "width": 960
+    },
+    {
+      "height": 1440,
+      "id": "hp-mobile-weekend-flyers-05-hp-247-g8-mobile-weekend-flyer",
+      "kind": "flyer",
+      "original": "05_HP_247_G8_Mobile_Weekend_Flyer.png",
+      "products": [
+        "hp247"
+      ],
+      "searchText": "HP 247 G8",
+      "src": "media-01/hp-mobile-weekend-flyers-05-hp-247-g8-mobile-weekend-flyer.webp",
+      "thumb": "media-01/hp-mobile-weekend-flyers-05-hp-247-g8-mobile-weekend-flyer.webp",
+      "title": "HP 247 G8 Mobile Weekend Flyer",
+      "width": 960
+    },
+    {
+      "height": 1440,
+      "id": "hp-mobile-weekend-flyers-02-hp-15s-fqxxx-mobile-weekend-flyer",
+      "kind": "flyer",
+      "original": "02_HP_15s_Fqxxx_Mobile_Weekend_Flyer.png",
+      "products": [
+        "hp15s"
+      ],
+      "searchText": "HP 15s-Fqxxx",
+      "src": "media-01/hp-mobile-weekend-flyers-02-hp-15s-fqxxx-mobile-weekend-flyer.webp",
+      "thumb": "media-01/hp-mobile-weekend-flyers-02-hp-15s-fqxxx-mobile-weekend-flyer.webp",
+      "title": "HP 15s Fqxxx Mobile Weekend Flyer",
+      "width": 960
+    },
+    {
+      "height": 1350,
+      "id": "macbook-flyers-tanzania-ready-05-macbook-pro-m1-pro-2021-14",
+      "kind": "flyer",
+      "original": "05_macbook_pro_m1_pro_2021_14.png",
+      "src": "media-02/macbook-flyers-tanzania-ready-05-macbook-pro-m1-pro-2021-14.webp",
+      "thumb": "media-02/macbook-flyers-tanzania-ready-05-macbook-pro-m1-pro-2021-14.webp",
+      "title": "macbook pro m1 pro 2021 14",
+      "width": 1080,
+      "products": [
+        "macpro14"
+      ]
+    },
+    {
+      "height": 1350,
+      "id": "aio-professional-mobile-flyers-pack-v2-03-hp-cr0124nh-i5-13th-24inch",
+      "kind": "flyer",
+      "original": "03_HP_CR0124Nh_i5_13th_24inch.png",
+      "products": [
+        "aio3"
+      ],
+      "searchText": "HP CR0124Nh",
+      "src": "media-01/aio-professional-mobile-flyers-pack-v2-03-hp-cr0124nh-i5-13th-24inch.webp",
+      "thumb": "media-01/aio-professional-mobile-flyers-pack-v2-03-hp-cr0124nh-i5-13th-24inch.webp",
+      "title": "HP CR0124Nh i5 13th 24inch",
+      "width": 1080
+    },
+    {
+      "height": 1350,
+      "id": "aio-professional-mobile-flyers-pack-v2-05-hp-cr0127-i7-13th-24inch-white",
+      "kind": "flyer",
+      "original": "05_HP_CR0127_i7_13th_24inch_WHITE.png",
+      "products": [
+        "aio5"
+      ],
+      "searchText": "HP CR0127",
+      "src": "media-01/aio-professional-mobile-flyers-pack-v2-05-hp-cr0127-i7-13th-24inch-white.webp",
+      "thumb": "media-01/aio-professional-mobile-flyers-pack-v2-05-hp-cr0127-i7-13th-24inch-white.webp",
+      "title": "HP CR0127 i7 13th 24inch WHITE",
+      "width": 1080
+    },
+    {
+      "height": 1350,
+      "id": "aio-professional-mobile-flyers-pack-v2-02-hp-cb1023nh-i5-12th-24inch-touch",
+      "kind": "flyer",
+      "original": "02_HP_CB1023Nh_i5_12th_24inch_TOUCH.png",
+      "products": [
+        "aio2"
+      ],
+      "searchText": "HP CB1023Nh",
+      "src": "media-01/aio-professional-mobile-flyers-pack-v2-02-hp-cb1023nh-i5-12th-24inch-touch.webp",
+      "thumb": "media-01/aio-professional-mobile-flyers-pack-v2-02-hp-cb1023nh-i5-12th-24inch-touch.webp",
+      "title": "HP CB1023Nh i5 12th 24inch TOUCH",
+      "width": 1080
+    },
+    {
+      "height": 1350,
+      "id": "aio-professional-mobile-flyers-pack-v2-01-lenovo-ic-27irh9-i7-13th-27inch",
+      "kind": "flyer",
+      "original": "01_LENOVO_IC_27IRH9_i7_13th_27inch.png",
+      "products": [
+        "aio1"
+      ],
+      "searchText": "Lenovo IC 27IRH9",
+      "src": "media-01/aio-professional-mobile-flyers-pack-v2-01-lenovo-ic-27irh9-i7-13th-27inch.webp",
+      "thumb": "media-01/aio-professional-mobile-flyers-pack-v2-01-lenovo-ic-27irh9-i7-13th-27inch.webp",
+      "title": "LENOVO IC 27IRH9 i7 13th 27inch",
+      "width": 1080
+    },
+    {
+      "height": 1350,
+      "id": "aio-professional-mobile-flyers-pack-v2-04-hp-cr1091nh-ultra5-24inch",
+      "kind": "flyer",
+      "original": "04_HP_CR1091Nh_Ultra5_24inch.png",
+      "products": [
+        "aio4"
+      ],
+      "searchText": "HP CR1091Nh",
+      "src": "media-01/aio-professional-mobile-flyers-pack-v2-04-hp-cr1091nh-ultra5-24inch.webp",
+      "thumb": "media-01/aio-professional-mobile-flyers-pack-v2-04-hp-cr1091nh-ultra5-24inch.webp",
+      "title": "HP CR1091Nh Ultra5 24inch",
+      "width": 1080
+    },
+    {
+      "height": 1440,
+      "id": "english-laptop-flyers-bundle-04-lenovo-thinkpad-x1-carbon-gen8-english",
+      "kind": "flyer",
+      "original": "04_Lenovo_ThinkPad_X1_Carbon_Gen8_English.png",
+      "products": [
+        "carbon8"
+      ],
+      "searchText": "Lenovo ThinkPad X1 Carbon Gen 8",
+      "src": "media-01/english-laptop-flyers-bundle-04-lenovo-thinkpad-x1-carbon-gen8-english.webp",
+      "thumb": "media-01/english-laptop-flyers-bundle-04-lenovo-thinkpad-x1-carbon-gen8-english.webp",
+      "title": "Lenovo ThinkPad X1 Carbon Gen8 English",
+      "width": 810
+    },
+    {
+      "height": 1440,
+      "id": "english-laptop-flyers-bundle-02-dell-latitude-5300-2in1-english",
+      "kind": "flyer",
+      "original": "02_Dell_Latitude_5300_2in1_English.png",
+      "products": [
+        "dell5300"
+      ],
+      "searchText": "Dell Latitude 5300 2-in-1",
+      "src": "media-01/english-laptop-flyers-bundle-02-dell-latitude-5300-2in1-english.webp",
+      "thumb": "media-01/english-laptop-flyers-bundle-02-dell-latitude-5300-2in1-english.webp",
+      "title": "Dell Latitude 5300 2in1 English",
+      "width": 810
+    },
+    {
+      "height": 1440,
+      "id": "english-laptop-flyers-bundle-01-dell-xps-13-9350-english",
+      "kind": "flyer",
+      "original": "01_Dell_XPS_13_9350_English.png",
+      "products": [
+        "xps9350"
+      ],
+      "searchText": "Dell XPS 13 9350",
+      "src": "media-01/english-laptop-flyers-bundle-01-dell-xps-13-9350-english.webp",
+      "thumb": "media-01/english-laptop-flyers-bundle-01-dell-xps-13-9350-english.webp",
+      "title": "Dell XPS 13 9350 English",
+      "width": 810
+    },
+    {
+      "height": 1350,
+      "id": "macbook-flyers-tanzania-redesigned-v2-07-redesigned-macbook-pro-2019-16-core-i9",
+      "kind": "flyer",
+      "original": "07_REDESIGNED_MACBOOK_PRO_2019_16___CORE_i9.jpg",
+      "products": [
+        "maci9"
+      ],
+      "searchText": "Apple MacBook Pro 2019 · i9",
+      "src": "media-02/macbook-flyers-tanzania-redesigned-v2-07-redesigned-macbook-pro-2019-16-core-i9.webp",
+      "thumb": "media-02/macbook-flyers-tanzania-redesigned-v2-07-redesigned-macbook-pro-2019-16-core-i9.webp",
+      "title": "REDESIGNED MACBOOK PRO 2019 16   CORE i9",
+      "width": 1080
+    },
+    {
+      "height": 1350,
+      "id": "macbook-flyers-tanzania-redesigned-v2-02-redesigned-macbook-pro-2023-m3-chip",
+      "kind": "flyer",
+      "original": "02_REDESIGNED_MACBOOK_PRO_2023_M3_CHIP.jpg",
+      "products": [
+        "macm3"
+      ],
+      "searchText": "Apple MacBook Pro M3 2023",
+      "src": "media-02/macbook-flyers-tanzania-redesigned-v2-02-redesigned-macbook-pro-2023-m3-chip.webp",
+      "thumb": "media-02/macbook-flyers-tanzania-redesigned-v2-02-redesigned-macbook-pro-2023-m3-chip.webp",
+      "title": "REDESIGNED MACBOOK PRO 2023 M3 CHIP",
+      "width": 1080
+    },
+    {
+      "height": 1350,
+      "id": "macbook-flyers-tanzania-redesigned-v2-04-redesigned-macbook-pro-m1-pro-2021-16",
+      "kind": "flyer",
+      "original": "04_REDESIGNED_MACBOOK_PRO_M1_PRO_2021___16.jpg",
+      "products": [
+        "macpro16"
+      ],
+      "searchText": "Apple MacBook Pro M1 Pro 2021",
+      "src": "media-02/macbook-flyers-tanzania-redesigned-v2-04-redesigned-macbook-pro-m1-pro-2021-16.webp",
+      "thumb": "media-02/macbook-flyers-tanzania-redesigned-v2-04-redesigned-macbook-pro-m1-pro-2021-16.webp",
+      "title": "REDESIGNED MACBOOK PRO M1 PRO 2021   16",
+      "width": 1080
+    },
+    {
+      "height": 1350,
+      "id": "macbook-flyers-tanzania-redesigned-v2-05-redesigned-macbook-pro-m1-pro-2021-14",
+      "kind": "flyer",
+      "original": "05_REDESIGNED_MACBOOK_PRO_M1_PRO_2021___14.jpg",
+      "products": [
+        "macpro14"
+      ],
+      "searchText": "Apple MacBook Pro M1 Pro 2021 · 16GB Apple MacBook Pro M1 Pro 2021 · 32GB",
+      "src": "media-02/macbook-flyers-tanzania-redesigned-v2-05-redesigned-macbook-pro-m1-pro-2021-14.webp",
+      "thumb": "media-02/macbook-flyers-tanzania-redesigned-v2-05-redesigned-macbook-pro-m1-pro-2021-14.webp",
+      "title": "REDESIGNED MACBOOK PRO M1 PRO 2021   14",
+      "width": 1080
+    },
+    {
+      "height": 1350,
+      "id": "macbook-flyers-tanzania-redesigned-v2-01-redesigned-macbook-pro-m2-pro-chip-2023-14",
+      "kind": "flyer",
+      "original": "01_REDESIGNED_MACBOOK_PRO_M2_PRO_CHIP_2023___14.jpg",
+      "products": [
+        "macm2"
+      ],
+      "searchText": "Apple MacBook Pro M2 Pro 2023",
+      "src": "media-02/macbook-flyers-tanzania-redesigned-v2-01-redesigned-macbook-pro-m2-pro-chip-2023-14.webp",
+      "thumb": "media-02/macbook-flyers-tanzania-redesigned-v2-01-redesigned-macbook-pro-m2-pro-chip-2023-14.webp",
+      "title": "REDESIGNED MACBOOK PRO M2 PRO CHIP 2023   14",
+      "width": 1080
+    },
+    {
+      "height": 1350,
+      "id": "macbook-flyers-tanzania-redesigned-v2-06-redesigned-macbook-pro-2020-m1-13-3-touch-bar",
+      "kind": "flyer",
+      "original": "06_REDESIGNED_MACBOOK_PRO_2020_M1___13.3__TOUCH_BAR.jpg",
+      "products": [
+        "macm1"
+      ],
+      "searchText": "Apple MacBook Pro M1 2020",
+      "src": "media-02/macbook-flyers-tanzania-redesigned-v2-06-redesigned-macbook-pro-2020-m1-13-3-touch-bar.webp",
+      "thumb": "media-02/macbook-flyers-tanzania-redesigned-v2-06-redesigned-macbook-pro-2020-m1-13-3-touch-bar.webp",
+      "title": "REDESIGNED MACBOOK PRO 2020 M1   13.3  TOUCH BAR",
+      "width": 1080
+    },
+    {
+      "height": 1350,
+      "id": "macbook-flyers-tanzania-redesigned-v2-03-redesigned-macbook-pro-m1-max-16-beast",
+      "kind": "flyer",
+      "original": "03_REDESIGNED_MACBOOK_PRO_M1_MAX___16_BEAST.jpg",
+      "products": [
+        "macmax"
+      ],
+      "searchText": "Apple MacBook Pro M1 Max",
+      "src": "media-02/macbook-flyers-tanzania-redesigned-v2-03-redesigned-macbook-pro-m1-max-16-beast.webp",
+      "thumb": "media-02/macbook-flyers-tanzania-redesigned-v2-03-redesigned-macbook-pro-m1-max-16-beast.webp",
+      "title": "REDESIGNED MACBOOK PRO M1 MAX   16 BEAST",
+      "width": 1080
+    },
+    {
+      "id": "online-dell-latitude-3189",
+      "kind": "photo",
+      "original": "white-422d23fd-5165-42cb-8c4f-2ca637e6770d_5794.jpg",
+      "products": [
+        "p1"
+      ],
+      "searchText": "Dell Latitude 3189 2-in-1",
+      "src": "media-04/online-dell-latitude-3189.webp",
+      "thumb": "media-04/online-dell-latitude-3189.webp",
+      "title": "Dell Latitude 3189 2-in-1",
+      "width": 1200,
+      "height": 900,
+      "sourcePage": "https://sophie.co.ke/product/refurbished-dell-latitude-3189-intel-pentium-n4200-1-1-ghz-4-gb-memory-128-gb-ssd-intel-hd-graphics-505-11-6-touchscreen-1366-x-768-convertible-2-in-1-windows-10-pro-64-bit/",
+      "sourceUrl": "https://files.sophie.co.ke/2022/10/white-422d23fd-5165-42cb-8c4f-2ca637e6770d_5794.jpg",
+      "optimized": true
+    },
+    {
+      "id": "online-dell-latitude-5320",
+      "kind": "photo",
+      "original": "la5320t-ctb-05000ff090-gy-5000x5000-gettyimages-1254825733-www.laptopvip.vn-1736925389.png",
+      "products": [
+        "p24"
+      ],
+      "searchText": "Dell Latitude 5320",
+      "src": "media-04/online-dell-latitude-5320.webp",
+      "thumb": "media-04/online-dell-latitude-5320.webp",
+      "title": "Dell Latitude 5320",
+      "width": 1200,
+      "height": 900,
+      "sourcePage": "https://www.laptopvip.vn/dell-latitude-5320.html",
+      "sourceUrl": "https://www.laptopvip.vn/images/detailed/41/la5320t-ctb-05000ff090-gy-5000x5000-gettyimages-1254825733-www.laptopvip.vn-1736925389.png",
+      "optimized": true
+    },
+    {
+      "id": "online-dell-latitude-7400-2in1",
+      "kind": "photo",
+      "original": "Dell-Latitude-7400-2-in-1-02.jpg",
+      "products": [
+        "p14"
+      ],
+      "searchText": "Dell Latitude 7400 2-in-1",
+      "src": "media-04/online-dell-latitude-7400-2in1.webp",
+      "thumb": "media-04/online-dell-latitude-7400-2in1.webp",
+      "title": "Dell Latitude 7400 2-in-1",
+      "width": 1200,
+      "height": 900,
+      "sourcePage": "https://www.gadgetmatch.com/dell-latitude-7400-2-in-1-specs-price-availability/",
+      "sourceUrl": "https://www.gadgetmatch.com/wp-content/uploads/2019/01/Dell-Latitude-7400-2-in-1-02.jpg",
+      "optimized": true
+    },
+    {
+      "id": "online-hp-elite-x2-g8",
+      "kind": "photo",
+      "original": "csm_HP_Elite_x2_G8_Front_Left_3_346f081440.jpg",
+      "products": [
+        "p20"
+      ],
+      "searchText": "HP Elite x2 G8 detachable",
+      "src": "media-04/online-hp-elite-x2-g8.webp",
+      "thumb": "media-04/online-hp-elite-x2-g8.webp",
+      "title": "HP Elite x2 G8 detachable",
+      "width": 1200,
+      "height": 900,
+      "sourcePage": "https://www.notebookcheck-cn.com/HP-Elite-x2-G8.526691.0.html",
+      "sourceUrl": "https://www.notebookcheck-cn.com/uploads/tx_nbc2/csm_HP_Elite_x2_G8_Front_Left_3_346f081440.jpg",
+      "optimized": true
+    },
+    {
+      "id": "online-hp-elitebook-1040-g10",
+      "kind": "photo",
+      "original": "warg_14l_naturalsilver_t_ircam_nonodd_fpr_win11_coreset_whitebg_frontopen_m1810651_cus.png",
+      "products": [
+        "p18"
+      ],
+      "searchText": "HP EliteBook 1040 G10",
+      "src": "media-04/online-hp-elitebook-1040-g10.webp",
+      "thumb": "media-04/online-hp-elitebook-1040-g10.webp",
+      "title": "HP EliteBook 1040 G10",
+      "width": 1200,
+      "height": 900,
+      "sourcePage": "https://www.hp.com/ch-de/shop/products/laptops/hp-elitebook-1040-g10-14-notebook-819u1ea-uuz",
+      "sourceUrl": "https://www.hp.com/ch-de/shop/media/catalog/product/w/a/warg_14l_naturalsilver_t_ircam_nonodd_fpr_win11_coreset_whitebg_frontopen_m1810651_cus.png",
+      "optimized": true
+    },
+    {
+      "id": "online-hp-elitebook-830-g6",
+      "kind": "photo",
+      "original": "Untitleddesign_77_b711cdba-c382-46c7-bacd-79739e303884_1024x1024.png",
+      "products": [
+        "hp830"
+      ],
+      "searchText": "HP EliteBook 830 G6",
+      "src": "media-04/online-hp-elitebook-830-g6.webp",
+      "thumb": "media-04/online-hp-elitebook-830-g6.webp",
+      "title": "HP EliteBook 830 G6",
+      "width": 1200,
+      "height": 900,
+      "sourcePage": "https://renewd.com.au/products/hp-elitebook-830-g6-13-3-full-hd-laptop-intel-core-i5-8365u-16gb-ram-512gb-ssd-windows-11-pro",
+      "sourceUrl": "https://renewd.com.au/cdn/shop/files/Untitleddesign_77_b711cdba-c382-46c7-bacd-79739e303884_1024x1024.png",
+      "optimized": true
+    },
+    {
+      "id": "online-hp-elitebook-840-g7",
+      "kind": "photo",
+      "original": "hp-elitebook-840-g7-notebook-14-fhd-core-i7-10-ram-16-gb-ssd-512-gb-windows-10-pro-colore-silver_331404_zoom_800x.jpg",
+      "products": [
+        "p9"
+      ],
+      "searchText": "HP EliteBook 840 G7 family view",
+      "src": "media-04/online-hp-elitebook-840-g7.webp",
+      "thumb": "media-04/online-hp-elitebook-840-g7.webp",
+      "title": "HP EliteBook 840 G7 family view",
+      "width": 1200,
+      "height": 900,
+      "sourcePage": "https://atechsolutions.ca/collections/hp-laptops-for-sale",
+      "sourceUrl": "https://atechsolutions.ca/cdn/shop/files/hp-elitebook-840-g7-notebook-14-fhd-core-i7-10-ram-16-gb-ssd-512-gb-windows-10-pro-colore-silver_331404_zoom_800x.jpg",
+      "optimized": true
+    },
+    {
+      "id": "online-hp-elitebook-840-g8",
+      "kind": "photo",
+      "original": "hp_elitebook_840_g8_-6.png",
+      "products": [
+        "p5"
+      ],
+      "searchText": "HP EliteBook 840 G8",
+      "src": "media-04/online-hp-elitebook-840-g8.webp",
+      "thumb": "media-04/online-hp-elitebook-840-g8.webp",
+      "title": "HP EliteBook 840 G8",
+      "width": 1200,
+      "height": 900,
+      "sourcePage": "https://www.thatsit.nl/hp-elitebook-840-g8.html",
+      "sourceUrl": "https://www.thatsit.nl/media/catalog/product/h/p/hp_elitebook_840_g8_-6.png",
+      "optimized": true
+    },
+    {
+      "id": "online-hp-elitebook-x360-1040-g7",
+      "kind": "photo",
+      "original": "F_9ec2fba0-c783-491e-be34-f196956b8e2e_1200x1200.jpg",
+      "products": [
+        "p12"
+      ],
+      "searchText": "HP EliteBook x360 1040 G7",
+      "src": "media-04/online-hp-elitebook-x360-1040-g7.webp",
+      "thumb": "media-04/online-hp-elitebook-x360-1040-g7.webp",
+      "title": "HP EliteBook x360 1040 G7",
+      "width": 1200,
+      "height": 900,
+      "sourcePage": "https://deluxepcs.com/products/x360-1040g7-10610-16-512n-fhd-1p",
+      "sourceUrl": "https://deluxepcs.com/cdn/shop/products/F_9ec2fba0-c783-491e-be34-f196956b8e2e_1200x1200.jpg",
+      "optimized": true
+    },
+    {
+      "id": "online-hp-elitebook-x360-830-g6",
+      "kind": "photo",
+      "original": "laptop-hp-elitebook-x360-830-g6-srebrny-widok-frontu-720x.png",
+      "products": [
+        "p10"
+      ],
+      "searchText": "HP EliteBook x360 830 G6",
+      "src": "media-04/online-hp-elitebook-x360-830-g6.webp",
+      "thumb": "media-04/online-hp-elitebook-x360-830-g6.webp",
+      "title": "HP EliteBook x360 830 G6",
+      "width": 1200,
+      "height": 900,
+      "sourcePage": "https://delkom.pl/p/laptop-hp-elitebook-x360-830-g6-6xd34ea-i5-8265u-touch13-3fhd-sureview-16gb-512ssd-int-w10p-59623",
+      "sourceUrl": "https://delkom.pl/pic3/DB6A/182396/laptop-hp-elitebook-x360-830-g6-srebrny-widok-frontu-720x.png",
+      "optimized": true,
+      "variantIndex": 1
+    },
+    {
+      "id": "online-hp-pavilion-15-ryzen",
+      "kind": "photo",
+      "original": "hp-pavilion-15-ryzen-58gb512gb-or.jpg",
+      "products": [
+        "p13"
+      ],
+      "searchText": "HP Pavilion 15 Ryzen family reference",
+      "src": "media-04/online-hp-pavilion-15-ryzen.webp",
+      "thumb": "media-04/online-hp-pavilion-15-ryzen.webp",
+      "title": "HP Pavilion 15 Ryzen family reference",
+      "width": 1200,
+      "height": 900,
+      "sourcePage": "https://30numerique.fr/portables/363-hp-pavilion-15-ryzen-58gb512gb-or.html",
+      "sourceUrl": "https://30numerique.fr/1248-large_default/hp-pavilion-15-ryzen-58gb512gb-or.jpg",
+      "optimized": true
+    },
+    {
+      "id": "online-hp-probook-430-g8",
+      "kind": "photo",
+      "original": "hp-probook-430-g8.jpg",
+      "products": [
+        "p4"
+      ],
+      "searchText": "HP ProBook 430 G8",
+      "src": "media-04/online-hp-probook-430-g8.webp",
+      "thumb": "media-04/online-hp-probook-430-g8.webp",
+      "title": "HP ProBook 430 G8",
+      "width": 1200,
+      "height": 900,
+      "sourcePage": "https://www.idealo.de/preisvergleich/OffersOfProduct/200849168_-probook-430-g8-hp.html",
+      "sourceUrl": "https://cdn.idealo.com/folder/Product/200849/1/200849168/s1_produktbild_max/hp-probook-430-g8.jpg",
+      "optimized": true
+    },
+    {
+      "id": "online-hp-probook-x360-11-g5",
+      "kind": "photo",
+      "original": "4f761740-038f-45d6-864c-02b808b953f6.0587650c228ea88c22442b00fd464634.png",
+      "products": [
+        "p2"
+      ],
+      "searchText": "HP ProBook x360 11 G5 EE",
+      "src": "media-04/online-hp-probook-x360-11-g5.webp",
+      "thumb": "media-04/online-hp-probook-x360-11-g5.webp",
+      "title": "HP ProBook x360 11 G5 EE",
+      "width": 1200,
+      "height": 900,
+      "sourcePage": "https://www.walmart.com/ip/13242168504",
+      "sourceUrl": "https://i5.walmartimages.com/asr/4f761740-038f-45d6-864c-02b808b953f6.0587650c228ea88c22442b00fd464634.png",
+      "optimized": true
+    },
+    {
+      "id": "online-hp-probook-x360-435-g8",
+      "kind": "photo",
+      "original": "Primrose_13_PikeSilver_FPR_W10P_noSD_01_1f0d.jpg",
+      "products": [
+        "p21"
+      ],
+      "searchText": "HP ProBook x360 435 G8",
+      "src": "media-04/online-hp-probook-x360-435-g8.webp",
+      "thumb": "media-04/online-hp-probook-x360-435-g8.webp",
+      "title": "HP ProBook x360 435 G8",
+      "width": 1200,
+      "height": 900,
+      "sourcePage": "https://www.notebooksbilliger.de/hp%2Bprobook%2Bx360%2B435%2Bg8%2B4k794ea%2B730633",
+      "sourceUrl": "https://media2.nbb-cdn.de/images/products/Primrose_13_PikeSilver_FPR_W10P_noSD_01_1f0d.jpg",
+      "optimized": true
+    },
+    {
+      "id": "online-hp-zbook-firefly-14-g7",
+      "kind": "photo",
+      "original": "15073278_1.jpg",
+      "products": [
+        "p7"
+      ],
+      "searchText": "HP ZBook Firefly 14 G7",
+      "src": "media-04/online-hp-zbook-firefly-14-g7.webp",
+      "thumb": "media-04/online-hp-zbook-firefly-14-g7.webp",
+      "title": "HP ZBook Firefly 14 G7",
+      "width": 1200,
+      "height": 900,
+      "sourcePage": "https://opcstore.cl/products/notebook-hp-zbook-firefly-14-g7-i7-16gb-ssd-512gb-14-windows-10-pro",
+      "sourceUrl": "https://opcstore.cl/cdn/shop/files/15073278_1.jpg",
+      "optimized": true
+    },
+    {
+      "id": "online-lenovo-thinkpad-e580",
+      "kind": "photo",
+      "original": "lenovo-thinkpad-e580-0.jpg",
+      "products": [
+        "p22"
+      ],
+      "searchText": "Lenovo ThinkPad E580",
+      "src": "media-04/online-lenovo-thinkpad-e580.webp",
+      "thumb": "media-04/online-lenovo-thinkpad-e580.webp",
+      "title": "Lenovo ThinkPad E580",
+      "width": 1200,
+      "height": 900,
+      "sourcePage": "https://devicebeast.com/laptops/lenovo-thinkpad-e580",
+      "sourceUrl": "https://cdn.devicebeast.com/images/optimised-general/lenovo-thinkpad-e580-0.jpg",
+      "optimized": true
+    },
+    {
+      "id": "online-lenovo-thinkpad-p14s-gen1",
+      "kind": "photo",
+      "original": "Lenovo_ThinkPad_P14s_Gen1_01.jpg",
+      "products": [
+        "p16"
+      ],
+      "searchText": "Lenovo ThinkPad P14s Gen 1",
+      "src": "media-04/online-lenovo-thinkpad-p14s-gen1.webp",
+      "thumb": "media-04/online-lenovo-thinkpad-p14s-gen1.webp",
+      "title": "Lenovo ThinkPad P14s Gen 1",
+      "width": 1200,
+      "height": 900,
+      "sourcePage": "https://www.kuzniewski.pl/p67545%2Clenovo-thinkpad-p14s-gen-1-20s40046pb-intel-core-i7-10510u-14-0-full-hd-16-gb-512-gb-ssd-nvidia-quadro-p520-windows-10-pro-pakiet-uslug-i-wysylka-w-cenie.html",
+      "sourceUrl": "https://www.kuzniewski.pl/images/kategorie/szablony_zdjec/Lenovo_ThinkPad_P14s_Gen1_01.jpg",
+      "optimized": true
+    },
+    {
+      "id": "online-lenovo-thinkpad-p14s-gen2",
+      "kind": "photo",
+      "original": "oe9n06c77v6xeioe7ck3kym0p5utim129006.png",
+      "products": [
+        "p26"
+      ],
+      "searchText": "Lenovo ThinkPad P14s Gen 2 Intel",
+      "src": "media-04/online-lenovo-thinkpad-p14s-gen2.webp",
+      "thumb": "media-04/online-lenovo-thinkpad-p14s-gen2.webp",
+      "title": "Lenovo ThinkPad P14s Gen 2 Intel",
+      "width": 1200,
+      "height": 900,
+      "sourcePage": "https://www.lenovo.com/nz/en/p/laptops/thinkpad/thinkpadp/thinkpad-p14s-gen-2-%2814%E2%80%9D-intel%29/22wsp14p4s2",
+      "sourceUrl": "https://p3-ofp.static.pub/fes/cms/2022/06/08/oe9n06c77v6xeioe7ck3kym0p5utim129006.png",
+      "optimized": true
+    },
+    {
+      "id": "online-lenovo-thinkpad-p43s",
+      "kind": "photo",
+      "original": "lenovo-thinkpad-p43s-2019-seo-1744343823.png",
+      "products": [
+        "p15"
+      ],
+      "searchText": "Lenovo ThinkPad P43s",
+      "src": "media-04/online-lenovo-thinkpad-p43s.webp",
+      "thumb": "media-04/online-lenovo-thinkpad-p43s.webp",
+      "title": "Lenovo ThinkPad P43s",
+      "width": 1200,
+      "height": 900,
+      "sourcePage": "https://lapre.vn/lenovo-thinkpad-p43s-2019?cpid=5400",
+      "sourceUrl": "https://lapre.vn/upload/products/original/lenovo-thinkpad-p43s-2019-seo-1744343823.png",
+      "optimized": true
+    },
+    {
+      "id": "online-hp-elite-dragonfly-g2",
+      "kind": "photo",
+      "original": "Online exact-model or model-family product image",
+      "products": [
+        "hp-elite-dragonfly-g2"
+      ],
+      "searchText": "HP Elite Dragonfly G2 Apex Computers",
+      "src": "media-04/online-hp-elite-dragonfly-g2.webp",
+      "thumb": "media-04/online-hp-elite-dragonfly-g2.webp",
+      "title": "HP Elite Dragonfly G2",
+      "width": 1200,
+      "height": 900,
+      "sourcePage": "https://www.orbit365.co.uk/products/hp-elite-dragonfly-g2-13-3-gold",
+      "sourceUrl": "https://www.orbit365.co.uk/cdn/shop/files/394608.jpg?v=1770810865&width=1024"
+    },
+    {
+      "id": "online-hp-elite-dragonfly-max",
+      "kind": "photo",
+      "original": "Online exact-model or model-family product image",
+      "products": [
+        "hp-elite-dragonfly-max"
+      ],
+      "searchText": "HP Elite Dragonfly Max Apex Computers",
+      "src": "media-04/online-hp-elite-dragonfly-max.webp",
+      "thumb": "media-04/online-hp-elite-dragonfly-max.webp",
+      "title": "HP Elite Dragonfly Max",
+      "width": 1200,
+      "height": 900,
+      "sourcePage": "https://www.esseshop.it/hp-nb-elite-dragonfly-max-i7-1165g7-32gb-1tb-ssd-13-win-11-pro-p-206185.html",
+      "sourceUrl": "https://www.esseshop.it/getimage/products/EsseShop.it-HP-4L064EA_7.jpg"
+    },
+    {
+      "id": "online-hp-elitebook-830-g9",
+      "kind": "photo",
+      "original": "Online exact-model or model-family product image",
+      "products": [
+        "hp-elitebook-830-g9"
+      ],
+      "searchText": "HP EliteBook 830 G9 Apex Computers",
+      "src": "media-04/online-hp-elitebook-830-g9.webp",
+      "thumb": "media-04/online-hp-elitebook-830-g9.webp",
+      "title": "HP EliteBook 830 G9",
+      "width": 1200,
+      "height": 900,
+      "sourcePage": "https://jp.ext.hp.com/notebooks/business/elitebook_830_g9/",
+      "sourceUrl": "https://jp.ext.hp.com/content/dam/jp-ext-hp-com/jp/ja/ec/notebooks/business/elitebook_830_g9/images/move2_full.jpg"
+    },
+    {
+      "id": "online-hp-elitebook-835-g10",
+      "kind": "photo",
+      "original": "Online exact-model or model-family product image",
+      "products": [
+        "p6-835-g10"
+      ],
+      "searchText": "HP EliteBook 835 G10 Apex Computers",
+      "src": "media-04/online-hp-elitebook-835-g10.webp",
+      "thumb": "media-04/online-hp-elitebook-835-g10.webp",
+      "title": "HP EliteBook 835 G10",
+      "width": 1200,
+      "height": 900,
+      "sourcePage": "https://laptopmedia.com/gb/laptop-specs/hp-elitebook-835-g10-2/",
+      "sourceUrl": "https://laptopmedia.com/wp-content/uploads/2025/01/3-50.jpg"
+    },
+    {
+      "id": "online-hp-elitebook-845-g10",
+      "kind": "photo",
+      "original": "Online exact-model or model-family product image",
+      "products": [
+        "p6"
+      ],
+      "searchText": "HP EliteBook 845 G10 Apex Computers",
+      "src": "media-04/online-hp-elitebook-845-g10.webp",
+      "thumb": "media-04/online-hp-elitebook-845-g10.webp",
+      "title": "HP EliteBook 845 G10",
+      "width": 1200,
+      "height": 900,
+      "sourcePage": "https://laptopkhanhtran.vn/hp-elitebook-845-g10.htm",
+      "sourceUrl": "https://laptopkhanhtran.vn/pic/product/HP-EliteB_638660693772099740_HasThumb.jpg"
+    },
+    {
+      "id": "online-hp-laptop-15-12th-gen",
+      "kind": "photo",
+      "original": "Online exact-model or model-family product image",
+      "products": [
+        "hp-laptop-15-12th-gen"
+      ],
+      "searchText": "HP Laptop 15 · representative family image Apex Computers",
+      "src": "media-04/online-hp-laptop-15-12th-gen.webp",
+      "thumb": "media-04/online-hp-laptop-15-12th-gen.webp",
+      "title": "HP Laptop 15 · representative family image",
+      "width": 1200,
+      "height": 900,
+      "sourcePage": "https://probook.com.py/product/notebook-hp-15-fd0557nr-i7-1255u-12gb-ram512gb-ssd15-fhd",
+      "sourceUrl": "https://probook.s3.sa-east-1.amazonaws.com/products/7efcab06-bb08-4cec-ba1f-85cd7df4266e.webp"
+    },
+    {
+      "id": "online-lenovo-ideapad-d330",
+      "kind": "photo",
+      "original": "Online exact-model or model-family product image",
+      "products": [
+        "lenovo-ideapad-d330"
+      ],
+      "searchText": "Lenovo IdeaPad D330-10IGM Detachable Apex Computers",
+      "src": "media-04/online-lenovo-ideapad-d330.webp",
+      "thumb": "media-04/online-lenovo-ideapad-d330.webp",
+      "title": "Lenovo IdeaPad D330-10IGM Detachable",
+      "width": 1200,
+      "height": 900,
+      "sourcePage": "https://www.euronics.de/computer-und-buero/pc-und-notebooks/2in1-convertibles/ideapad-d330-10igm-81h30077ge-25-6cm-10-1-2-in-1-detachable-notebook-mineral-grey-4061856093154",
+      "sourceUrl": "https://image.euronics.de/media/image/1a/82/ea/12c2927e-ed6c-4942-8e57-97ef7dc6efbf_600x600.jpg"
+    },
+    {
+      "id": "online-hp-probook-440-g9",
+      "kind": "photo",
+      "original": "Online exact-model or model-family product image",
+      "products": [
+        "hp-probook-440-g9"
+      ],
+      "searchText": "HP ProBook 440 G9 Apex Computers",
+      "src": "media-04/online-hp-probook-440-g9.webp",
+      "thumb": "media-04/online-hp-probook-440-g9.webp",
+      "title": "HP ProBook 440 G9",
+      "width": 1200,
+      "height": 900,
+      "sourcePage": "https://www.serversdirect.co.uk/p/1902823/hp-probook-440-g9-intel-core-i5-16gb-ram-512gb-ssd-14-inch-windows-11-pro-laptop",
+      "sourceUrl": "https://www.serversdirect.co.uk/Images/9M3T9AT_1_Supersize.png?v=3"
+    },
+    {
+      "id": "online-lenovo-thinkpad-t14s-gen2",
+      "kind": "photo",
+      "original": "Online exact-model or model-family product image",
+      "products": [
+        "lenovo-thinkpad-t14s-gen2"
+      ],
+      "searchText": "Lenovo ThinkPad T14s Gen 2 Apex Computers",
+      "src": "media-04/online-lenovo-thinkpad-t14s-gen2.webp",
+      "thumb": "media-04/online-lenovo-thinkpad-t14s-gen2.webp",
+      "title": "Lenovo ThinkPad T14s Gen 2",
+      "width": 1200,
+      "height": 900,
+      "sourcePage": "https://nairobiultrabooks.odoo.com/shop/lenovo-thinkpad-t14s-g2-core-i7-16gb-512gb-ssd-fhd-windows-10-pro-20wns3r400-5447",
+      "sourceUrl": "https://nairobiultrabooks.odoo.com/web/image/product.product/5694/image_1024/Lenovo%20Thinkpad%20T14s%20G2%20Core%20i7%2016GB%20512GB%20SSD%20FHD%2C%20Windows%2010%20Pro%E2%80%93%2020WNS3R400?unique=2ffa727"
+    },
+    {
+      "id": "online-lenovo-thinkpad-x1-carbon-gen9",
+      "kind": "photo",
+      "original": "Online exact-model or model-family product image",
+      "products": [
+        "carbon9"
+      ],
+      "searchText": "Lenovo ThinkPad X1 Carbon Gen 9 Apex Computers",
+      "src": "media-04/online-lenovo-thinkpad-x1-carbon-gen9.webp",
+      "thumb": "media-04/online-lenovo-thinkpad-x1-carbon-gen9.webp",
+      "title": "Lenovo ThinkPad X1 Carbon Gen 9",
+      "width": 1200,
+      "height": 900,
+      "sourcePage": "https://mac18.vn/thinkpad-x1-carbon-gen-9-14-inch-2021-used-core-i7-1165g7-16gb-512gb-uhd-4k",
+      "sourceUrl": "https://bizweb.dktcdn.net/100/533/247/products/3b6417d7afe135f059df331a4ad3cb84-7af634ec-4538-4cc2-a13c-da148d74b5bf.png?v=1734146508210"
+    },
+    {
+      "id": "online-lenovo-thinkpad-x1-yoga-gen7",
+      "kind": "photo",
+      "original": "Online exact-model or model-family product image",
+      "products": [
+        "lenovo-thinkpad-x1-yoga-gen7"
+      ],
+      "searchText": "Lenovo ThinkPad X1 Yoga Gen 7 Apex Computers",
+      "src": "media-04/online-lenovo-thinkpad-x1-yoga-gen7.webp",
+      "thumb": "media-04/online-lenovo-thinkpad-x1-yoga-gen7.webp",
+      "title": "Lenovo ThinkPad X1 Yoga Gen 7",
+      "width": 1200,
+      "height": 900,
+      "sourcePage": "https://www.ldlc.com/en/product/PB00552606.html",
+      "sourceUrl": "https://media.ldlc.com/r1600/ld/products/00/06/03/33/LD0006033381.jpg"
+    },
+    {
+      "id": "online-hp-zbook-firefly-14-g8",
+      "kind": "photo",
+      "original": "Online exact-model or model-family product image",
+      "products": [
+        "hp-zbook-firefly-14-g8"
+      ],
+      "searchText": "HP ZBook Firefly 14 G8 Apex Computers",
+      "src": "media-04/online-hp-zbook-firefly-14-g8.webp",
+      "thumb": "media-04/online-hp-zbook-firefly-14-g8.webp",
+      "title": "HP ZBook Firefly 14 G8",
+      "width": 1200,
+      "height": 900,
+      "sourcePage": "https://microdream.co.uk/refurbished-laptops/14inch-refurbished-laptops/2c9q1ea-hp-zbook-firefly-14-g8-gaming-laptop-14-fhd-intel-core-i7-1165g7-16gb-512gb-ssd-nvidia-quadro-t500-webcam-wifi-laptop-pc-topseller.html",
+      "sourceUrl": "https://microdream.co.uk/media/catalog/product/cache/6e2c81f7ebc0d2d151ac17f111e7f81e/z/b/zbook_hero.jpg"
+    },
+    {
+      "id": "online-hp-zbook-firefly-14-g9",
+      "kind": "photo",
+      "original": "Online exact-model or model-family product image",
+      "products": [
+        "hp-zbook-firefly-14-g9"
+      ],
+      "searchText": "HP ZBook Firefly 14 G9 Apex Computers",
+      "src": "media-04/online-hp-zbook-firefly-14-g9.webp",
+      "thumb": "media-04/online-hp-zbook-firefly-14-g9.webp",
+      "title": "HP ZBook Firefly 14 G9",
+      "width": 1200,
+      "height": 900,
+      "sourcePage": "https://www.rackfinity.com/hp-zbook-firefly-g9-14-mobile-workstation-intel-core-i7-12th-gen-i7-1265u-deca-core-10-core-1-80-ghz-32-gb-total-ram-256-gb-ssd-refurbished/",
+      "sourceUrl": "https://cdn11.bigcommerce.com/s-bfxxgrup/images/stencil/1280x1280/products/140649/193438/FireFly14G9-2__56801.1708545980.jpg?c=2"
+    },
+    {
+      "id": "online-hp-zbook-firefly-15-g8",
+      "kind": "photo",
+      "original": "Online exact-model or model-family product image",
+      "products": [
+        "hp-zbook-firefly-15-g8"
+      ],
+      "searchText": "HP ZBook Firefly 15 G8 Apex Computers",
+      "src": "media-04/online-hp-zbook-firefly-15-g8.webp",
+      "thumb": "media-04/online-hp-zbook-firefly-15-g8.webp",
+      "title": "HP ZBook Firefly 15 G8",
+      "width": 1200,
+      "height": 900,
+      "sourcePage": "https://avansis.ro/laptop-hp-zbook-firefly-15-g8-i7-1185G7-nvidia-t500",
+      "sourceUrl": "https://avansis.ro/image/cache/catalog/Laptopuri/01_HP/Zbook%20Firefly%2015%20G8_4-800x800.jpg"
+    },
+    {
+      "id": "online-hp-probook-x360-435-g9",
+      "kind": "photo",
+      "original": "Online exact-model or model-family product image",
+      "products": [
+        "hp-probook-x360-435-g9"
+      ],
+      "searchText": "HP ProBook x360 435 G9 Apex Computers",
+      "src": "media-04/online-hp-probook-x360-435-g9.webp",
+      "thumb": "media-04/online-hp-probook-x360-435-g9.webp",
+      "title": "HP ProBook x360 435 G9",
+      "width": 1200,
+      "height": 900,
+      "sourcePage": "https://www.firstshop.co.za/products/hp-probook-x360-435-g9-13-3-inch-fhd-2-in-1-laptop-amd-ryzen-5-pro-5675u-256gb-ssd-8gb-ram-win-11-pro-7n084es-182588",
+      "sourceUrl": "https://www.firstshop.co.za/cdn/shop/files/7n084es-2-in-1-laptops-44222152671396.jpg?v=1709188843&width=1214"
+    },
+    {
+      "id": "online-hp-elitebook-845-g7",
+      "kind": "photo",
+      "original": "Online exact-model or model-family product image",
+      "products": [
+        "hp-elitebook-845-g7"
+      ],
+      "searchText": "HP EliteBook 845 G7 Apex Computers",
+      "src": "media-04/online-hp-elitebook-845-g7.webp",
+      "thumb": "media-04/online-hp-elitebook-845-g7.webp",
+      "title": "HP EliteBook 845 G7",
+      "width": 1200,
+      "height": 900,
+      "sourcePage": "https://at-outlet.com/gb/laptopy/laptopy-hp/hp-elitebook-845-g7-14-amd-ryzen-7-pro-4750u-16gb-ram-128gb-ssd-full-hd-windows-11-pro-5172",
+      "sourceUrl": "https://at-outlet.com/22614-large_default/hp-elitebook-845-g7-14-amd-ryzen-7-pro-4750u-16gb-ram-128gb-ssd-full-hd-windows-11-pro.jpg"
+    },
+    {
+      "id": "online-hp-elitebook-x360-1040-g9",
+      "kind": "photo",
+      "original": "Online exact-model or model-family product image",
+      "products": [
+        "p19"
+      ],
+      "searchText": "HP EliteBook x360 1040 G9 Apex Computers",
+      "src": "media-04/online-hp-elitebook-x360-1040-g9.webp",
+      "thumb": "media-04/online-hp-elitebook-x360-1040-g9.webp",
+      "title": "HP EliteBook x360 1040 G9",
+      "width": 1200,
+      "height": 900,
+      "sourcePage": "https://www.ldlc.com/en/product/PB00548680.html",
+      "sourceUrl": "https://media.ldlc.com/r1600/ld/products/00/05/97/21/LD0005972154_0005972201_0006028849.jpg"
+    },
+    {
+      "id": "online-hp-prodesk-600-g6",
+      "kind": "photo",
+      "original": "Online exact-model or model-family product image",
+      "products": [
+        "hp-prodesk-600-g6"
+      ],
+      "searchText": "HP ProDesk 600 G6 SFF Apex Computers",
+      "src": "media-04/online-hp-prodesk-600-g6.webp",
+      "thumb": "media-04/online-hp-prodesk-600-g6.webp",
+      "title": "HP ProDesk 600 G6 SFF",
+      "width": 1200,
+      "height": 900,
+      "sourcePage": "https://sportpolis.com.uy/hp-prodesk-600-g6-sff-core-i5-16gb-512gb-win11-pro",
+      "sourceUrl": "https://www.pcservice.com.uy/contentimg/92682/1/d/HP34A89UCI_01.jpg",
+      "archived": true,
+      "archiveReason": "Superseded by newer supplied stock photos and offer in LAPTOP FLYER DESIGN, October 2026."
+    },
+    {
+      "id": "online-hp-e22-g4",
+      "kind": "photo",
+      "original": "Online exact-model or model-family product image",
+      "products": [
+        "hp-e22-g4"
+      ],
+      "searchText": "HP E22 G4 FHD Monitor Apex Computers",
+      "src": "media-04/online-hp-e22-g4.webp",
+      "thumb": "media-04/online-hp-e22-g4.webp",
+      "title": "HP E22 G4 FHD Monitor",
+      "width": 1200,
+      "height": 900,
+      "sourcePage": "https://www.aventissystems.com/e22-monitors-hp/",
+      "sourceUrl": "https://cdn11.bigcommerce.com/s-alitpcfiof/images/stencil/1280x1280/products/24152/24983/810030055983__91239.1697000924.png?c=1"
+    },
+    {
+      "id": "online-dell-p2422h",
+      "kind": "photo",
+      "original": "Online exact-model or model-family product image",
+      "products": [
+        "dell-p2422h"
+      ],
+      "searchText": "Dell P2422H FHD Monitor Apex Computers",
+      "src": "media-04/online-dell-p2422h.webp",
+      "thumb": "media-04/online-dell-p2422h.webp",
+      "title": "Dell P2422H FHD Monitor",
+      "width": 1200,
+      "height": 900,
+      "sourcePage": "https://itadstore.co.za/products/dell-p2422h-23-8-inch-fhd-1920x1080-at-60hz-5ms-ips-tft-led-monitor-new",
+      "sourceUrl": "https://itadstore.co.za/cdn/shop/files/71OlXltl18L_1024x1024.jpg?v=1743327217",
+      "archived": true,
+      "archiveReason": "Superseded by newer supplied stock photos and offer in LAPTOP FLYER DESIGN, October 2026."
+    },
+    {
+      "id": "online-hp-prodesk-400-g5-dm",
+      "kind": "photo",
+      "original": "Online exact-model or model-family product image",
+      "products": [
+        "hp-prodesk-400-g5-dm-set"
+      ],
+      "searchText": "HP ProDesk 400 G5 Desktop Mini Apex Computers",
+      "src": "media-04/online-hp-prodesk-400-g5-dm.webp",
+      "thumb": "media-04/online-hp-prodesk-400-g5-dm.webp",
+      "title": "HP ProDesk 400 G5 Desktop Mini",
+      "width": 1200,
+      "height": 900,
+      "sourcePage": "https://www.infocomputerportugal.com/computadores/desktop/segunda-mao/hp-prodesk-400-g5-mini-pc-core-i5-9500t-22-ghz-32-gb-256-nvme-win-11.html",
+      "sourceUrl": "https://www.infocomputerportugal.com/91793-large_default/hp-prodesk-400-g5-mini-pc-core-i5-9500t-22-ghz-32-gb-256-nvme-win-11.jpg"
+    },
+    {
+      "id": "enhanced-hp-elitebook-845-g8",
+      "kind": "photo",
+      "original": "Enhanced presentation of supplied photo 1002303754.jpg",
+      "products": [
+        "hp845"
+      ],
+      "searchText": "HP EliteBook 845 G8 actual stock photo",
+      "src": "media-03/enhanced-hp-elitebook-845-g8.webp",
+      "thumb": "media-03/enhanced-hp-elitebook-845-g8.webp",
+      "title": "HP EliteBook 845 G8 · Enhanced actual-stock view",
+      "width": 1200,
+      "height": 900
+    },
+    {
+      "id": "hp-elite-dragonfly-g3-hero",
+      "kind": "render",
+      "original": "Clean website visual created from the supplied stock photo set",
+      "products": [
+        "hp-elite-dragonfly-g3"
+      ],
+      "searchText": "HP Elite Dragonfly G3 13.5 inch i7-1265U 16GB 32GB DDR5 256GB touchscreen backlit fingerprint Iris Xe",
+      "src": "media-01/hp-elite-dragonfly-g3-hero.webp",
+      "thumb": "media-01/hp-elite-dragonfly-g3-hero.webp",
+      "title": "HP Elite Dragonfly G3 · Clean product cutout",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "id": "hp-elite-dragonfly-g3-photo-01",
+      "kind": "photo",
+      "original": "1002467429.jpg",
+      "products": [
+        "hp-elite-dragonfly-g3"
+      ],
+      "searchText": "HP Elite Dragonfly G3 13.5 inch i7-1265U 16GB 32GB DDR5 256GB touchscreen backlit fingerprint Iris Xe",
+      "src": "media-01/hp-elite-dragonfly-g3-photo-01.webp",
+      "thumb": "media-01/hp-elite-dragonfly-g3-photo-01.webp",
+      "title": "HP Elite Dragonfly G3 · Rear lid view",
+      "width": 1152,
+      "height": 1536
+    },
+    {
+      "id": "hp-elite-dragonfly-g3-photo-02",
+      "kind": "photo",
+      "original": "1002467427.jpg",
+      "products": [
+        "hp-elite-dragonfly-g3"
+      ],
+      "searchText": "HP Elite Dragonfly G3 13.5 inch i7-1265U 16GB 32GB DDR5 256GB touchscreen backlit fingerprint Iris Xe",
+      "src": "media-01/hp-elite-dragonfly-g3-photo-02.webp",
+      "thumb": "media-01/hp-elite-dragonfly-g3-photo-02.webp",
+      "title": "HP Elite Dragonfly G3 · Open angled view",
+      "width": 1152,
+      "height": 1536
+    },
+    {
+      "id": "hp-elite-dragonfly-g3-photo-03",
+      "kind": "photo",
+      "original": "1002467428.jpg",
+      "products": [
+        "hp-elite-dragonfly-g3"
+      ],
+      "searchText": "HP Elite Dragonfly G3 13.5 inch i7-1265U 16GB 32GB DDR5 256GB touchscreen backlit fingerprint Iris Xe",
+      "src": "media-02/hp-elite-dragonfly-g3-photo-03.webp",
+      "thumb": "media-02/hp-elite-dragonfly-g3-photo-03.webp",
+      "title": "HP Elite Dragonfly G3 · Three-quarter open view",
+      "width": 1152,
+      "height": 1536
+    },
+    {
+      "id": "hp-elite-dragonfly-g3-photo-04",
+      "kind": "photo",
+      "original": "1002467424.jpg",
+      "products": [
+        "hp-elite-dragonfly-g3"
+      ],
+      "searchText": "HP Elite Dragonfly G3 13.5 inch i7-1265U 16GB 32GB DDR5 256GB touchscreen backlit fingerprint Iris Xe",
+      "src": "media-02/hp-elite-dragonfly-g3-photo-04.webp",
+      "thumb": "media-02/hp-elite-dragonfly-g3-photo-04.webp",
+      "title": "HP Elite Dragonfly G3 · Side angle and display",
+      "width": 1152,
+      "height": 1536
+    },
+    {
+      "id": "hp-elite-dragonfly-g3-photo-05",
+      "kind": "photo",
+      "original": "1002467426.jpg",
+      "products": [
+        "hp-elite-dragonfly-g3"
+      ],
+      "searchText": "HP Elite Dragonfly G3 13.5 inch i7-1265U 16GB 32GB DDR5 256GB touchscreen backlit fingerprint Iris Xe",
+      "src": "media-02/hp-elite-dragonfly-g3-photo-05.webp",
+      "thumb": "media-02/hp-elite-dragonfly-g3-photo-05.webp",
+      "title": "HP Elite Dragonfly G3 · Rear chassis view",
+      "width": 1152,
+      "height": 1536
+    },
+    {
+      "id": "hp-elite-dragonfly-g3-photo-06",
+      "kind": "photo",
+      "original": "1002467425.jpg",
+      "products": [
+        "hp-elite-dragonfly-g3"
+      ],
+      "searchText": "HP Elite Dragonfly G3 13.5 inch i7-1265U 16GB 32GB DDR5 256GB touchscreen backlit fingerprint Iris Xe",
+      "src": "media-02/hp-elite-dragonfly-g3-photo-06.webp",
+      "thumb": "media-02/hp-elite-dragonfly-g3-photo-06.webp",
+      "title": "HP Elite Dragonfly G3 · Slim side profile",
+      "width": 1152,
+      "height": 1536
+    },
+    {
+      "id": "hp-elite-dragonfly-g3-photo-07",
+      "kind": "photo",
+      "original": "1002467423.jpg",
+      "products": [
+        "hp-elite-dragonfly-g3"
+      ],
+      "searchText": "HP Elite Dragonfly G3 13.5 inch i7-1265U 16GB 32GB DDR5 256GB touchscreen backlit fingerprint Iris Xe",
+      "src": "media-02/hp-elite-dragonfly-g3-photo-07.webp",
+      "thumb": "media-02/hp-elite-dragonfly-g3-photo-07.webp",
+      "title": "HP Elite Dragonfly G3 · Open front view",
+      "width": 1152,
+      "height": 1536
+    },
+    {
+      "id": "hp-zbook-firefly-16-g9-hero",
+      "kind": "render",
+      "original": "Clean website visual created from the supplied stock photo set",
+      "products": [
+        "p23"
+      ],
+      "searchText": "HP ZBook Firefly 16 G9 16 inch i7-1265U 16GB 512GB backlit fingerprint mobile workstation",
+      "src": "media-03/hp-zbook-firefly-16-g9-hero.webp",
+      "thumb": "media-03/hp-zbook-firefly-16-g9-hero.webp",
+      "title": "HP ZBook Firefly 16 G9 · Clean product visual",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "id": "hp-zbook-firefly-16-g9-photo-01",
+      "kind": "photo",
+      "original": "1002472025.jpg",
+      "products": [
+        "p23"
+      ],
+      "searchText": "HP ZBook Firefly 16 G9 16 inch i7-1265U 16GB 512GB backlit fingerprint mobile workstation",
+      "src": "media-03/hp-zbook-firefly-16-g9-photo-01.webp",
+      "thumb": "media-03/hp-zbook-firefly-16-g9-photo-01.webp",
+      "title": "HP ZBook Firefly 16 G9 · Silver Z lid view",
+      "width": 1152,
+      "height": 1536
+    },
+    {
+      "id": "hp-zbook-firefly-16-g9-photo-02",
+      "kind": "photo",
+      "original": "1002472024.jpg",
+      "products": [
+        "p23"
+      ],
+      "searchText": "HP ZBook Firefly 16 G9 16 inch i7-1265U 16GB 512GB backlit fingerprint mobile workstation",
+      "src": "media-03/hp-zbook-firefly-16-g9-photo-02.webp",
+      "thumb": "media-03/hp-zbook-firefly-16-g9-photo-02.webp",
+      "title": "HP ZBook Firefly 16 G9 · Underside view",
+      "width": 1152,
+      "height": 1536
+    },
+    {
+      "id": "hp-zbook-firefly-16-g9-photo-03",
+      "kind": "photo",
+      "original": "1002472023.jpg",
+      "products": [
+        "p23"
+      ],
+      "searchText": "HP ZBook Firefly 16 G9 16 inch i7-1265U 16GB 512GB backlit fingerprint mobile workstation",
+      "src": "media-03/hp-zbook-firefly-16-g9-photo-03.webp",
+      "thumb": "media-03/hp-zbook-firefly-16-g9-photo-03.webp",
+      "title": "HP ZBook Firefly 16 G9 · Side and ports",
+      "width": 1152,
+      "height": 1536
+    },
+    {
+      "id": "hp-zbook-firefly-16-g9-photo-04",
+      "kind": "photo",
+      "original": "1002472022.jpg",
+      "products": [
+        "p23"
+      ],
+      "searchText": "HP ZBook Firefly 16 G9 16 inch i7-1265U 16GB 512GB backlit fingerprint mobile workstation",
+      "src": "media-03/hp-zbook-firefly-16-g9-photo-04.webp",
+      "thumb": "media-03/hp-zbook-firefly-16-g9-photo-04.webp",
+      "title": "HP ZBook Firefly 16 G9 · Open workstation view",
+      "width": 1152,
+      "height": 1536
+    },
+    {
+      "id": "hp-zbook-firefly-16-g9-photo-05",
+      "kind": "photo",
+      "original": "1002472021.jpg",
+      "products": [
+        "p23"
+      ],
+      "searchText": "HP ZBook Firefly 16 G9 16 inch i7-1265U 16GB 512GB backlit fingerprint mobile workstation",
+      "src": "media-03/hp-zbook-firefly-16-g9-photo-05.webp",
+      "thumb": "media-03/hp-zbook-firefly-16-g9-photo-05.webp",
+      "title": "HP ZBook Firefly 16 G9 · Open front view",
+      "width": 1152,
+      "height": 1536
+    },
+    {
+      "id": "hp-pro-x360-fortis-g10-hero",
+      "kind": "render",
+      "original": "Enhanced clean product presentation based on supplied Fortis stock photos",
+      "products": [
+        "fortis"
+      ],
+      "searchText": "HP Pro x360 Fortis 11 G10 Core i5-1230U 8GB 256GB touchscreen enhanced view",
+      "src": "media-02/hp-pro-x360-fortis-g10-hero.webp",
+      "thumb": "media-02/hp-pro-x360-fortis-g10-hero.webp",
+      "title": "HP Pro x360 Fortis 11 G10 · Clean enhanced product view",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "id": "hp-pro-x360-fortis-g10-photo-01",
+      "kind": "photo",
+      "original": "1002481200.jpg",
+      "products": [
+        "fortis"
+      ],
+      "searchText": "HP Pro x360 Fortis 11 G10 supplied stock photo keyboard convertible",
+      "src": "media-02/hp-pro-x360-fortis-g10-photo-01.webp",
+      "thumb": "media-02/hp-pro-x360-fortis-g10-photo-01.webp",
+      "title": "HP Pro x360 Fortis 11 G10 · Actual stock · Keyboard and convertible stance",
+      "width": 1317,
+      "height": 1536
+    },
+    {
+      "id": "hp-pro-x360-fortis-g10-photo-02",
+      "kind": "photo",
+      "original": "1002481199.jpg",
+      "products": [
+        "fortis"
+      ],
+      "searchText": "HP Pro x360 Fortis 11 G10 actual stock side ports stacked units",
+      "src": "media-02/hp-pro-x360-fortis-g10-photo-02.webp",
+      "thumb": "media-02/hp-pro-x360-fortis-g10-photo-02.webp",
+      "title": "HP Pro x360 Fortis 11 G10 · Actual stock · Ports and side profile",
+      "width": 1152,
+      "height": 1536
+    },
+    {
+      "id": "hp-pro-x360-fortis-g10-photo-03",
+      "kind": "photo",
+      "original": "1002481198.jpg",
+      "products": [
+        "fortis"
+      ],
+      "searchText": "HP Pro x360 Fortis 11 G10 actual stock touchscreen tent mode",
+      "src": "media-02/hp-pro-x360-fortis-g10-photo-03.webp",
+      "thumb": "media-02/hp-pro-x360-fortis-g10-photo-03.webp",
+      "title": "HP Pro x360 Fortis 11 G10 · Actual stock · Touchscreen tent mode",
+      "width": 1152,
+      "height": 1536
+    },
+    {
+      "id": "hp-pro-x360-fortis-g10-photo-04",
+      "kind": "photo",
+      "original": "1002481197.jpg",
+      "products": [
+        "fortis"
+      ],
+      "searchText": "HP Pro x360 Fortis 11 G10 actual stock low-angle convertible mode",
+      "src": "media-02/hp-pro-x360-fortis-g10-photo-04.webp",
+      "thumb": "media-02/hp-pro-x360-fortis-g10-photo-04.webp",
+      "title": "HP Pro x360 Fortis 11 G10 · Actual stock · Convertible side view",
+      "width": 1365,
+      "height": 1536
+    },
+    {
+      "id": "hp-pro-x360-fortis-g10-photo-05",
+      "kind": "photo",
+      "original": "1002481196.jpg",
+      "products": [
+        "fortis"
+      ],
+      "searchText": "HP Pro x360 Fortis 11 G10 actual stock Windows 11 front view",
+      "src": "media-02/hp-pro-x360-fortis-g10-photo-05.webp",
+      "thumb": "media-02/hp-pro-x360-fortis-g10-photo-05.webp",
+      "title": "HP Pro x360 Fortis 11 G10 · Actual stock · Open front view",
+      "width": 1276,
+      "height": 1536
+    },
+    {
+      "id": "hp-elitedisplay-e273m-hero",
+      "kind": "render",
+      "original": "Enhanced background-removed product presentation based on supplied stock photos",
+      "products": [
+        "hp-elitedisplay-e273m"
+      ],
+      "searchText": "HP EliteDisplay E273m 27 inch FHD monitor webcam speakers HDMI DisplayPort VGA enhanced product view",
+      "src": "media-01/hp-elitedisplay-e273m-hero.webp",
+      "thumb": "media-01/hp-elitedisplay-e273m-hero.webp",
+      "title": "HP EliteDisplay E273m · Enhanced clean product view",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "id": "hp-elitedisplay-e273m-photo-01",
+      "kind": "photo",
+      "original": "1002481201.jpg",
+      "products": [
+        "hp-elitedisplay-e273m"
+      ],
+      "searchText": "HP EliteDisplay E273m actual stock front 27 inch monitor popup webcam",
+      "src": "media-01/hp-elitedisplay-e273m-photo-01.webp",
+      "thumb": "media-01/hp-elitedisplay-e273m-photo-01.webp",
+      "title": "HP EliteDisplay E273m · Actual stock · Front view",
+      "width": 1152,
+      "height": 1536
+    },
+    {
+      "id": "hp-elitedisplay-e273m-photo-02",
+      "kind": "photo",
+      "original": "1002481202.jpg",
+      "products": [
+        "hp-elitedisplay-e273m"
+      ],
+      "searchText": "HP EliteDisplay E273m actual stock portrait pivot display",
+      "src": "media-02/hp-elitedisplay-e273m-photo-02.webp",
+      "thumb": "media-02/hp-elitedisplay-e273m-photo-02.webp",
+      "title": "HP EliteDisplay E273m · Actual stock · Portrait pivot",
+      "width": 1152,
+      "height": 1536
+    },
+    {
+      "id": "hp-elitedisplay-e273m-photo-03",
+      "kind": "photo",
+      "original": "1002481203.jpg",
+      "products": [
+        "hp-elitedisplay-e273m"
+      ],
+      "searchText": "HP EliteDisplay E273m actual stock portrait screen webcam speakers",
+      "src": "media-02/hp-elitedisplay-e273m-photo-03.webp",
+      "thumb": "media-02/hp-elitedisplay-e273m-photo-03.webp",
+      "title": "HP EliteDisplay E273m · Actual stock · Portrait media view",
+      "width": 1152,
+      "height": 1536
+    },
+    {
+      "id": "hp-elitedisplay-e273m-photo-04",
+      "kind": "photo",
+      "original": "1002481204.jpg",
+      "products": [
+        "hp-elitedisplay-e273m"
+      ],
+      "searchText": "HP EliteDisplay E273m actual stock rear view stand ports",
+      "src": "media-03/hp-elitedisplay-e273m-photo-04.webp",
+      "thumb": "media-03/hp-elitedisplay-e273m-photo-04.webp",
+      "title": "HP EliteDisplay E273m · Actual stock · Rear view and stand",
+      "width": 1152,
+      "height": 1536
+    },
+    {
+      "id": "hp-elitedisplay-e273m-photo-05",
+      "kind": "photo",
+      "original": "1002481205.jpg",
+      "products": [
+        "hp-elitedisplay-e273m"
+      ],
+      "searchText": "HP EliteDisplay E273m actual stock rear side ports slim profile",
+      "src": "media-03/hp-elitedisplay-e273m-photo-05.webp",
+      "thumb": "media-03/hp-elitedisplay-e273m-photo-05.webp",
+      "title": "HP EliteDisplay E273m · Actual stock · Rear side profile",
+      "width": 1152,
+      "height": 1536
+    },
+    {
+      "id": "hp-elitebook-840-g6-cutout",
+      "kind": "render",
+      "original": "Background-removed enhancement of supplied HP EliteBook 840 G6 image",
+      "products": [
+        "hp-elitebook-840-g6"
+      ],
+      "searchText": "HP EliteBook 840 G6 Core i7 8th Gen 16GB 512GB SSD silver",
+      "src": "media-03/hp-elitebook-840-g6-cutout.webp",
+      "thumb": "media-03/hp-elitebook-840-g6-cutout.webp",
+      "title": "HP EliteBook 840 G6 · Enhanced transparent product view",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "id": "hp-elitebook-840-g6-photo-01",
+      "kind": "photo",
+      "original": "Supplied product photo 1 October 2026",
+      "products": [
+        "hp-elitebook-840-g6"
+      ],
+      "searchText": "HP EliteBook 840 G6 supplied product photo open front",
+      "src": "media-03/hp-elitebook-840-g6-photo-01.webp",
+      "thumb": "media-03/hp-elitebook-840-g6-photo-01.webp",
+      "title": "HP EliteBook 840 G6 · Open front view",
+      "width": 1436,
+      "height": 1536
+    },
+    {
+      "id": "hp-elitebook-840-g6-photo-02",
+      "kind": "photo",
+      "original": "Supplied product photo 1 October 2026",
+      "products": [
+        "hp-elitebook-840-g6"
+      ],
+      "searchText": "HP EliteBook 840 G6 supplied product photo rear lid silver",
+      "src": "media-03/hp-elitebook-840-g6-photo-02.webp",
+      "thumb": "media-03/hp-elitebook-840-g6-photo-02.webp",
+      "title": "HP EliteBook 840 G6 · Rear lid with stack view",
+      "width": 1536,
+      "height": 1442
+    },
+    {
+      "id": "hp-elitebook-840-g6-photo-03",
+      "kind": "photo",
+      "original": "Supplied product photo 1 October 2026",
+      "products": [
+        "hp-elitebook-840-g6"
+      ],
+      "searchText": "HP EliteBook 840 G6 supplied product photo desk setup",
+      "src": "media-03/hp-elitebook-840-g6-photo-03.webp",
+      "thumb": "media-03/hp-elitebook-840-g6-photo-03.webp",
+      "title": "HP EliteBook 840 G6 · Desk setup photo",
+      "width": 1536,
+      "height": 1209
+    },
+    {
+      "id": "hp-elitebook-840-g6-photo-04",
+      "kind": "photo",
+      "original": "Supplied product photo 1 October 2026",
+      "products": [
+        "hp-elitebook-840-g6"
+      ],
+      "searchText": "HP EliteBook 840 G6 supplied product photo side ports silver",
+      "src": "media-03/hp-elitebook-840-g6-photo-04.webp",
+      "thumb": "media-03/hp-elitebook-840-g6-photo-04.webp",
+      "title": "HP EliteBook 840 G6 · Side ports and stack view",
+      "width": 1522,
+      "height": 1536
+    },
+    {
+      "id": "hp-e22-g4-photo-01",
+      "kind": "photo",
+      "original": "Still frame from supplied product video",
+      "products": [
+        "hp-e22-g4"
+      ],
+      "searchText": "HP E22 G4 supplied monitor front view",
+      "src": "media-03/hp-e22-g4-photo-01.webp",
+      "thumb": "media-03/hp-e22-g4-photo-01.webp",
+      "title": "HP E22 G4 · Front supplied unit view",
+      "width": 576,
+      "height": 1024
+    },
+    {
+      "id": "hp-e22-g4-photo-02",
+      "kind": "photo",
+      "original": "Still frame from supplied product video",
+      "products": [
+        "hp-e22-g4"
+      ],
+      "searchText": "HP E22 G4 supplied monitor side profile",
+      "src": "media-01/hp-e22-g4-video-poster-v2.webp",
+      "thumb": "media-01/hp-e22-g4-video-poster-v2.webp",
+      "title": "HP E22 G4 · Side profile supplied unit view",
+      "width": 576,
+      "height": 1024
+    },
+    {
+      "id": "hp-e22-g4-video",
+      "kind": "video",
+      "mime": "video/mp4",
+      "original": "1002493174.mp4",
+      "products": [
+        "hp-e22-g4"
+      ],
+      "searchText": "HP E22 G4 21.5 inch monitor supplied product video HDMI DisplayPort VGA",
+      "src": "media-03/hp-e22-g4-video.mp4",
+      "thumb": "media-03/hp-e22-g4-video-poster.webp",
+      "title": "HP E22 G4 · Supplied product video",
+      "width": 576,
+      "height": 1024,
+      "duration": 31.0
+    },
+    {
+      "id": "dell-optiplex-7020-cutout",
+      "kind": "render",
+      "original": "Clean product enhancement based on supplied Dell OptiPlex 7020 references",
+      "products": [
+        "dell-optiplex-7020"
+      ],
+      "searchText": "Dell OptiPlex 7020 tower Core i5 4th Gen 20GB RAM",
+      "src": "media-03/dell-optiplex-7020-cutout.webp",
+      "thumb": "media-03/dell-optiplex-7020-cutout.webp",
+      "title": "Dell OptiPlex 7020 · Enhanced product tower view",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "id": "dell-optiplex-7020-photo-01",
+      "kind": "photo",
+      "original": "Supplied Dell OptiPlex 7020 reference image",
+      "products": [
+        "dell-optiplex-7020"
+      ],
+      "searchText": "Dell OptiPlex 7020 supplied reference front rear",
+      "src": "media-03/dell-optiplex-7020-photo-01.webp",
+      "thumb": "media-03/dell-optiplex-7020-photo-01.webp",
+      "title": "Dell OptiPlex 7020 · Front and rear reference view",
+      "width": 1536,
+      "height": 1385
+    },
+    {
+      "id": "dell-optiplex-7020-photo-02",
+      "kind": "photo",
+      "original": "Supplied Dell OptiPlex 7020 reference image",
+      "products": [
+        "dell-optiplex-7020"
+      ],
+      "searchText": "Dell OptiPlex 7020 supplied reference angled",
+      "src": "media-03/dell-optiplex-7020-photo-02.webp",
+      "thumb": "media-03/dell-optiplex-7020-photo-02.webp",
+      "title": "Dell OptiPlex 7020 · Angled tower reference view",
+      "width": 1536,
+      "height": 1411
+    },
+    {
+      "id": "chat-Oct10-hp820-photo-01",
+      "kind": "photo",
+      "original": "1002522231.jpg",
+      "products": [
+        "hp820"
+      ],
+      "searchText": "HP EliteBook 820 G3 · Underside and ports",
+      "src": "media-01/chat-Oct10-hp820-photo-01.webp",
+      "thumb": "media-04/chat-Oct10-hp820-photo-01-thumb.webp",
+      "title": "HP EliteBook 820 G3 · Underside and ports",
+      "width": 1152,
+      "height": 1536,
+      "sourceChat": "LAPTOP FLYER DESIGN",
+      "sourceDate": "2026-10-09"
+    },
+    {
+      "id": "chat-Oct10-hp820-photo-02",
+      "kind": "photo",
+      "original": "1002522234.jpg",
+      "products": [
+        "hp820"
+      ],
+      "searchText": "HP EliteBook 820 G3 · Silver lid and keyboard",
+      "src": "media-01/chat-Oct10-hp820-photo-02.webp",
+      "thumb": "media-04/chat-Oct10-hp820-photo-02-thumb.webp",
+      "title": "HP EliteBook 820 G3 · Silver lid and keyboard",
+      "width": 1152,
+      "height": 1536,
+      "sourceChat": "LAPTOP FLYER DESIGN",
+      "sourceDate": "2026-10-09"
+    },
+    {
+      "id": "chat-Oct10-hp820-photo-03",
+      "kind": "photo",
+      "original": "1002522235.jpg",
+      "products": [
+        "hp820"
+      ],
+      "searchText": "HP EliteBook 820 G3 · Open front stock view",
+      "src": "media-01/chat-Oct10-hp820-photo-03.webp",
+      "thumb": "media-04/chat-Oct10-hp820-photo-03-thumb.webp",
+      "title": "HP EliteBook 820 G3 · Open front stock view",
+      "width": 1152,
+      "height": 1536,
+      "sourceChat": "LAPTOP FLYER DESIGN",
+      "sourceDate": "2026-10-09"
+    },
+    {
+      "id": "chat-Oct10-hp820-photo-04",
+      "kind": "photo",
+      "original": "1002522236.jpg",
+      "products": [
+        "hp820"
+      ],
+      "searchText": "HP EliteBook 820 G3 · Open stock view",
+      "src": "media-01/chat-Oct10-hp820-photo-04.webp",
+      "thumb": "media-04/chat-Oct10-hp820-photo-04-thumb.webp",
+      "title": "HP EliteBook 820 G3 · Open stock view",
+      "width": 1152,
+      "height": 1536,
+      "sourceChat": "LAPTOP FLYER DESIGN",
+      "sourceDate": "2026-10-09"
+    },
+    {
+      "id": "chat-Oct10-hp820-photo-05",
+      "kind": "photo",
+      "original": "1002522237.jpg",
+      "products": [
+        "hp820"
+      ],
+      "searchText": "HP EliteBook 820 G3 · Keyboard and display",
+      "src": "media-01/chat-Oct10-hp820-photo-05.webp",
+      "thumb": "media-04/chat-Oct10-hp820-photo-05-thumb.webp",
+      "title": "HP EliteBook 820 G3 · Keyboard and display",
+      "width": 1152,
+      "height": 1536,
+      "sourceChat": "LAPTOP FLYER DESIGN",
+      "sourceDate": "2026-10-09"
+    },
+    {
+      "id": "chat-Oct10-hp-elitebook-x360-1040-g8-photo-01",
+      "kind": "photo",
+      "original": "1002512879.jpg",
+      "products": [
+        "hp-elitebook-x360-1040-g8"
+      ],
+      "searchText": "HP EliteBook x360 1040 G8 · Open three-quarter stock view",
+      "src": "media-01/chat-Oct10-hp-elitebook-x360-1040-g8-photo-01.webp",
+      "thumb": "media-04/chat-Oct10-hp-elitebook-x360-1040-g8-photo-01-thumb.webp",
+      "title": "HP EliteBook x360 1040 G8 · Open three-quarter stock view",
+      "width": 1152,
+      "height": 1536,
+      "sourceChat": "LAPTOP FLYER DESIGN",
+      "sourceDate": "2026-10-07"
+    },
+    {
+      "id": "chat-Oct10-hp-elitebook-x360-1040-g8-photo-02",
+      "kind": "photo",
+      "original": "1002512880.jpg",
+      "products": [
+        "hp-elitebook-x360-1040-g8"
+      ],
+      "searchText": "HP EliteBook x360 1040 G8 · Touchscreen tablet mode",
+      "src": "media-01/chat-Oct10-hp-elitebook-x360-1040-g8-photo-02.webp",
+      "thumb": "media-04/chat-Oct10-hp-elitebook-x360-1040-g8-photo-02-thumb.webp",
+      "title": "HP EliteBook x360 1040 G8 · Touchscreen tablet mode",
+      "width": 1152,
+      "height": 1536,
+      "sourceChat": "LAPTOP FLYER DESIGN",
+      "sourceDate": "2026-10-07"
+    },
+    {
+      "id": "chat-Oct10-hp-elitebook-x360-1040-g8-photo-03",
+      "kind": "photo",
+      "original": "1002512881.jpg",
+      "products": [
+        "hp-elitebook-x360-1040-g8"
+      ],
+      "searchText": "HP EliteBook x360 1040 G8 · Convertible stock views",
+      "src": "media-01/chat-Oct10-hp-elitebook-x360-1040-g8-photo-03.webp",
+      "thumb": "media-04/chat-Oct10-hp-elitebook-x360-1040-g8-photo-03-thumb.webp",
+      "title": "HP EliteBook x360 1040 G8 · Convertible stock views",
+      "width": 1152,
+      "height": 1536,
+      "sourceChat": "LAPTOP FLYER DESIGN",
+      "sourceDate": "2026-10-07"
+    },
+    {
+      "id": "chat-Oct10-hp-elitebook-x360-1040-g8-photo-04",
+      "kind": "photo",
+      "original": "1002512882.jpg",
+      "products": [
+        "hp-elitebook-x360-1040-g8"
+      ],
+      "searchText": "HP EliteBook x360 1040 G8 · Rear lid and tablet mode",
+      "src": "media-01/chat-Oct10-hp-elitebook-x360-1040-g8-photo-04.webp",
+      "thumb": "media-04/chat-Oct10-hp-elitebook-x360-1040-g8-photo-04-thumb.webp",
+      "title": "HP EliteBook x360 1040 G8 · Rear lid and tablet mode",
+      "width": 1152,
+      "height": 1536,
+      "sourceChat": "LAPTOP FLYER DESIGN",
+      "sourceDate": "2026-10-07"
+    },
+    {
+      "id": "chat-Oct10-hp-elitebook-x360-1040-g8-photo-05",
+      "kind": "photo",
+      "original": "1002512883.jpg",
+      "products": [
+        "hp-elitebook-x360-1040-g8"
+      ],
+      "searchText": "HP EliteBook x360 1040 G8 · Keyboard and screen",
+      "src": "media-01/chat-Oct10-hp-elitebook-x360-1040-g8-photo-05.webp",
+      "thumb": "media-04/chat-Oct10-hp-elitebook-x360-1040-g8-photo-05-thumb.webp",
+      "title": "HP EliteBook x360 1040 G8 · Keyboard and screen",
+      "width": 1152,
+      "height": 1536,
+      "sourceChat": "LAPTOP FLYER DESIGN",
+      "sourceDate": "2026-10-07"
+    },
+    {
+      "id": "chat-Oct10-p10-photo-01",
+      "kind": "photo",
+      "original": "1002522437.jpg",
+      "products": [
+        "p10"
+      ],
+      "searchText": "HP EliteBook x360 830 G6 · i5 stock lid and underside",
+      "src": "media-01/chat-Oct10-p10-photo-01.webp",
+      "thumb": "media-04/chat-Oct10-p10-photo-01-thumb.webp",
+      "title": "HP EliteBook x360 830 G6 · i5 stock lid and underside",
+      "width": 1152,
+      "height": 1536,
+      "sourceChat": "LAPTOP FLYER DESIGN",
+      "sourceDate": "2026-10-09",
+      "variantIndex": 0
+    },
+    {
+      "id": "chat-Oct10-p10-photo-02",
+      "kind": "photo",
+      "original": "1002522438.jpg",
+      "products": [
+        "p10"
+      ],
+      "searchText": "HP EliteBook x360 830 G6 · i5 stock side view",
+      "src": "media-01/chat-Oct10-p10-photo-02.webp",
+      "thumb": "media-04/chat-Oct10-p10-photo-02-thumb.webp",
+      "title": "HP EliteBook x360 830 G6 · i5 stock side view",
+      "width": 1152,
+      "height": 1536,
+      "sourceChat": "LAPTOP FLYER DESIGN",
+      "sourceDate": "2026-10-09",
+      "variantIndex": 0
+    },
+    {
+      "id": "chat-Oct10-p10-photo-03",
+      "kind": "photo",
+      "original": "1002522439.jpg",
+      "products": [
+        "p10"
+      ],
+      "searchText": "HP EliteBook x360 830 G6 · i5 stock folded tablet mode",
+      "src": "media-01/chat-Oct10-p10-photo-03.webp",
+      "thumb": "media-04/chat-Oct10-p10-photo-03-thumb.webp",
+      "title": "HP EliteBook x360 830 G6 · i5 stock folded tablet mode",
+      "width": 1152,
+      "height": 1536,
+      "sourceChat": "LAPTOP FLYER DESIGN",
+      "sourceDate": "2026-10-09",
+      "variantIndex": 0
+    },
+    {
+      "id": "chat-Oct10-p10-photo-04",
+      "kind": "photo",
+      "original": "1002522440.jpg",
+      "products": [
+        "p10"
+      ],
+      "searchText": "HP EliteBook x360 830 G6 · i5 stock keyboard view",
+      "src": "media-01/chat-Oct10-p10-photo-04.webp",
+      "thumb": "media-04/chat-Oct10-p10-photo-04-thumb.webp",
+      "title": "HP EliteBook x360 830 G6 · i5 stock keyboard view",
+      "width": 1152,
+      "height": 1536,
+      "sourceChat": "LAPTOP FLYER DESIGN",
+      "sourceDate": "2026-10-09",
+      "variantIndex": 0
+    },
+    {
+      "id": "chat-Oct10-p10-photo-05",
+      "kind": "photo",
+      "original": "1002522441.jpg",
+      "products": [
+        "p10"
+      ],
+      "searchText": "HP EliteBook x360 830 G6 · i5 stock open three-quarter view",
+      "src": "media-01/chat-Oct10-p10-photo-05.webp",
+      "thumb": "media-04/chat-Oct10-p10-photo-05-thumb.webp",
+      "title": "HP EliteBook x360 830 G6 · i5 stock open three-quarter view",
+      "width": 1152,
+      "height": 1536,
+      "sourceChat": "LAPTOP FLYER DESIGN",
+      "sourceDate": "2026-10-09",
+      "variantIndex": 0
+    },
+    {
+      "id": "chat-Oct10-p10-photo-06",
+      "kind": "photo",
+      "original": "1002522442.jpg",
+      "products": [
+        "p10"
+      ],
+      "searchText": "HP EliteBook x360 830 G6 · i5 stock rear lid",
+      "src": "media-01/chat-Oct10-p10-photo-06.webp",
+      "thumb": "media-04/chat-Oct10-p10-photo-06-thumb.webp",
+      "title": "HP EliteBook x360 830 G6 · i5 stock rear lid",
+      "width": 1152,
+      "height": 1536,
+      "sourceChat": "LAPTOP FLYER DESIGN",
+      "sourceDate": "2026-10-09",
+      "variantIndex": 0
+    },
+    {
+      "id": "chat-Oct10-p10-flyer-i5",
+      "kind": "flyer",
+      "original": "HP EliteBook x360 Promotional Poster.png",
+      "products": [
+        "p10"
+      ],
+      "searchText": "HP EliteBook x360 830 G6 · Core i5 · TSh 890,000 flyer",
+      "src": "media-01/chat-Oct10-p10-flyer-i5.webp",
+      "thumb": "media-01/chat-Oct10-p10-flyer-i5.webp",
+      "title": "HP EliteBook x360 830 G6 · Core i5 · TSh 890,000 flyer",
+      "width": 1122,
+      "height": 1402,
+      "sourceChat": "LAPTOP FLYER DESIGN",
+      "sourceDate": "2026-10-09",
+      "variantIndex": 0,
+      "offerPrices": [
+        890000
+      ]
+    },
+    {
+      "id": "chat-Oct10-hp-prodesk-600-g6-photo-01",
+      "kind": "photo",
+      "original": "1002522335.jpg",
+      "products": [
+        "hp-prodesk-600-g6"
+      ],
+      "searchText": "HP ProDesk 600 G6 MT · Rear ports and tower chassis",
+      "src": "media-01/chat-Oct10-hp-prodesk-600-g6-photo-01.webp",
+      "thumb": "media-04/chat-Oct10-hp-prodesk-600-g6-photo-01-thumb.webp",
+      "title": "HP ProDesk 600 G6 MT · Rear ports and tower chassis",
+      "width": 1209,
+      "height": 1536,
+      "sourceChat": "LAPTOP FLYER DESIGN",
+      "sourceDate": "2026-10-09"
+    },
+    {
+      "id": "chat-Oct10-hp-prodesk-600-g6-photo-02",
+      "kind": "photo",
+      "original": "1002522336.jpg",
+      "products": [
+        "hp-prodesk-600-g6"
+      ],
+      "searchText": "HP ProDesk 600 G6 MT · Front stock tower view",
+      "src": "media-01/chat-Oct10-hp-prodesk-600-g6-photo-02.webp",
+      "thumb": "media-04/chat-Oct10-hp-prodesk-600-g6-photo-02-thumb.webp",
+      "title": "HP ProDesk 600 G6 MT · Front stock tower view",
+      "width": 1267,
+      "height": 1536,
+      "sourceChat": "LAPTOP FLYER DESIGN",
+      "sourceDate": "2026-10-09"
+    },
+    {
+      "id": "chat-Oct10-hp-prodesk-600-g6-photo-03",
+      "kind": "photo",
+      "original": "1002522337.jpg",
+      "products": [
+        "hp-prodesk-600-g6"
+      ],
+      "searchText": "HP ProDesk 600 G6 MT · Front and side view",
+      "src": "media-01/chat-Oct10-hp-prodesk-600-g6-photo-03.webp",
+      "thumb": "media-04/chat-Oct10-hp-prodesk-600-g6-photo-03-thumb.webp",
+      "title": "HP ProDesk 600 G6 MT · Front and side view",
+      "width": 1323,
+      "height": 1536,
+      "sourceChat": "LAPTOP FLYER DESIGN",
+      "sourceDate": "2026-10-09"
+    },
+    {
+      "id": "chat-Oct10-hp-prodesk-600-g6-flyer",
+      "kind": "flyer",
+      "original": "HP ProDesk 600 G6 MT Tech Sale Flyer.png",
+      "products": [
+        "hp-prodesk-600-g6"
+      ],
+      "searchText": "HP ProDesk 600 G6 MT · TSh 930,000 flyer",
+      "src": "media-01/chat-Oct10-hp-prodesk-600-g6-flyer.webp",
+      "thumb": "media-01/chat-Oct10-hp-prodesk-600-g6-flyer.webp",
+      "title": "HP ProDesk 600 G6 MT · TSh 930,000 flyer",
+      "width": 1122,
+      "height": 1402,
+      "sourceChat": "LAPTOP FLYER DESIGN",
+      "sourceDate": "2026-10-09",
+      "offerPrices": [
+        930000
+      ]
+    },
+    {
+      "id": "chat-Oct10-hp-elitedesk-800-g5-sff-photo-01",
+      "kind": "photo",
+      "original": "1002522264.jpg",
+      "products": [
+        "hp-elitedesk-800-g5-sff"
+      ],
+      "searchText": "HP EliteDesk 800 G5 SFF · Rear ports",
+      "src": "media-01/chat-Oct10-hp-elitedesk-800-g5-sff-photo-01.webp",
+      "thumb": "media-04/chat-Oct10-hp-elitedesk-800-g5-sff-photo-01-thumb.webp",
+      "title": "HP EliteDesk 800 G5 SFF · Rear ports",
+      "width": 1152,
+      "height": 1536,
+      "sourceChat": "LAPTOP FLYER DESIGN",
+      "sourceDate": "2026-10-09"
+    },
+    {
+      "id": "chat-Oct10-hp-elitedesk-800-g5-sff-photo-02",
+      "kind": "photo",
+      "original": "1002522265.jpg",
+      "products": [
+        "hp-elitedesk-800-g5-sff"
+      ],
+      "searchText": "HP EliteDesk 800 G5 SFF · Front stock view and processor label",
+      "src": "media-01/chat-Oct10-hp-elitedesk-800-g5-sff-photo-02.webp",
+      "thumb": "media-04/chat-Oct10-hp-elitedesk-800-g5-sff-photo-02-thumb.webp",
+      "title": "HP EliteDesk 800 G5 SFF · Front stock view and processor label",
+      "width": 1152,
+      "height": 1536,
+      "sourceChat": "LAPTOP FLYER DESIGN",
+      "sourceDate": "2026-10-09"
+    },
+    {
+      "id": "chat-Oct10-hp-elitedesk-800-g5-sff-photo-03",
+      "kind": "photo",
+      "original": "1002522266.jpg",
+      "products": [
+        "hp-elitedesk-800-g5-sff"
+      ],
+      "searchText": "HP EliteDesk 800 G5 SFF · Side and underside",
+      "src": "media-01/chat-Oct10-hp-elitedesk-800-g5-sff-photo-03.webp",
+      "thumb": "media-04/chat-Oct10-hp-elitedesk-800-g5-sff-photo-03-thumb.webp",
+      "title": "HP EliteDesk 800 G5 SFF · Side and underside",
+      "width": 1152,
+      "height": 1536,
+      "sourceChat": "LAPTOP FLYER DESIGN",
+      "sourceDate": "2026-10-09"
+    },
+    {
+      "id": "chat-Oct10-hp-elitedesk-800-g5-sff-flyer",
+      "kind": "flyer",
+      "original": "HP EliteDesk Gold Business Flyer.png · quantity badge corrected to Confirm Stock",
+      "products": [
+        "hp-elitedesk-800-g5-sff"
+      ],
+      "searchText": "HP EliteDesk 800 G5 SFF · 9th Gen TSh 580,000 · 8th Gen TSh 630,000 flyer",
+      "src": "media-01/chat-Oct10-hp-elitedesk-800-g5-sff-flyer.webp",
+      "thumb": "media-01/chat-Oct10-hp-elitedesk-800-g5-sff-flyer.webp",
+      "title": "HP EliteDesk 800 G5 SFF · 9th Gen TSh 580,000 · 8th Gen TSh 630,000 flyer",
+      "width": 1122,
+      "height": 1402,
+      "sourceChat": "LAPTOP FLYER DESIGN",
+      "sourceDate": "2026-10-09",
+      "offerPrices": [
+        580000,
+        630000
+      ],
+      "sourceNote": "Supplied gold flyer; unsupported quantity badge replaced with Confirm Stock. Both supplied prices and specification text preserved."
+    },
+    {
+      "id": "chat-Oct10-dell-latitude-5310-2-in-1-photo-01",
+      "kind": "photo",
+      "original": "1002522730.jpg",
+      "products": [
+        "dell-latitude-5310-2-in-1"
+      ],
+      "searchText": "Dell Latitude 5310 2-in-1 · Rear lid and underside",
+      "src": "media-01/chat-Oct10-dell-latitude-5310-2-in-1-photo-01.webp",
+      "thumb": "media-04/chat-Oct10-dell-latitude-5310-2-in-1-photo-01-thumb.webp",
+      "title": "Dell Latitude 5310 2-in-1 · Rear lid and underside",
+      "width": 1147,
+      "height": 1536,
+      "sourceChat": "LAPTOP FLYER DESIGN",
+      "sourceDate": "2026-10-09"
+    },
+    {
+      "id": "chat-Oct10-dell-latitude-5310-2-in-1-photo-02",
+      "kind": "photo",
+      "original": "1002522733.jpg",
+      "products": [
+        "dell-latitude-5310-2-in-1"
+      ],
+      "searchText": "Dell Latitude 5310 2-in-1 · Open front stock view",
+      "src": "media-01/chat-Oct10-dell-latitude-5310-2-in-1-photo-02.webp",
+      "thumb": "media-04/chat-Oct10-dell-latitude-5310-2-in-1-photo-02-thumb.webp",
+      "title": "Dell Latitude 5310 2-in-1 · Open front stock view",
+      "width": 1157,
+      "height": 1536,
+      "sourceChat": "LAPTOP FLYER DESIGN",
+      "sourceDate": "2026-10-09"
+    },
+    {
+      "id": "chat-Oct10-dell-latitude-5310-2-in-1-photo-03",
+      "kind": "photo",
+      "original": "1002522734.jpg",
+      "products": [
+        "dell-latitude-5310-2-in-1"
+      ],
+      "searchText": "Dell Latitude 5310 2-in-1 · Keyboard and convertible mode",
+      "src": "media-01/chat-Oct10-dell-latitude-5310-2-in-1-photo-03.webp",
+      "thumb": "media-04/chat-Oct10-dell-latitude-5310-2-in-1-photo-03-thumb.webp",
+      "title": "Dell Latitude 5310 2-in-1 · Keyboard and convertible mode",
+      "width": 1536,
+      "height": 1531,
+      "sourceChat": "LAPTOP FLYER DESIGN",
+      "sourceDate": "2026-10-09"
+    },
+    {
+      "id": "chat-Oct10-dell-latitude-5310-2-in-1-photo-04",
+      "kind": "photo",
+      "original": "1002522735.jpg",
+      "products": [
+        "dell-latitude-5310-2-in-1"
+      ],
+      "searchText": "Dell Latitude 5310 2-in-1 · Tablet and keyboard views",
+      "src": "media-01/chat-Oct10-dell-latitude-5310-2-in-1-photo-04.webp",
+      "thumb": "media-04/chat-Oct10-dell-latitude-5310-2-in-1-photo-04-thumb.webp",
+      "title": "Dell Latitude 5310 2-in-1 · Tablet and keyboard views",
+      "width": 1536,
+      "height": 1406,
+      "sourceChat": "LAPTOP FLYER DESIGN",
+      "sourceDate": "2026-10-09"
+    },
+    {
+      "id": "chat-Oct10-dell-latitude-5310-2-in-1-photo-05",
+      "kind": "photo",
+      "original": "1002522742.jpg",
+      "products": [
+        "dell-latitude-5310-2-in-1"
+      ],
+      "searchText": "Dell Latitude 5310 2-in-1 · Rear hinge view",
+      "src": "media-01/chat-Oct10-dell-latitude-5310-2-in-1-photo-05.webp",
+      "thumb": "media-04/chat-Oct10-dell-latitude-5310-2-in-1-photo-05-thumb.webp",
+      "title": "Dell Latitude 5310 2-in-1 · Rear hinge view",
+      "width": 1397,
+      "height": 1536,
+      "sourceChat": "LAPTOP FLYER DESIGN",
+      "sourceDate": "2026-10-09"
+    },
+    {
+      "id": "chat-Oct10-dell-latitude-5310-2-in-1-photo-06",
+      "kind": "photo",
+      "original": "1002522743.jpg",
+      "products": [
+        "dell-latitude-5310-2-in-1"
+      ],
+      "searchText": "Dell Latitude 5310 2-in-1 · Lid and chassis",
+      "src": "media-01/chat-Oct10-dell-latitude-5310-2-in-1-photo-06.webp",
+      "thumb": "media-04/chat-Oct10-dell-latitude-5310-2-in-1-photo-06-thumb.webp",
+      "title": "Dell Latitude 5310 2-in-1 · Lid and chassis",
+      "width": 1418,
+      "height": 1536,
+      "sourceChat": "LAPTOP FLYER DESIGN",
+      "sourceDate": "2026-10-09"
+    },
+    {
+      "id": "chat-Oct10-dell-latitude-5310-2-in-1-flyer",
+      "kind": "flyer",
+      "original": "Dell Latitude 5310 2-in-1 Sale Flyer.png",
+      "products": [
+        "dell-latitude-5310-2-in-1"
+      ],
+      "searchText": "Dell Latitude 5310 2-in-1 · One pc · TSh 770,000 flyer",
+      "src": "media-01/chat-Oct10-dell-latitude-5310-2-in-1-flyer.webp",
+      "thumb": "media-01/chat-Oct10-dell-latitude-5310-2-in-1-flyer.webp",
+      "title": "Dell Latitude 5310 2-in-1 · One pc · TSh 770,000 flyer",
+      "width": 1122,
+      "height": 1402,
+      "sourceChat": "LAPTOP FLYER DESIGN",
+      "sourceDate": "2026-10-09",
+      "offerPrices": [
+        770000
+      ]
+    },
+    {
+      "id": "chat-Oct10-dell-latitude-7480-photo-01",
+      "kind": "photo",
+      "original": "1002522766.jpg",
+      "products": [
+        "dell-latitude-7480"
+      ],
+      "searchText": "Dell Latitude 7480 · Open front stock view",
+      "src": "media-01/chat-Oct10-dell-latitude-7480-photo-01.webp",
+      "thumb": "media-04/chat-Oct10-dell-latitude-7480-photo-01-thumb.webp",
+      "title": "Dell Latitude 7480 · Open front stock view",
+      "width": 1152,
+      "height": 1536,
+      "sourceChat": "LAPTOP FLYER DESIGN",
+      "sourceDate": "2026-10-09"
+    },
+    {
+      "id": "chat-Oct10-dell-latitude-7480-photo-02",
+      "kind": "photo",
+      "original": "1002522767.jpg",
+      "products": [
+        "dell-latitude-7480"
+      ],
+      "searchText": "Dell Latitude 7480 · Open three-quarter stock view",
+      "src": "media-01/chat-Oct10-dell-latitude-7480-photo-02.webp",
+      "thumb": "media-04/chat-Oct10-dell-latitude-7480-photo-02-thumb.webp",
+      "title": "Dell Latitude 7480 · Open three-quarter stock view",
+      "width": 1152,
+      "height": 1536,
+      "sourceChat": "LAPTOP FLYER DESIGN",
+      "sourceDate": "2026-10-09"
+    },
+    {
+      "id": "chat-Oct10-dell-latitude-7480-photo-03",
+      "kind": "photo",
+      "original": "1002522768.jpg",
+      "products": [
+        "dell-latitude-7480"
+      ],
+      "searchText": "Dell Latitude 7480 · Rear lid",
+      "src": "media-01/chat-Oct10-dell-latitude-7480-photo-03.webp",
+      "thumb": "media-04/chat-Oct10-dell-latitude-7480-photo-03-thumb.webp",
+      "title": "Dell Latitude 7480 · Rear lid",
+      "width": 1152,
+      "height": 1536,
+      "sourceChat": "LAPTOP FLYER DESIGN",
+      "sourceDate": "2026-10-09"
+    },
+    {
+      "id": "chat-Oct10-dell-latitude-7480-photo-04",
+      "kind": "photo",
+      "original": "1002522769.jpg",
+      "products": [
+        "dell-latitude-7480"
+      ],
+      "searchText": "Dell Latitude 7480 · Lid and side ports",
+      "src": "media-01/chat-Oct10-dell-latitude-7480-photo-04.webp",
+      "thumb": "media-04/chat-Oct10-dell-latitude-7480-photo-04-thumb.webp",
+      "title": "Dell Latitude 7480 · Lid and side ports",
+      "width": 1152,
+      "height": 1536,
+      "sourceChat": "LAPTOP FLYER DESIGN",
+      "sourceDate": "2026-10-09"
+    },
+    {
+      "id": "chat-Oct10-dell-latitude-7480-photo-05",
+      "kind": "photo",
+      "original": "1002522770.jpg",
+      "products": [
+        "dell-latitude-7480"
+      ],
+      "searchText": "Dell Latitude 7480 · Touchscreen and keyboard",
+      "src": "media-01/chat-Oct10-dell-latitude-7480-photo-05.webp",
+      "thumb": "media-04/chat-Oct10-dell-latitude-7480-photo-05-thumb.webp",
+      "title": "Dell Latitude 7480 · Touchscreen and keyboard",
+      "width": 1152,
+      "height": 1536,
+      "sourceChat": "LAPTOP FLYER DESIGN",
+      "sourceDate": "2026-10-09"
+    },
+    {
+      "id": "chat-Oct10-dell-latitude-7480-photo-06",
+      "kind": "photo",
+      "original": "1002522771.jpg",
+      "products": [
+        "dell-latitude-7480"
+      ],
+      "searchText": "Dell Latitude 7480 · Keyboard and display stock",
+      "src": "media-01/chat-Oct10-dell-latitude-7480-photo-06.webp",
+      "thumb": "media-04/chat-Oct10-dell-latitude-7480-photo-06-thumb.webp",
+      "title": "Dell Latitude 7480 · Keyboard and display stock",
+      "width": 1152,
+      "height": 1536,
+      "sourceChat": "LAPTOP FLYER DESIGN",
+      "sourceDate": "2026-10-09"
+    },
+    {
+      "id": "chat-Oct10-dell-latitude-7480-flyer",
+      "kind": "flyer",
+      "original": "Dell Latitude 7480 Business Laptop Deal.png",
+      "products": [
+        "dell-latitude-7480"
+      ],
+      "searchText": "Dell Latitude 7480 · 50 pcs supplied · TSh 650,000 flyer",
+      "src": "media-01/chat-Oct10-dell-latitude-7480-flyer.webp",
+      "thumb": "media-01/chat-Oct10-dell-latitude-7480-flyer.webp",
+      "title": "Dell Latitude 7480 · 50 pcs supplied · TSh 650,000 flyer",
+      "width": 1122,
+      "height": 1402,
+      "sourceChat": "LAPTOP FLYER DESIGN",
+      "sourceDate": "2026-10-09",
+      "offerPrices": [
+        650000
+      ]
+    },
+    {
+      "id": "chat-Oct10-dell-p2422h-photo-01",
+      "kind": "photo",
+      "original": "1002522780.jpg",
+      "products": [
+        "dell-p2422h"
+      ],
+      "searchText": "Dell P2422H · Portrait stock view",
+      "src": "media-01/chat-Oct10-dell-p2422h-photo-01.webp",
+      "thumb": "media-04/chat-Oct10-dell-p2422h-photo-01-thumb.webp",
+      "title": "Dell P2422H · Portrait stock view",
+      "width": 1274,
+      "height": 1536,
+      "sourceChat": "LAPTOP FLYER DESIGN",
+      "sourceDate": "2026-10-09"
+    },
+    {
+      "id": "chat-Oct10-dell-p2422h-photo-02",
+      "kind": "photo",
+      "original": "1002522781.jpg",
+      "products": [
+        "dell-p2422h"
+      ],
+      "searchText": "Dell P2422H · Landscape stock view",
+      "src": "media-01/chat-Oct10-dell-p2422h-photo-02.webp",
+      "thumb": "media-04/chat-Oct10-dell-p2422h-photo-02-thumb.webp",
+      "title": "Dell P2422H · Landscape stock view",
+      "width": 1240,
+      "height": 1536,
+      "sourceChat": "LAPTOP FLYER DESIGN",
+      "sourceDate": "2026-10-09"
+    },
+    {
+      "id": "chat-Oct10-dell-p2422h-photo-03",
+      "kind": "photo",
+      "original": "1002522785.jpg",
+      "products": [
+        "dell-p2422h"
+      ],
+      "searchText": "Dell P2422H · Rear ports and stand",
+      "src": "media-01/chat-Oct10-dell-p2422h-photo-03.webp",
+      "thumb": "media-04/chat-Oct10-dell-p2422h-photo-03-thumb.webp",
+      "title": "Dell P2422H · Rear ports and stand",
+      "width": 1536,
+      "height": 1432,
+      "sourceChat": "LAPTOP FLYER DESIGN",
+      "sourceDate": "2026-10-09"
+    },
+    {
+      "id": "chat-Oct10-dell-p2422h-photo-04",
+      "kind": "photo",
+      "original": "1002522786.jpg",
+      "products": [
+        "dell-p2422h"
+      ],
+      "searchText": "Dell P2422H · Stock monitors and stands",
+      "src": "media-01/chat-Oct10-dell-p2422h-photo-04.webp",
+      "thumb": "media-04/chat-Oct10-dell-p2422h-photo-04-thumb.webp",
+      "title": "Dell P2422H · Stock monitors and stands",
+      "width": 1311,
+      "height": 1536,
+      "sourceChat": "LAPTOP FLYER DESIGN",
+      "sourceDate": "2026-10-09"
+    },
+    {
+      "id": "chat-Oct10-dell-p2422h-flyer",
+      "kind": "flyer",
+      "original": "Premium Dell Monitor Promo.png",
+      "products": [
+        "dell-p2422h"
+      ],
+      "searchText": "Dell P2422H · 24-inch class · TSh 370,000 flyer",
+      "src": "media-01/chat-Oct10-dell-p2422h-flyer.webp",
+      "thumb": "media-01/chat-Oct10-dell-p2422h-flyer.webp",
+      "title": "Dell P2422H · 24-inch class · TSh 370,000 flyer",
+      "width": 1122,
+      "height": 1402,
+      "sourceChat": "LAPTOP FLYER DESIGN",
+      "sourceDate": "2026-10-09",
+      "offerPrices": [
+        370000
+      ]
+    },
+    {
+      "id": "chat-Oct10-lenovo-27-frameless-monitor-photo-01",
+      "kind": "photo",
+      "original": "1002522884.jpg",
+      "products": [
+        "lenovo-27-frameless-monitor"
+      ],
+      "searchText": "Lenovo 27-inch Frameless Monitor · Front stock view",
+      "src": "media-01/chat-Oct10-lenovo-27-frameless-monitor-photo-01.webp",
+      "thumb": "media-04/chat-Oct10-lenovo-27-frameless-monitor-photo-01-thumb.webp",
+      "title": "Lenovo 27-inch Frameless Monitor · Front stock view",
+      "width": 1536,
+      "height": 1496,
+      "sourceChat": "LAPTOP FLYER DESIGN",
+      "sourceDate": "2026-10-09"
+    },
+    {
+      "id": "chat-Oct10-lenovo-27-frameless-monitor-photo-02",
+      "kind": "photo",
+      "original": "1002522885.jpg",
+      "products": [
+        "lenovo-27-frameless-monitor"
+      ],
+      "searchText": "Lenovo 27-inch Frameless Monitor · Rear chassis",
+      "src": "media-01/chat-Oct10-lenovo-27-frameless-monitor-photo-02.webp",
+      "thumb": "media-04/chat-Oct10-lenovo-27-frameless-monitor-photo-02-thumb.webp",
+      "title": "Lenovo 27-inch Frameless Monitor · Rear chassis",
+      "width": 1496,
+      "height": 1536,
+      "sourceChat": "LAPTOP FLYER DESIGN",
+      "sourceDate": "2026-10-09"
+    },
+    {
+      "id": "chat-Oct10-lenovo-27-frameless-monitor-photo-03",
+      "kind": "photo",
+      "original": "1002522886.jpg",
+      "products": [
+        "lenovo-27-frameless-monitor"
+      ],
+      "searchText": "Lenovo 27-inch Frameless Monitor · Side profile",
+      "src": "media-01/chat-Oct10-lenovo-27-frameless-monitor-photo-03.webp",
+      "thumb": "media-04/chat-Oct10-lenovo-27-frameless-monitor-photo-03-thumb.webp",
+      "title": "Lenovo 27-inch Frameless Monitor · Side profile",
+      "width": 1536,
+      "height": 1522,
+      "sourceChat": "LAPTOP FLYER DESIGN",
+      "sourceDate": "2026-10-09"
+    },
+    {
+      "id": "chat-Oct10-lenovo-27-frameless-monitor-photo-04",
+      "kind": "photo",
+      "original": "1002522887.jpg",
+      "products": [
+        "lenovo-27-frameless-monitor"
+      ],
+      "searchText": "Lenovo 27-inch Frameless Monitor · Rear ports and label",
+      "src": "media-01/chat-Oct10-lenovo-27-frameless-monitor-photo-04.webp",
+      "thumb": "media-04/chat-Oct10-lenovo-27-frameless-monitor-photo-04-thumb.webp",
+      "title": "Lenovo 27-inch Frameless Monitor · Rear ports and label",
+      "width": 1435,
+      "height": 1536,
+      "sourceChat": "LAPTOP FLYER DESIGN",
+      "sourceDate": "2026-10-09"
+    },
+    {
+      "id": "chat-Oct10-lenovo-27-frameless-monitor-flyer",
+      "kind": "flyer",
+      "original": "Lenovo Frameless Monitor Showcase.png",
+      "products": [
+        "lenovo-27-frameless-monitor"
+      ],
+      "searchText": "Lenovo 27-inch Frameless Monitor · TSh 680,000 flyer",
+      "src": "media-01/chat-Oct10-lenovo-27-frameless-monitor-flyer.webp",
+      "thumb": "media-01/chat-Oct10-lenovo-27-frameless-monitor-flyer.webp",
+      "title": "Lenovo 27-inch Frameless Monitor · TSh 680,000 flyer",
+      "width": 1122,
+      "height": 1402,
+      "sourceChat": "LAPTOP FLYER DESIGN",
+      "sourceDate": "2026-10-09",
+      "offerPrices": [
+        680000
+      ]
+    },
+    {
+      "id": "chat-Oct10-hp820-flyer-corrected-12-5",
+      "kind": "flyer",
+      "original": "HP EliteBook 820 G3 Promotional Poster.png · screen-size label corrected to 12.5-inch",
+      "products": [
+        "hp820"
+      ],
+      "searchText": "HP EliteBook 820 G3 Core i5 6th Gen 8GB DDR4 256GB SSD 12.5-inch USB-C TSh580000",
+      "src": "media-04/chat-Oct10-hp820-flyer-corrected-12-5.webp",
+      "thumb": "media-04/chat-Oct10-hp820-flyer-corrected-12-5.webp",
+      "title": "HP EliteBook 820 G3 · 12.5-inch · TSh 580,000 flyer",
+      "width": 1122,
+      "height": 1402,
+      "sourceChat": "LAPTOP FLYER DESIGN",
+      "sourceDate": "2026-10-09",
+      "offerPrices": [
+        580000
+      ],
+      "correction": "Changed only INCH 13.3 to INCH 12.5 using image editing; checked against HP model documentation."
+    }
+  ],
+  "products": [
+    {
+      "availability": "Confirm stock",
+      "brand": "Dell",
+      "category": "Business",
+      "cpu": "8th Gen Intel Core i5 · 1.9GHz",
+      "features": [
+        "Backlit keyboard",
+        "Slim and portable",
+        "USB-C port"
+      ],
+      "flyer": null,
+      "id": "dell-latitude-7290",
+      "image": "dell-latitude-7290-photo-02",
+      "name": "Dell Latitude 7390 · 13.3-inch",
+      "note": "Visual correction: the supplied unit is labeled Latitude 7390 on its underside, so the public title follows the photographed computer rather than the earlier 7290 wording. Confirm battery health, physical condition, keyboard lighting and USB-C functions before payment.",
+      "photos": [
+        "dell-latitude-7290-photo-05",
+        "dell-latitude-7290-photo-01",
+        "dell-latitude-7290-photo-03",
+        "dell-latitude-7290-photo-04"
+      ],
+      "price": 580000,
+      "ram": 8,
+      "screen": "13.3”",
+      "source": "Supplied product photos and TSh 580,000 Apex offer · photographed underside identifies Latitude 7390 · Dell model specifications checked 22 September 2026",
+      "storage": "256GB SSD",
+      "summary": [
+        "Slim and portable",
+        "Backlit keyboard",
+        "8GB DDR4 · 256GB SSD"
+      ],
+      "variants": [],
+      "public": true,
+      "imageStatus": "actual-unit"
+    },
+    {
+      "availability": "One unit available · Confirm stock",
+      "brand": "HP",
+      "category": "Workstation",
+      "cpu": "Intel Core i7-10850H · 2.71GHz",
+      "features": [
+        "Backlit keyboard",
+        "Fingerprint reader",
+        "NVIDIA Quadro T2000 Max-Q · 4GB dedicated"
+      ],
+      "flyer": null,
+      "id": "hp-zbook-power-g7",
+      "image": "hp-zbook-power-g7-photo-07",
+      "name": "HP ZBook Power G7 Mobile Workstation",
+      "note": "One unit was listed as available. Confirm current stock, battery health, physical condition, keyboard layout and the exact NVIDIA Quadro T2000 configuration before payment.",
+      "photos": [
+        "hp-zbook-power-g7-photo-05",
+        "hp-zbook-power-g7-photo-06",
+        "hp-zbook-power-g7-photo-03",
+        "hp-zbook-power-g7-photo-01",
+        "hp-zbook-power-g7-photo-02",
+        "hp-zbook-power-g7-photo-04"
+      ],
+      "price": 1400000,
+      "ram": 16,
+      "screen": "15.6”",
+      "source": "Supplied product listing and photos · 11 September 2026",
+      "storage": "512GB SSD",
+      "summary": [
+        "16GB RAM",
+        "512GB SSD",
+        "Quadro T2000 · 4GB"
+      ],
+      "variants": [],
+      "public": true,
+      "imageStatus": "actual-unit"
+    },
+    {
+      "availability": "Confirm availability",
+      "brand": "Apex",
+      "category": "Accessories",
+      "features": [
+        "USB-C cable",
+        "Lightning cable",
+        "Fast charging"
+      ],
+      "id": "apex-usbc-charger-kit",
+      "image": "apex-usbc-charger-kit",
+      "name": "USB-C Charger & Cable Kit",
+      "note": "The supplied listing shows an adapter with USB-C and Lightning cables. Confirm your device connector, supported charging standard and plug type before payment.",
+      "photos": [],
+      "price": 25000,
+      "source": "Supplied Instagram screenshot · 7 September 2026",
+      "summary": [
+        "Adapter + cables",
+        "Fast charging"
+      ],
+      "specs": [
+        {
+          "label": "Included",
+          "value": "Charging adapter · USB-C cable · Lightning cable"
+        },
+        {
+          "label": "Compatibility",
+          "value": "Confirm device connector and charging standard"
+        }
+      ],
+      "variants": [],
+      "public": true,
+      "imageStatus": "supplied-offer",
+      "description": "Dual-output fast charging adapter"
+    },
+    {
+      "availability": "Confirm availability",
+      "brand": "Apex",
+      "category": "Accessories",
+      "features": [
+        "15-pin VGA connectors",
+        "Wired video connection"
+      ],
+      "id": "apex-vga-cable",
+      "image": "apex-vga-cable-gold",
+      "name": "VGA Cable",
+      "note": "Confirm the required cable length and that both devices use VGA before payment.",
+      "photos": [
+        "apex-vga-cable-blue"
+      ],
+      "price": 7000,
+      "source": "Supplied Instagram screenshots · 7 September 2026",
+      "summary": [
+        "VGA cable",
+        "15-pin connectors"
+      ],
+      "specs": [
+        {
+          "label": "Connection",
+          "value": "VGA male to VGA male"
+        },
+        {
+          "label": "Use",
+          "value": "Monitor, projector or compatible computer"
+        }
+      ],
+      "variants": [],
+      "public": true,
+      "imageStatus": "supplied-offer",
+      "description": "VGA male-to-male display cable"
+    },
+    {
+      "availability": "Confirm availability",
+      "brand": "Apex",
+      "category": "Accessories",
+      "features": [
+        "Carry handles",
+        "Shoulder strap",
+        "Accessory pocket"
+      ],
+      "id": "apex-laptop-bag",
+      "image": "apex-laptop-bag-grey",
+      "name": "Laptop Bag",
+      "note": "The supplied screenshots show different bag styles. Confirm the colour, exact dimensions and fit for your laptop before payment.",
+      "photos": [
+        "apex-laptop-bag-green"
+      ],
+      "price": 25000,
+      "screen": "Fits 13–15.6 inch laptops (supplied)",
+      "source": "Supplied Instagram screenshots · 7 September 2026",
+      "summary": [
+        "13–15.6 inch",
+        "Padded carry bag"
+      ],
+      "specs": [
+        {
+          "label": "Size",
+          "value": "For 13–15.6 inch laptops (supplied)"
+        },
+        {
+          "label": "Features",
+          "value": "Handles · Shoulder strap · Accessory pocket"
+        }
+      ],
+      "variants": [],
+      "public": true,
+      "imageStatus": "supplied-offer",
+      "description": "Padded laptop bag"
+    },
+    {
+      "availability": "Confirm availability",
+      "brand": "Apex",
+      "category": "Accessories",
+      "features": [
+        "Foldable",
+        "Adjustable angle",
+        "Desk use"
+      ],
+      "id": "apex-phone-stand",
+      "image": "apex-phone-stand-silver",
+      "name": "Folding Desktop Phone Stand",
+      "note": "The supplied screenshots show two stand styles. Confirm the available colour, size and device fit before payment.",
+      "photos": [
+        "apex-phone-stand-purple"
+      ],
+      "price": 5000,
+      "screen": "Phone / small tablet compatibility",
+      "source": "Supplied Instagram screenshot · 7 September 2026",
+      "summary": [
+        "Phone / tablet",
+        "Foldable stand"
+      ],
+      "specs": [
+        {
+          "label": "Use",
+          "value": "Phone or compatible small tablet"
+        },
+        {
+          "label": "Design",
+          "value": "Foldable · Adjustable viewing angle"
+        }
+      ],
+      "variants": [],
+      "public": true,
+      "imageStatus": "supplied-offer",
+      "description": "Adjustable desktop phone and tablet stand"
+    },
+    {
+      "availability": "Confirm availability",
+      "brand": "Apex",
+      "category": "Accessories",
+      "features": [
+        "In-ear design",
+        "Wired connection",
+        "Bass sound"
+      ],
+      "id": "apex-bass-earphones",
+      "image": "apex-bass-earphones",
+      "name": "Bass Earphones",
+      "note": "Confirm the connector type and compatibility with your phone or computer before payment.",
+      "photos": [],
+      "price": 3000,
+      "source": "Supplied Instagram screenshot · 7 September 2026",
+      "summary": [
+        "Wired earphones",
+        "In-ear design"
+      ],
+      "specs": [
+        {
+          "label": "Type",
+          "value": "Wired in-ear earphones"
+        },
+        {
+          "label": "Compatibility",
+          "value": "Confirm audio connector before payment"
+        }
+      ],
+      "variants": [],
+      "public": true,
+      "imageStatus": "supplied-offer",
+      "description": "Wired in-ear bass earphones"
+    },
+    {
+      "availability": "In stock · Confirm today",
+      "brand": "Dell",
+      "category": "2-in-1",
+      "cpu": "Intel Celeron · 4GB/128GB SSD · current supplied stock",
+      "features": [
+        "Touchscreen",
+        "360° hinge",
+        "Compact education laptop"
+      ],
+      "flyer": null,
+      "id": "p1",
+      "image": "recovered-1002373381",
+      "name": "Dell Latitude 3189 2-in-1",
+      "note": "The supplied gallery shows the Latitude 3189 2-in-1 family. Confirm that the selected unit is the current Celeron configuration, then check battery health, keyboard layout and physical condition before payment.",
+      "photos": [
+        "recovered-1002373380",
+        "recovered-1002373375",
+        "recovered-1002373376",
+        "recovered-1002373379",
+        "recovered-1002373377",
+        "recovered-1002373378"
+      ],
+      "price": 460000,
+      "ram": 4,
+      "screen": "11.6” touchscreen",
+      "source": "Supplied stock list and earlier supplied sales brief · model family checked against Dell documentation",
+      "storage": "128GB SSD",
+      "variants": [
+        {
+          "label": "Celeron · 4GB / 128GB SSD · current supplied stock",
+          "price": 460000
+        }
+      ],
+      "summary": [
+        "Celeron current stock",
+        "4GB RAM",
+        "128GB SSD"
+      ],
+      "verification": "Model family checked",
+      "public": true,
+      "imageStatus": "actual-unit"
+    },
+    {
+      "availability": "In stock · Confirm today",
+      "brand": "HP",
+      "category": "2-in-1",
+      "cpu": "Intel Celeron · exact SKU to confirm",
+      "features": [
+        "Touchscreen",
+        "360° hinge",
+        "Education Edition"
+      ],
+      "flyer": null,
+      "id": "p2",
+      "image": "online-hp-probook-x360-11-g5",
+      "name": "HP ProBook x360 11 G5 EE",
+      "note": "HP documentation confirms an 11.6-inch convertible display for the ProBook x360 11 G5 EE, not 12.6 inches. The fitted 128GB SSD and exact Celeron SKU must be confirmed on the available unit before payment.",
+      "photos": [],
+      "price": 470000,
+      "ram": 4,
+      "screen": "11.6” touchscreen",
+      "source": "Supplied stock list · 16 September 2026 · model family checked against manufacturer documentation",
+      "storage": "128GB SSD",
+      "variants": [],
+      "public": true,
+      "imageStatus": "model-reference"
+    },
+    {
+      "availability": "Confirm availability",
+      "brand": "HP",
+      "category": "Business",
+      "cpu": "Core i5 · 8th Gen · 1.8GHz",
+      "features": [],
+      "flyer": null,
+      "id": "p3",
+      "image": "final-03-hp-elitebook-840-g5",
+      "name": "HP EliteBook 840 G5",
+      "note": "",
+      "photos": [],
+      "price": 770000,
+      "ram": 8,
+      "screen": "14”",
+      "source": "Previous supplied sales brief / flyer",
+      "storage": "256GB SSD",
+      "variants": [],
+      "public": false,
+      "imageStatus": "verification-needed"
+    },
+    {
+      "availability": "In stock · Confirm today",
+      "brand": "HP",
+      "category": "Business",
+      "cpu": "Intel Core i5-1135G7 · 11th Gen · 2.4GHz",
+      "features": [
+        "Intel Iris Xe graphics",
+        "Compact business laptop"
+      ],
+      "flyer": null,
+      "id": "p4",
+      "image": "online-hp-probook-430-g8",
+      "name": "HP ProBook 430 G8",
+      "note": "The Core i5-1135G7 model family, 13.3-inch display and supplied 8GB / 256GB unit configuration are consistent with this model. Confirm battery health, display resolution and keyboard lighting before payment.",
+      "photos": [],
+      "price": 740000,
+      "ram": 8,
+      "screen": "13.3”",
+      "source": "Supplied stock list · 16 September 2026 · model family checked against manufacturer documentation",
+      "storage": "256GB SSD",
+      "variants": [],
+      "public": true,
+      "imageStatus": "model-reference"
+    },
+    {
+      "availability": "In stock · Confirm today",
+      "brand": "HP",
+      "category": "Business",
+      "cpu": "11th Gen Intel Core i5 · supplied clock 2.61GHz",
+      "features": [
+        "Intel Iris Xe graphics",
+        "Backlit keyboard",
+        "Fingerprint reader"
+      ],
+      "flyer": "recovered-emerald-hp-elitebook-840-g8-sale",
+      "id": "p5",
+      "image": "recovered-1002319661",
+      "name": "HP EliteBook 840 G8",
+      "note": "Core i5 offer from the supplied stock list. These 840 G8 stock photos illustrate the model family; request the actual Core i5 unit photo and confirm the fitted processor before payment.",
+      "photos": [
+        "recovered-1002319660",
+        "recovered-1002319662",
+        "recovered-1002319659",
+        "recovered-1002319663",
+        "recovered-1002319664"
+      ],
+      "price": 940000,
+      "ram": 16,
+      "screen": "14”",
+      "source": "Supplied stock list and previous supplied flyer · model family checked against manufacturer documentation",
+      "storage": "256GB SSD",
+      "variants": [
+        {
+          "label": "Core i5 · 16GB / 256GB SSD",
+          "price": 940000,
+          "details": {
+            "cpu": "11th Gen Intel Core i5 · supplied clock 2.61GHz",
+            "imageStatus": "model-reference",
+            "flyer": null,
+            "note": "Core i5 offer from the supplied stock list. These 840 G8 stock photos illustrate the model family; request the actual Core i5 unit photo and confirm the fitted processor before payment."
+          }
+        },
+        {
+          "label": "Core i7-1185G7 · 16GB / 256GB SSD",
+          "price": 1150000,
+          "details": {
+            "cpu": "Intel Core i7-1185G7 · 11th Gen",
+            "flyer": "recovered-emerald-hp-elitebook-840-g8-sale"
+          }
+        }
+      ],
+      "summary": [
+        "2 configurations",
+        "16GB RAM",
+        "256GB SSD"
+      ],
+      "verification": "Model family checked",
+      "public": true,
+      "imageStatus": "model-reference"
+    },
+    {
+      "availability": "In stock · Confirm today",
+      "brand": "HP",
+      "category": "Business",
+      "cpu": "AMD Ryzen 5 · supplied @ 3.2GHz · exact CPU SKU to confirm",
+      "features": [
+        "14-inch business laptop",
+        "16GB RAM",
+        "256GB SSD",
+        "AMD Radeon graphics"
+      ],
+      "flyer": null,
+      "id": "p6",
+      "image": "online-hp-elitebook-845-g10",
+      "name": "HP EliteBook 845 G10 · Ryzen 5",
+      "note": "Earlier supplied Apex details identify the HP EliteBook 845 G10 as a 14-inch Ryzen 5 configuration with 16GB RAM and 256GB SSD. The latest stock list sets the selling price at TSh 1,100,000. Confirm the exact Ryzen 5 CPU SKU and the physical unit before payment.",
+      "photos": [],
+      "price": 1100000,
+      "ram": 16,
+      "screen": "14”",
+      "source": "Supplied HP EliteBook 845 G10 listing + latest 17 September 2026 Apex stock price",
+      "storage": "256GB SSD",
+      "variants": [],
+      "verification": "Exact model-family reference image · CPU SKU to confirm",
+      "public": true,
+      "summary": [
+        "AMD Ryzen 5 PRO",
+        "16GB RAM",
+        "256GB SSD"
+      ],
+      "imageStatus": "model-reference"
+    },
+    {
+      "availability": "Held for exact model/photo confirmation",
+      "brand": "HP",
+      "category": "Business",
+      "cpu": "AMD Ryzen 5 PRO · exact SKU to confirm",
+      "features": [
+        "Premium business design",
+        "Backlit keyboard"
+      ],
+      "flyer": null,
+      "id": "p6-835-g10",
+      "image": "online-hp-elitebook-835-g10",
+      "name": "HP EliteBook 835 G10 · Ryzen 5",
+      "note": "Held from public shop: the supplied stock source grouped 835/845 G10 and no independent exact-unit photo/model record was supplied for the 835 G10.",
+      "photos": [],
+      "price": 1100000,
+      "ram": 16,
+      "screen": "13.3”",
+      "source": "Supplied stock list · exact model-family reference image",
+      "storage": "256GB SSD",
+      "variants": [],
+      "verification": "Exact model/photo required",
+      "public": false,
+      "summary": [
+        "AMD Ryzen 5 PRO",
+        "16GB RAM",
+        "256GB SSD"
+      ],
+      "imageStatus": "model-reference"
+    },
+    {
+      "availability": "In stock · Confirm today",
+      "brand": "HP",
+      "category": "Workstation",
+      "cpu": "10th Gen Intel Core i5 · supplied clock 2.3GHz",
+      "features": [
+        "Mobile workstation"
+      ],
+      "flyer": "final-08-hp-zbook-firefly-14-g7-i7",
+      "id": "p7",
+      "image": "online-hp-zbook-firefly-14-g7",
+      "name": "HP ZBook Firefly 14 G7",
+      "note": "One clean listing now covers the three supplied Firefly 14 G7 configurations. Choose the required option, then confirm the exact processor, touchscreen, fitted Quadro P520 graphics, battery health and physical condition on the available unit before payment.",
+      "photos": [
+        "recovered-hp-zbook-firefly-14-g7-cutout",
+        "recovered-1002185167",
+        "recovered-1002185168",
+        "recovered-1002185171",
+        "recovered-1002185170",
+        "recovered-1002185169",
+        "final-17-hp-zbook-firefly-g7-i7-32gb"
+      ],
+      "price": 840000,
+      "ram": 8,
+      "screen": "14-inch · display type to confirm",
+      "source": "Supplied stock lists · 16–17 September 2026 · model family checked against manufacturer documentation",
+      "storage": "256GB SSD",
+      "variants": [
+        {
+          "label": "Core i5 · 8GB / 256GB SSD",
+          "price": 840000,
+          "details": {
+            "cpu": "10th Gen Intel Core i5 · supplied clock 2.3GHz",
+            "ram": 8,
+            "storage": "256GB SSD",
+            "screen": "14-inch · display type to confirm",
+            "features": [
+              "Mobile workstation"
+            ],
+            "photos": [],
+            "flyer": null
+          }
+        },
+        {
+          "label": "Core i7 · 16GB / 256GB SSD · Touch",
+          "price": 1150000,
+          "details": {
+            "cpu": "10th Gen Intel Core i7 · supplied clock 2.3GHz",
+            "ram": 16,
+            "storage": "256GB SSD",
+            "screen": "14-inch touchscreen",
+            "features": [
+              "Mobile workstation",
+              "Touchscreen"
+            ],
+            "photos": [
+              "recovered-1002185167",
+              "recovered-1002185168",
+              "recovered-1002185171",
+              "recovered-1002185170",
+              "recovered-1002185169"
+            ],
+            "flyer": "final-08-hp-zbook-firefly-14-g7-i7"
+          }
+        },
+        {
+          "label": "Core i7 · 32GB / 1TB SSD · Touch · Quadro P520 4GB",
+          "price": 1550000,
+          "details": {
+            "cpu": "10th Gen Intel Core i7 · exact SKU to confirm",
+            "ram": 32,
+            "storage": "1TB SSD",
+            "screen": "14-inch touchscreen",
+            "features": [
+              "Mobile workstation",
+              "Touchscreen",
+              "NVIDIA Quadro P520 · 4GB dedicated (supplied)"
+            ],
+            "photos": [
+              "recovered-1002185167",
+              "recovered-1002185168",
+              "recovered-1002185171",
+              "recovered-1002185170",
+              "recovered-1002185169"
+            ],
+            "flyer": "final-17-hp-zbook-firefly-g7-i7-32gb",
+            "note": "Supplied 32GB RAM / 1TB SSD touchscreen offer with Quadro P520 4GB. Confirm the fitted processor, GPU, VRAM and RAM on the available unit before payment."
+          }
+        }
+      ],
+      "summary": [
+        "3 configurations",
+        "Up to 32GB RAM",
+        "Up to 1TB SSD"
+      ],
+      "verification": "Model family checked",
+      "public": true,
+      "imageStatus": "model-reference"
+    },
+    {
+      "availability": "In stock · Confirm today",
+      "brand": "HP",
+      "category": "Business",
+      "cpu": "10th Gen Intel Core i7 · supplied clock 2.1GHz",
+      "features": [
+        "Non-touch",
+        "Premium business laptop"
+      ],
+      "flyer": "final-09-hp-elitebook-830-840-g7",
+      "id": "p9",
+      "image": "online-hp-elitebook-840-g7",
+      "name": "HP EliteBook 840 G7",
+      "note": "This page is now limited to the 14-inch HP EliteBook 840 G7 shown in its reference image. The separate 13.3-inch EliteBook 830 G7 offer is held until its own exact image is available. Confirm the fitted processor, keyboard, battery and condition before payment.",
+      "photos": [],
+      "price": 1100000,
+      "ram": 16,
+      "screen": "14” non-touch",
+      "source": "Supplied stock list · 16 September 2026 · model family checked against manufacturer documentation",
+      "storage": "256GB SSD",
+      "variants": [],
+      "public": true,
+      "summary": [
+        "10th Gen Core i7",
+        "16GB RAM",
+        "256GB SSD"
+      ],
+      "imageStatus": "model-reference"
+    },
+    {
+      "availability": "In stock · Confirm today",
+      "brand": "HP",
+      "category": "2-in-1",
+      "cpu": "Intel Core i5-8265U · 1.80GHz",
+      "features": [
+        "Touchscreen",
+        "360° hinge",
+        "Backlit keyboard",
+        "Fingerprint scanner"
+      ],
+      "flyer": "chat-Oct10-p10-flyer-i5",
+      "id": "p10",
+      "image": "chat-Oct10-p10-photo-05",
+      "name": "HP EliteBook x360 830 G6",
+      "note": "The October stock photos and purple flyer show the Core i5 offer. Choose a configuration to see its matching details and media.",
+      "photos": [
+        "chat-Oct10-p10-photo-01",
+        "chat-Oct10-p10-photo-02",
+        "chat-Oct10-p10-photo-03",
+        "chat-Oct10-p10-photo-04",
+        "chat-Oct10-p10-photo-06"
+      ],
+      "price": 890000,
+      "ram": 8,
+      "screen": "13.3-inch touchscreen",
+      "source": "LAPTOP FLYER DESIGN · original user offer and stock photos · 9 October 2026",
+      "storage": "256GB SSD",
+      "variants": [
+        {
+          "label": "Core i5-8265U · 8GB · 256GB SSD · Touch",
+          "price": 890000,
+          "details": {
+            "cpu": "Intel Core i5-8265U · 1.80GHz",
+            "specs": [
+              {
+                "label": "Processor",
+                "value": "Intel Core i5-8265U · 8th Gen · 1.80GHz"
+              },
+              {
+                "label": "Memory",
+                "value": "8GB RAM"
+              },
+              {
+                "label": "Storage",
+                "value": "256GB SSD"
+              },
+              {
+                "label": "Display",
+                "value": "13.3-inch touchscreen"
+              },
+              {
+                "label": "Design",
+                "value": "360° convertible"
+              },
+              {
+                "label": "Keyboard",
+                "value": "Backlit keyboard"
+              },
+              {
+                "label": "Security",
+                "value": "Fingerprint scanner"
+              }
+            ],
+            "image": "chat-Oct10-p10-photo-05",
+            "photos": [
+              "chat-Oct10-p10-photo-01",
+              "chat-Oct10-p10-photo-02",
+              "chat-Oct10-p10-photo-03",
+              "chat-Oct10-p10-photo-04",
+              "chat-Oct10-p10-photo-06"
+            ],
+            "flyer": "chat-Oct10-p10-flyer-i5",
+            "imageStatus": "actual-unit",
+            "note": "October 9 stock photos and flyer show this Core i5 offer. Confirm battery health, fingerprint scanner, keyboard lighting and charger before payment."
+          }
+        },
+        {
+          "label": "Core i7 · 8GB · 256GB SSD · Touch",
+          "price": 1100000,
+          "details": {
+            "cpu": "8th Gen Intel Core i7 · supplied clock 2.1GHz",
+            "specs": [
+              {
+                "label": "Processor",
+                "value": "8th Gen Intel Core i7 · supplied clock 2.1GHz"
+              },
+              {
+                "label": "Memory",
+                "value": "8GB RAM"
+              },
+              {
+                "label": "Storage",
+                "value": "256GB SSD"
+              },
+              {
+                "label": "Display",
+                "value": "13.3-inch touchscreen"
+              },
+              {
+                "label": "Design",
+                "value": "360° convertible"
+              }
+            ],
+            "image": "online-hp-elitebook-x360-830-g6",
+            "photos": [],
+            "flyer": "final-10-hp-elitebook-x360-830-g6",
+            "imageStatus": "model-reference",
+            "availability": "Confirm availability",
+            "verification": "Model family checked",
+            "note": "Core i7 offer from the earlier supplied stock list. Its image is a model reference; request current photos of the Core i7 unit and confirm stock before payment."
+          }
+        }
+      ],
+      "public": true,
+      "imageStatus": "actual-unit",
+      "verification": "Actual photos supplied",
+      "specs": [
+        {
+          "label": "Processor",
+          "value": "Intel Core i5-8265U · 8th Gen · 1.80GHz"
+        },
+        {
+          "label": "Memory",
+          "value": "8GB RAM"
+        },
+        {
+          "label": "Storage",
+          "value": "256GB SSD"
+        },
+        {
+          "label": "Display",
+          "value": "13.3-inch touchscreen"
+        },
+        {
+          "label": "Design",
+          "value": "360° convertible"
+        },
+        {
+          "label": "Keyboard",
+          "value": "Backlit keyboard"
+        },
+        {
+          "label": "Security",
+          "value": "Fingerprint scanner"
+        }
+      ]
+    },
+    {
+      "availability": "Confirm availability",
+      "brand": "HP",
+      "category": "2-in-1",
+      "cpu": "Core i5 · 11th Gen · 2.1GHz",
+      "features": [
+        "Touchscreen",
+        "360° hinge"
+      ],
+      "flyer": null,
+      "id": "p11",
+      "image": "final-11-hp-elitebook-x360-830-g8",
+      "name": "HP EliteBook x360 830 G8",
+      "note": "",
+      "photos": [],
+      "price": 1100000,
+      "ram": 16,
+      "screen": "13.3”",
+      "source": "Previous supplied sales brief / flyer",
+      "storage": "256GB SSD",
+      "variants": [],
+      "public": false,
+      "imageStatus": "verification-needed"
+    },
+    {
+      "availability": "In stock · Confirm today",
+      "brand": "HP",
+      "category": "2-in-1",
+      "cpu": "10th Gen Intel Core i5 · supplied clock 2.21GHz",
+      "features": [
+        "Touchscreen",
+        "360° hinge",
+        "Premium business convertible"
+      ],
+      "flyer": null,
+      "id": "p12",
+      "image": "online-hp-elitebook-x360-1040-g7",
+      "name": "HP EliteBook x360 1040 G7",
+      "note": "The EliteBook x360 1040 G7 model family and 14-inch convertible display are verified. Confirm the exact Core i5 processor, battery health, keyboard lighting and active-pen inclusion before payment.",
+      "photos": [],
+      "price": 1050000,
+      "ram": 16,
+      "screen": "14” touchscreen",
+      "source": "Supplied stock list · 16 September 2026 · model family checked against manufacturer documentation",
+      "storage": "256GB SSD",
+      "variants": [],
+      "public": true,
+      "imageStatus": "model-reference"
+    },
+    {
+      "availability": "In stock · Confirm today",
+      "brand": "HP",
+      "category": "Everyday",
+      "cpu": "AMD Ryzen 5 · supplied clock 2.3GHz",
+      "features": [
+        "Numeric keyboard",
+        "Refurbished with box"
+      ],
+      "flyer": null,
+      "id": "p13",
+      "image": "online-hp-pavilion-15-ryzen",
+      "name": "HP Pavilion Laptop 15 · exact product number to confirm",
+      "note": "HP Pavilion 15 covers several different chassis. The supplied list has no complete product number or actual-unit gallery, so the family reference is held until matching unit photos and the exact code are supplied.",
+      "photos": [],
+      "price": 1180000,
+      "ram": 8,
+      "screen": "15.6”",
+      "source": "Supplied stock list · 16 September 2026 · model family checked against manufacturer documentation",
+      "storage": "512GB SSD",
+      "variants": [],
+      "public": false,
+      "imageStatus": "verification-needed",
+      "verification": "Evidence hold"
+    },
+    {
+      "availability": "In stock · Confirm today",
+      "brand": "Dell",
+      "category": "2-in-1",
+      "cpu": "8th Gen Intel Core i5 · supplied clock 1.8GHz",
+      "features": [
+        "Touchscreen",
+        "360° hinge",
+        "Premium Latitude convertible"
+      ],
+      "flyer": null,
+      "id": "p14",
+      "image": "online-dell-latitude-7400-2in1",
+      "name": "Dell Latitude 7400 2-in-1",
+      "note": "Dell documentation confirms that the Latitude 7400 2-in-1 uses a 14-inch display, not 13.3 inches. Confirm the exact Core i5 processor, battery health, keyboard lighting and physical condition before payment.",
+      "photos": [],
+      "price": 880000,
+      "ram": 8,
+      "screen": "14” touchscreen",
+      "source": "Supplied stock list · 16 September 2026 · model family checked against manufacturer documentation",
+      "storage": "256GB SSD",
+      "variants": [],
+      "public": true,
+      "imageStatus": "model-reference"
+    },
+    {
+      "availability": "In stock · Confirm today",
+      "brand": "Lenovo",
+      "category": "Workstation",
+      "cpu": "8th Gen Intel Core i7 · P43s family",
+      "features": [
+        "Touchscreen",
+        "NVIDIA Quadro P520 · 2GB",
+        "Mobile workstation"
+      ],
+      "flyer": null,
+      "id": "p15",
+      "image": "online-lenovo-thinkpad-p43s",
+      "name": "Lenovo ThinkPad P43s",
+      "note": "Lenovo PSREF confirms that the ThinkPad P43s supports up to 48GB RAM, a 14-inch optional touchscreen and Quadro P520 2GB. Confirm the exact Core i7 SKU, fitted RAM modules, SSD health and battery condition before payment.",
+      "photos": [],
+      "price": 1340000,
+      "ram": 48,
+      "screen": "14” touchscreen",
+      "source": "Supplied stock list · 16 September 2026 · model family checked against manufacturer documentation",
+      "storage": "1TB SSD",
+      "variants": [],
+      "public": true,
+      "imageStatus": "model-reference"
+    },
+    {
+      "availability": "In stock · Confirm today",
+      "brand": "Lenovo",
+      "category": "Workstation",
+      "cpu": "Intel Core i7-10510U / i7-10610U · 10th Gen · 1.8GHz",
+      "features": [
+        "Touchscreen",
+        "NVIDIA Quadro P520 · 2GB",
+        "Mobile workstation"
+      ],
+      "flyer": null,
+      "id": "p16",
+      "image": "recovered-1002319744",
+      "name": "Lenovo ThinkPad P14s Gen 1",
+      "note": "Lenovo PSREF confirms the 10th-gen P14s Gen 1, up to 48GB RAM, optional 14-inch touch panel and Quadro P520 2GB. Confirm whether the fitted CPU is i7-10510U or i7-10610U, plus SSD and battery health, before payment.",
+      "photos": [
+        "recovered-1002319740",
+        "recovered-1002319742",
+        "recovered-1002319741",
+        "recovered-1002319743"
+      ],
+      "price": 1430000,
+      "ram": 48,
+      "screen": "14” touchscreen",
+      "source": "Supplied stock list · 16 September 2026 · model family checked against manufacturer documentation",
+      "storage": "1TB SSD",
+      "variants": [],
+      "public": true,
+      "imageStatus": "actual-unit"
+    },
+    {
+      "availability": "In stock · Confirm today",
+      "brand": "HP",
+      "category": "Business",
+      "cpu": "Intel Core i7-1355U · 13th Gen · 1.7GHz",
+      "features": [
+        "Premium business laptop"
+      ],
+      "flyer": null,
+      "id": "p18",
+      "image": "online-hp-elitebook-1040-g10",
+      "name": "HP EliteBook 1040 G10",
+      "note": "Select the 256GB or 512GB SSD option. Confirm the fitted display, keyboard lighting, battery health and physical condition before payment.",
+      "photos": [],
+      "price": 1650000,
+      "ram": 16,
+      "screen": "14”",
+      "source": "Supplied stock list · 16 September 2026 · model family checked against manufacturer documentation",
+      "storage": "256GB SSD",
+      "variants": [
+        {
+          "label": "256GB SSD",
+          "price": 1650000,
+          "details": {
+            "storage": "256GB SSD",
+            "features": [
+              "Premium business laptop"
+            ]
+          }
+        },
+        {
+          "label": "512GB SSD",
+          "price": 1780000,
+          "details": {
+            "storage": "512GB SSD",
+            "features": [
+              "Premium business laptop"
+            ]
+          }
+        }
+      ],
+      "public": true,
+      "imageStatus": "model-reference"
+    },
+    {
+      "availability": "In stock · Confirm today",
+      "brand": "HP",
+      "category": "2-in-1",
+      "cpu": "12th Gen Intel Core i7 · exact SKU to confirm",
+      "features": [
+        "Touchscreen",
+        "360° hinge",
+        "Premium business design"
+      ],
+      "flyer": null,
+      "id": "p19",
+      "image": "online-hp-elitebook-x360-1040-g9",
+      "name": "HP EliteBook x360 1040 G9",
+      "note": "The 12th-generation x360 family is presented with the new i7 / 256GB offer plus the two earlier i5 storage options. Confirm the selected processor, exact unit, display, keyboard layout and battery health before payment.",
+      "photos": [],
+      "price": 1520000,
+      "ram": 16,
+      "screen": "14” touchscreen",
+      "source": "Supplied stock list · 17 September 2026 · model family checked against manufacturer documentation",
+      "storage": "256GB SSD",
+      "variants": [
+        {
+          "label": "Core i7 · 16GB · 256GB SSD",
+          "price": 1520000,
+          "details": {
+            "cpu": "12th Gen Intel Core i7 · exact SKU to confirm",
+            "storage": "256GB SSD"
+          }
+        },
+        {
+          "label": "Core i5 · 16GB · 256GB SSD",
+          "price": 1580000,
+          "details": {
+            "cpu": "12th Gen Intel Core i5 · exact SKU to confirm",
+            "storage": "256GB SSD"
+          }
+        },
+        {
+          "label": "Core i5 · 16GB · 512GB SSD",
+          "price": 1640000,
+          "details": {
+            "cpu": "12th Gen Intel Core i5 · exact SKU to confirm",
+            "storage": "512GB SSD"
+          }
+        }
+      ],
+      "verification": "Model family checked",
+      "public": true,
+      "imageStatus": "model-reference"
+    },
+    {
+      "availability": "In stock · Confirm today",
+      "brand": "HP",
+      "category": "2-in-1",
+      "cpu": "Intel Core i5-1135G7 · 11th Gen · 2.4GHz",
+      "features": [
+        "Touchscreen",
+        "Detachable keyboard",
+        "Tablet and laptop modes"
+      ],
+      "flyer": null,
+      "id": "p20",
+      "image": "recovered-1002202569",
+      "name": "HP Elite x2 G8 Tablet",
+      "note": "HP documentation identifies this as a 13-inch detachable, not 13.3 inches. Confirm that the detachable keyboard and charger are included, and check battery health and physical condition before payment.",
+      "photos": [
+        "recovered-1002202567",
+        "recovered-1002202571",
+        "recovered-1002202570",
+        "recovered-1002202568"
+      ],
+      "price": 990000,
+      "ram": 8,
+      "screen": "13” touchscreen",
+      "source": "Supplied stock list · 16 September 2026 · model family checked against manufacturer documentation",
+      "storage": "256GB SSD",
+      "variants": [],
+      "public": true,
+      "imageStatus": "actual-unit"
+    },
+    {
+      "availability": "In stock · Confirm today",
+      "brand": "HP",
+      "category": "2-in-1",
+      "cpu": "AMD Ryzen 7 5800U · 1.9GHz",
+      "features": [
+        "Touchscreen",
+        "360° hinge",
+        "Ryzen 7 performance"
+      ],
+      "flyer": null,
+      "id": "p21",
+      "image": "recovered-1002303827",
+      "name": "HP ProBook x360 435 G8",
+      "note": "The Ryzen 7 5800U is the verified processor option matching this G8 configuration. Confirm the exact fitted display, keyboard lighting, SSD health and battery condition before payment.",
+      "photos": [
+        "recovered-1002303829",
+        "recovered-1002303828",
+        "recovered-1002303825"
+      ],
+      "price": 1150000,
+      "ram": 16,
+      "screen": "13.3” touchscreen",
+      "source": "Supplied stock list · 16 September 2026 · model family checked against manufacturer documentation",
+      "storage": "512GB SSD",
+      "variants": [],
+      "public": true,
+      "imageStatus": "actual-unit"
+    },
+    {
+      "availability": "In stock · Confirm today",
+      "brand": "Lenovo",
+      "category": "Everyday",
+      "cpu": "Intel Core i3-8130U · 8th Gen · 2.2GHz",
+      "features": [
+        "Numeric keyboard",
+        "Full-size business laptop"
+      ],
+      "flyer": null,
+      "id": "p22",
+      "image": "online-lenovo-thinkpad-e580",
+      "name": "Lenovo ThinkPad E580",
+      "note": "Lenovo PSREF confirms the Core i3-8130U at 2.2GHz and a 15.6-inch display for the ThinkPad E580. Confirm SSD health, display resolution, battery condition and keyboard layout before payment.",
+      "photos": [],
+      "price": 690000,
+      "ram": 8,
+      "screen": "15.6”",
+      "source": "Supplied stock list · 16 September 2026 · model family checked against manufacturer documentation",
+      "storage": "256GB SSD",
+      "variants": [],
+      "public": true,
+      "imageStatus": "model-reference"
+    },
+    {
+      "availability": "In stock · Confirm today",
+      "brand": "HP",
+      "category": "Workstation",
+      "cpu": "12th Gen Intel Core i7-1265U · 1.8GHz",
+      "features": [
+        "Backlit keyboard",
+        "Fingerprint scanner",
+        "Numeric keyboard",
+        "Mobile workstation"
+      ],
+      "flyer": null,
+      "id": "p23",
+      "image": "hp-zbook-firefly-16-g9-hero",
+      "name": "HP ZBook Firefly 16 G9 Mobile Workstation",
+      "note": "Supplied stock photos and configuration received from Apex Computers. Confirm battery health, exact display panel, charger and physical condition before payment.",
+      "photos": [
+        "hp-zbook-firefly-16-g9-photo-01",
+        "hp-zbook-firefly-16-g9-photo-02",
+        "hp-zbook-firefly-16-g9-photo-03",
+        "hp-zbook-firefly-16-g9-photo-04",
+        "hp-zbook-firefly-16-g9-photo-05"
+      ],
+      "price": 1550000,
+      "ram": 16,
+      "screen": "16”",
+      "source": "Directly supplied product details and stock photos · 25 September 2026",
+      "storage": "512GB SSD",
+      "variants": [],
+      "verification": "Supplied stock photos",
+      "public": true,
+      "imageStatus": "actual-stock+cleaned-hero"
+    },
+    {
+      "id": "p26",
+      "availability": "In stock · Confirm today",
+      "brand": "Lenovo",
+      "category": "Workstation",
+      "name": "Lenovo ThinkPad P14s Gen 2 · Intel",
+      "cpu": "Intel Core i7-1165G7 / i7-1185G7 · 11th Gen",
+      "ram": 48,
+      "storage": "1TB SSD",
+      "screen": "14” touchscreen",
+      "features": [
+        "Touchscreen",
+        "NVIDIA T500 · 4GB",
+        "Mobile workstation"
+      ],
+      "price": 1460000,
+      "variants": [],
+      "image": "online-lenovo-thinkpad-p14s-gen2",
+      "photos": [],
+      "flyer": null,
+      "note": "Lenovo PSREF confirms that the 11th-gen P14s Gen 2 uses NVIDIA T500 4GB graphics—not Quadro P520 4GB—and supports up to 48GB RAM and an optional 14-inch touchscreen. Confirm whether the fitted CPU is i7-1165G7 or i7-1185G7, plus SSD and battery health, before payment.",
+      "source": "Supplied stock list · 16 September 2026 · model family checked against manufacturer documentation",
+      "public": true,
+      "imageStatus": "model-reference"
+    },
+    {
+      "availability": "In stock · Confirm today",
+      "brand": "Dell",
+      "category": "Business",
+      "cpu": "Intel Core i7-1185G7 · 11th Gen · 3.0GHz",
+      "features": [
+        "Intel Iris Xe graphics",
+        "Compact business laptop"
+      ],
+      "flyer": null,
+      "id": "p24",
+      "image": "online-dell-latitude-5320",
+      "name": "Dell Latitude 5320",
+      "note": "Dell documentation supports the i7-1185G7, 32GB onboard memory and 13.3-inch display in this model family. Confirm the exact display option, battery health and physical condition before payment.",
+      "photos": [],
+      "price": 1090000,
+      "ram": 32,
+      "screen": "13.3”",
+      "source": "Supplied stock list · 16 September 2026 · model family checked against manufacturer documentation",
+      "storage": "256GB SSD",
+      "variants": [],
+      "public": true,
+      "imageStatus": "model-reference"
+    },
+    {
+      "availability": "In stock · Confirm today",
+      "brand": "NEC",
+      "category": "Business",
+      "cpu": "Intel Core i5-1135G7 · 11th Gen · 2.4GHz",
+      "features": [
+        "Intel Iris Xe graphics",
+        "Brand new condition"
+      ],
+      "flyer": null,
+      "id": "p25",
+      "image": "nec-versapro-photo-02",
+      "name": "NEC VersaPro · Core i5 11th Gen",
+      "note": "The supplied photographs show the available NEC VersaPro unit. NEC sells several VersaPro sub-models in this chassis family, so confirm the full model code, warranty, battery status and Japanese/English keyboard layout before payment.",
+      "photos": [
+        "nec-versapro-photo-03",
+        "nec-versapro-photo-04",
+        "nec-versapro-photo-01"
+      ],
+      "price": 890000,
+      "ram": 8,
+      "screen": "14”",
+      "source": "Supplied stock list · 16 September 2026 · model family checked against manufacturer documentation",
+      "storage": "256GB SSD",
+      "summary": [
+        "Brand new condition",
+        "Intel Iris Xe graphics",
+        "8GB RAM · 256GB SSD"
+      ],
+      "variants": [],
+      "public": true,
+      "imageStatus": "actual-unit"
+    },
+    {
+      "availability": "Confirm availability",
+      "brand": "Lenovo",
+      "category": "2-in-1",
+      "cpu": "Core i5-1145G7 · 11th Gen",
+      "features": [
+        "Touchscreen",
+        "360° hinge",
+        "Backlit keyboard"
+      ],
+      "flyer": "recovered-thinkpad-x13-yoga-sales-flyer",
+      "id": "yoga",
+      "image": "recovered-1002361097",
+      "name": "Lenovo ThinkPad X13 Yoga Gen 2",
+      "note": "Supplied product photos are attached. Confirm battery health, touchscreen, 360° hinge, keyboard lighting, charger and exact unit condition before payment.",
+      "photos": [
+        "recovered-1002361101",
+        "recovered-1002361103",
+        "recovered-1002361099",
+        "recovered-1002361104",
+        "recovered-1002361098",
+        "recovered-1002361100",
+        "recovered-1002361102"
+      ],
+      "price": 920000,
+      "ram": 16,
+      "screen": "13.3”",
+      "source": "Previous supplied sales brief / flyer",
+      "storage": "256GB SSD",
+      "variants": [],
+      "public": true,
+      "imageStatus": "actual-unit"
+    },
+    {
+      "availability": "Confirm availability",
+      "brand": "Dell",
+      "category": "2-in-1",
+      "cpu": "Core i5-8250U · 1.8GHz",
+      "features": [
+        "Touchscreen",
+        "Backlit keyboard"
+      ],
+      "flyer": "recovered-one-laptop-two-attitudes",
+      "id": "dell3390",
+      "image": "recovered-1002385288",
+      "name": "Dell Latitude 3390 2-in-1",
+      "note": "The Latitude 3390 2-in-1 model family uses a 13.3-inch touchscreen. The hero is a supplied-unit photograph; confirm battery health, keyboard and physical condition before payment.",
+      "photos": [
+        "recovered-1002385291",
+        "recovered-1002385295",
+        "recovered-1002385290",
+        "recovered-1002385294",
+        "recovered-1002385297",
+        "recovered-1002385292",
+        "recovered-1002385289",
+        "recovered-1002385296",
+        "recovered-1002385293"
+      ],
+      "price": 690000,
+      "ram": 8,
+      "screen": "13.3” touchscreen",
+      "source": "Previous supplied sales brief / flyer",
+      "storage": "256GB SSD",
+      "variants": [],
+      "public": true,
+      "imageStatus": "actual-unit"
+    },
+    {
+      "availability": "Confirm availability",
+      "brand": "HP",
+      "category": "2-in-1",
+      "cpu": "Intel Core i5-1230U · 12th Gen",
+      "features": [
+        "Touchscreen",
+        "360° convertible hinge",
+        "Intel Iris Xe graphics",
+        "Rugged education/business chassis"
+      ],
+      "flyer": null,
+      "id": "fortis",
+      "image": "hp-pro-x360-fortis-g10-photo-01",
+      "name": "HP Pro x360 Fortis 11 G10",
+      "note": "The supplied message said 12.6-inch, but HP’s official Pro x360 Fortis 11 G10 specification lists an 11.6-inch HD touchscreen for the Core i5-1230U model. The website uses 11.6 inches to avoid publishing a conflicting specification. Confirm battery health, keyboard layout and exact unit condition before payment.",
+      "photos": [
+        "hp-pro-x360-fortis-g10-hero",
+        "hp-pro-x360-fortis-g10-photo-02",
+        "hp-pro-x360-fortis-g10-photo-03",
+        "hp-pro-x360-fortis-g10-photo-04",
+        "hp-pro-x360-fortis-g10-photo-05"
+      ],
+      "price": 690000,
+      "ram": 8,
+      "screen": "11.6” HD touchscreen",
+      "source": "Supplied Apex stock photos and price · 27 September 2026 · HP official model-family specifications checked",
+      "storage": "256GB SSD",
+      "variants": [],
+      "public": true,
+      "imageStatus": "actual-unit",
+      "verification": "Model family checked",
+      "specs": [
+        {
+          "label": "Processor",
+          "value": "12th Gen Intel Core i5-1230U"
+        },
+        {
+          "label": "Memory",
+          "value": "8GB LPDDR4X"
+        },
+        {
+          "label": "Storage",
+          "value": "256GB SSD"
+        },
+        {
+          "label": "Display",
+          "value": "11.6” HD touchscreen"
+        },
+        {
+          "label": "Graphics",
+          "value": "Intel Iris Xe"
+        },
+        {
+          "label": "Form factor",
+          "value": "360° convertible 2-in-1"
+        }
+      ]
+    },
+    {
+      "availability": "Confirm availability",
+      "brand": "HP",
+      "category": "Everyday",
+      "cpu": "Core i3-6100U · 2.3GHz",
+      "features": [
+        "Touchscreen"
+      ],
+      "flyer": "recovered-hp-probook-11-g2-price-drop",
+      "id": "hp11",
+      "image": "recovered-1002320181",
+      "name": "HP ProBook 11 G2 · 11.6-inch",
+      "note": "The supplied unit is the HP ProBook 11 G2 family and its verified display class is 11.6-inch touchscreen. Confirm battery condition, keyboard layout, charger and overall physical condition before payment.",
+      "photos": [
+        "recovered-1002320187",
+        "recovered-1002320185",
+        "recovered-1002320182",
+        "recovered-1002320183",
+        "recovered-1002320186",
+        "recovered-1002320184"
+      ],
+      "price": 420000,
+      "ram": 4,
+      "screen": "11.6” touchscreen",
+      "source": "Previous supplied sales brief / flyer",
+      "storage": "500GB HDD",
+      "variants": [],
+      "public": true,
+      "imageStatus": "actual-unit",
+      "verification": "Model family checked"
+    },
+    {
+      "availability": "In stock · Confirm today",
+      "brand": "HP",
+      "category": "Business",
+      "cpu": "8th Gen Intel Core i5 · supplied clock 1.8GHz",
+      "features": [
+        "Compact business laptop",
+        "Aluminium design"
+      ],
+      "flyer": null,
+      "id": "hp830",
+      "image": "online-hp-elitebook-830-g6",
+      "name": "HP EliteBook 830 G6",
+      "note": "The EliteBook 830 G6 model family and 13.3-inch size are verified. HP offered more than one 8th-gen Core i5 option, so confirm the exact processor code, display type, keyboard lighting and battery health on this unit before payment.",
+      "photos": [
+        "recovered-1002353930",
+        "recovered-1002353929",
+        "recovered-1002353927",
+        "recovered-1002353928"
+      ],
+      "price": 750000,
+      "ram": 8,
+      "screen": "13.3”",
+      "source": "Supplied stock list · 16 September 2026 · model family checked against manufacturer documentation",
+      "storage": "256GB SSD",
+      "variants": [],
+      "public": true,
+      "imageStatus": "model-reference"
+    },
+    {
+      "availability": "Confirm availability",
+      "brand": "HP",
+      "category": "2-in-1",
+      "cpu": "Core i5-7200U · 2.71GHz supplied",
+      "features": [
+        "Touchscreen",
+        "Backlit keyboard",
+        "Detachable keyboard"
+      ],
+      "flyer": "recovered-detachable-power-and-versatility-in-style",
+      "id": "x21012",
+      "image": "recovered-1002279381",
+      "name": "HP Elite x2 1012 G2 · 12.3-inch",
+      "note": "Supplied product photos show the detachable HP Elite x2 1012 G2. Confirm the 12.3-inch panel, detachable keyboard, battery health, charger and physical condition before payment.",
+      "photos": [
+        "recovered-1002279380-1",
+        "recovered-1002279383-1",
+        "recovered-1002279382-2"
+      ],
+      "price": 780000,
+      "ram": 8,
+      "screen": "12.3” touchscreen",
+      "source": "Previous supplied sales brief / flyer",
+      "storage": "256GB SSD",
+      "variants": [],
+      "public": true,
+      "imageStatus": "actual-unit",
+      "verification": "Model family checked"
+    },
+    {
+      "availability": "Only few pcs · Confirm today",
+      "brand": "HP",
+      "category": "Business",
+      "cpu": "Intel Core i5 · 6th Gen · 2.4GHz",
+      "features": [
+        "8GB DDR4 RAM",
+        "USB-C port",
+        "Silver colour",
+        "Compact business laptop"
+      ],
+      "flyer": "chat-Oct10-hp820-flyer-corrected-12-5",
+      "id": "hp820",
+      "image": "chat-Oct10-hp820-photo-03",
+      "name": "HP EliteBook 820 G3",
+      "note": "The supplied offer says 13.3 inches; HP’s EliteBook 820 G3 documentation specifies 12.5 inches. Confirm the fitted panel, battery and physical condition of the available unit.",
+      "photos": [
+        "chat-Oct10-hp820-photo-01",
+        "chat-Oct10-hp820-photo-02",
+        "chat-Oct10-hp820-photo-04",
+        "chat-Oct10-hp820-photo-05"
+      ],
+      "price": 580000,
+      "ram": 8,
+      "screen": "12.5-inch",
+      "source": "LAPTOP FLYER DESIGN · original user offer and stock photos · 9 October 2026",
+      "storage": "256GB SSD",
+      "variants": [],
+      "public": true,
+      "imageStatus": "actual-unit",
+      "verification": "Actual photos supplied",
+      "specs": [
+        {
+          "label": "Processor",
+          "value": "Intel Core i5 · 6th Gen · 2.4GHz"
+        },
+        {
+          "label": "Memory",
+          "value": "8GB DDR4 RAM"
+        },
+        {
+          "label": "Storage",
+          "value": "256GB SSD"
+        },
+        {
+          "label": "Display",
+          "value": "12.5-inch · EliteBook 820 G3 model specification"
+        },
+        {
+          "label": "Ports",
+          "value": "USB-C"
+        },
+        {
+          "label": "Colour",
+          "value": "Silver"
+        }
+      ]
+    },
+    {
+      "availability": "Confirm availability",
+      "brand": "HP",
+      "category": "Everyday",
+      "cpu": "AMD Ryzen 7 5700U · 1.8GHz",
+      "features": [
+        "Radeon graphics"
+      ],
+      "flyer": null,
+      "id": "hp245",
+      "image": "hp-mobile-weekend-flyers-01-hp-245-g8-mobile-weekend-flyer",
+      "name": "HP 245 G8",
+      "note": "",
+      "photos": [],
+      "price": 750000,
+      "ram": 8,
+      "screen": "14”",
+      "source": "Previous supplied sales brief / flyer",
+      "storage": "256GB SSD",
+      "variants": [],
+      "public": false,
+      "imageStatus": "verification-needed"
+    },
+    {
+      "availability": "Confirm availability",
+      "brand": "HP",
+      "category": "Everyday",
+      "cpu": "AMD Ryzen 7 5700U · 1.8GHz (supplied)",
+      "features": [
+        "Numeric keyboard"
+      ],
+      "flyer": null,
+      "id": "hp15s",
+      "image": "hp-mobile-weekend-flyers-02-hp-15s-fqxxx-mobile-weekend-flyer",
+      "name": "HP 15s-Fqxxx",
+      "note": "Confirm model and processor: the previous brief may combine different model families.",
+      "photos": [],
+      "price": 750000,
+      "ram": 8,
+      "screen": "15.6”",
+      "source": "Previous supplied sales brief / flyer",
+      "storage": "256GB SSD",
+      "variants": [],
+      "public": false,
+      "imageStatus": "verification-needed"
+    },
+    {
+      "availability": "Confirm availability",
+      "brand": "HP",
+      "category": "Everyday",
+      "cpu": "AMD A9-9425 · 3.1GHz (supplied)",
+      "features": [
+        "Radeon R5 (supplied)"
+      ],
+      "flyer": null,
+      "id": "hp246",
+      "image": "hp-mobile-weekend-flyers-03-hp-246-g8-mobile-weekend-flyer",
+      "name": "HP 246 G8",
+      "note": "Confirm model and processor: the previous brief may combine different model families.",
+      "photos": [],
+      "price": 650000,
+      "ram": 8,
+      "screen": "14”",
+      "source": "Previous supplied sales brief / flyer",
+      "storage": "256GB SSD",
+      "variants": [],
+      "public": false,
+      "imageStatus": "verification-needed"
+    },
+    {
+      "availability": "Confirm availability",
+      "brand": "HP",
+      "category": "Everyday",
+      "cpu": "AMD Ryzen 7 4700U · 2.0GHz (supplied)",
+      "features": [
+        "Radeon graphics"
+      ],
+      "flyer": null,
+      "id": "hp14s",
+      "image": "hp-mobile-weekend-flyers-04-hp-14s-drxxx-mobile-weekend-flyer",
+      "name": "HP 14s-drxxx",
+      "note": "Confirm exact model and processor on the actual unit.",
+      "photos": [],
+      "price": 750000,
+      "ram": 8,
+      "screen": "14”",
+      "source": "Previous supplied sales brief / flyer",
+      "storage": "256GB SSD",
+      "variants": [],
+      "public": false,
+      "imageStatus": "verification-needed"
+    },
+    {
+      "availability": "Confirm availability",
+      "brand": "HP",
+      "category": "Everyday",
+      "cpu": "AMD Ryzen 7 5700U · 1.8GHz",
+      "features": [
+        "Radeon graphics"
+      ],
+      "flyer": null,
+      "id": "hp247",
+      "image": "hp-mobile-weekend-flyers-05-hp-247-g8-mobile-weekend-flyer",
+      "name": "HP 247 G8",
+      "note": "",
+      "photos": [],
+      "price": 750000,
+      "ram": 8,
+      "screen": "14”",
+      "source": "Previous supplied sales brief / flyer",
+      "storage": "256GB SSD",
+      "variants": [],
+      "public": false,
+      "imageStatus": "verification-needed"
+    },
+    {
+      "availability": "Confirm availability",
+      "brand": "HP",
+      "category": "Everyday",
+      "cpu": "AMD Ryzen 5 8540U · 3.2GHz",
+      "features": [
+        "Backlit keyboard",
+        "Numeric keyboard",
+        "Radeon 740M"
+      ],
+      "flyer": null,
+      "id": "pavilion16",
+      "image": "hp-mobile-weekend-flyers-06-hp-pavilion-16-ag0050au-mobile-weekend-flyer",
+      "name": "HP Pavilion 16-ag0050AU",
+      "note": "",
+      "photos": [],
+      "price": 1250000,
+      "ram": 16,
+      "screen": "16”",
+      "source": "Previous supplied sales brief / flyer",
+      "storage": "512GB SSD",
+      "variants": [],
+      "public": false,
+      "imageStatus": "verification-needed"
+    },
+    {
+      "availability": "Confirm availability",
+      "brand": "Dell",
+      "category": "Business",
+      "cpu": "Core i5-6200U · 2.3GHz",
+      "features": [
+        "Backlit keyboard"
+      ],
+      "flyer": "english-laptop-flyers-bundle-01-dell-xps-13-9350-english",
+      "id": "xps9350",
+      "image": "recovered-1002303029",
+      "name": "Dell XPS 13 9350",
+      "note": "Supplied product photos are attached. Confirm battery health, display condition, keyboard lighting, charger and exact unit condition before payment.",
+      "photos": [
+        "recovered-1002303035",
+        "recovered-1002303030",
+        "recovered-1002303037",
+        "recovered-1002303032",
+        "recovered-1002303031",
+        "recovered-1002303036"
+      ],
+      "price": 650000,
+      "ram": 8,
+      "screen": "13.3”",
+      "source": "Previous supplied flyer",
+      "storage": "256GB SSD",
+      "variants": [],
+      "public": true,
+      "imageStatus": "actual-unit"
+    },
+    {
+      "availability": "Confirm availability",
+      "brand": "Dell",
+      "category": "2-in-1",
+      "cpu": "Core i5-8365U · 1.9GHz",
+      "features": [
+        "Touchscreen",
+        "Backlit keyboard",
+        "360° hinge"
+      ],
+      "flyer": "english-laptop-flyers-bundle-02-dell-latitude-5300-2in1-english",
+      "id": "dell5300",
+      "image": "recovered-1002303167",
+      "name": "Dell Latitude 5300 2-in-1",
+      "note": "Supplied product photos are attached. Confirm battery health, touchscreen, 360° hinge, keyboard lighting, charger and exact unit condition before payment.",
+      "photos": [
+        "recovered-1002303165-1",
+        "recovered-1002303161",
+        "recovered-1002303160",
+        "recovered-1002303163",
+        "recovered-1002303166-1",
+        "recovered-1002303162",
+        "recovered-1002303164"
+      ],
+      "price": 690000,
+      "ram": 8,
+      "screen": "13.3”",
+      "source": "Previous supplied flyer",
+      "storage": "256GB SSD",
+      "variants": [],
+      "public": true,
+      "imageStatus": "actual-unit"
+    },
+    {
+      "availability": "In stock · Confirm today",
+      "brand": "Lenovo",
+      "category": "Business",
+      "cpu": "11th Gen Intel Core i7 · exact SKU to confirm",
+      "features": [
+        "Backlit keyboard",
+        "Ultra-light business design",
+        "Thunderbolt 4"
+      ],
+      "flyer": null,
+      "id": "carbon9",
+      "image": "online-lenovo-thinkpad-x1-carbon-gen9",
+      "name": "Lenovo ThinkPad X1 Carbon Gen 9",
+      "note": "Lenovo specifies a 14-inch 16:10 display for X1 Carbon Gen 9. Touch was not included in the supplied stock line, so confirm the exact panel, Core i7 SKU, keyboard layout and battery health before payment.",
+      "photos": [],
+      "price": 1100000,
+      "ram": 16,
+      "screen": "14”",
+      "source": "Supplied stock list · 17 September 2026 · model family checked against manufacturer documentation",
+      "storage": "256GB SSD",
+      "variants": [],
+      "verification": "Model family checked",
+      "public": true,
+      "imageStatus": "model-reference"
+    },
+    {
+      "availability": "Confirm availability",
+      "brand": "Lenovo",
+      "category": "Business",
+      "cpu": "Core i7-10610U · 2.3GHz supplied",
+      "features": [
+        "Touchscreen",
+        "Backlit keyboard",
+        "Fingerprint reader"
+      ],
+      "flyer": null,
+      "id": "carbon8",
+      "image": "recovered-1002303694",
+      "name": "Lenovo ThinkPad 360° convertible · exact model to confirm",
+      "note": "The supplied photos show a Lenovo 360-degree convertible, but they do not safely prove an X1 Carbon Gen 8 identity. Confirm the exact ThinkPad model, screen size and stock unit before publication.",
+      "photos": [
+        "recovered-1002303695",
+        "recovered-1002303697"
+      ],
+      "price": 1200000,
+      "ram": 16,
+      "screen": "13.3” supplied",
+      "source": "Previous supplied flyer",
+      "storage": "256GB SSD",
+      "variants": [],
+      "public": false,
+      "imageStatus": "verification-needed",
+      "verification": "Evidence hold"
+    },
+    {
+      "availability": "In stock · Confirm today",
+      "brand": "HP",
+      "category": "Business",
+      "cpu": "AMD Ryzen 5 PRO · exact CPU to confirm on actual unit",
+      "features": [
+        "16GB RAM",
+        "256GB SSD",
+        "Fingerprint scanner",
+        "Backlit keyboard",
+        "14-inch business laptop"
+      ],
+      "flyer": null,
+      "id": "hp845",
+      "image": "recovered-1002303752-1",
+      "name": "HP EliteBook 845 G8",
+      "note": "The supplied listing identifies this unit as HP EliteBook 845 G8, 16GB RAM, 256GB SSD, 14-inch, with fingerprint scanner and keyboard lights. The older text also names a Ryzen 5 PRO 4650U, which conflicts with the usual G8 processor generation, so the website does not guess the exact CPU. Confirm it from Windows System Information on the physical unit before payment.",
+      "photos": [
+        "recovered-1002303753",
+        "recovered-1002303755-1",
+        "recovered-1002303756-1"
+      ],
+      "price": 880000,
+      "ram": 16,
+      "screen": "14”",
+      "source": "Supplied Apex HP EliteBook 845 G8 photos/listing",
+      "storage": "256GB SSD",
+      "variants": [],
+      "verification": "Actual supplied unit photos · processor confirmation required",
+      "public": true,
+      "imageStatus": "actual-unit"
+    },
+    {
+      "availability": "Confirm stock",
+      "brand": "HP",
+      "category": "2-in-1",
+      "cpu": "Core i7-10610U · 2.3GHz supplied",
+      "features": [
+        "Touchscreen",
+        "Backlit keyboard",
+        "Fingerprint reader",
+        "Face recognition",
+        "Convertible 360° hinge"
+      ],
+      "flyer": null,
+      "id": "hp1030",
+      "image": "hp-elitebook-x360-1030-g7-photo-08",
+      "name": "HP EliteBook x360 1030 G7",
+      "note": "The supplied photos show the advertised convertible laptop. Confirm current stock, battery health, physical condition, keyboard layout, fingerprint reader and face recognition before payment.",
+      "photos": [
+        "hp-elitebook-x360-1030-g7-photo-01",
+        "hp-elitebook-x360-1030-g7-photo-03",
+        "hp-elitebook-x360-1030-g7-photo-02",
+        "hp-elitebook-x360-1030-g7-photo-04",
+        "hp-elitebook-x360-1030-g7-photo-05",
+        "hp-elitebook-x360-1030-g7-photo-06",
+        "hp-elitebook-x360-1030-g7-photo-07"
+      ],
+      "price": 1250000,
+      "ram": 16,
+      "screen": "13.3”",
+      "source": "Supplied product listing and photos · 11 September 2026",
+      "storage": "256GB SSD",
+      "variants": [],
+      "public": true,
+      "imageStatus": "actual-unit"
+    },
+    {
+      "availability": "In stock · Confirm today",
+      "brand": "HP",
+      "category": "2-in-1",
+      "cpu": "8th Gen Intel Core i7 · exact SKU to confirm",
+      "features": [
+        "Touchscreen",
+        "Backlit keyboard",
+        "360° hinge"
+      ],
+      "flyer": "recovered-silver-hp-elitebook-x360-sales-flyer",
+      "id": "hp1040g6",
+      "image": "recovered-1002319563",
+      "name": "HP EliteBook x360 1040 G6",
+      "note": "Generation correction: EliteBook x360 1040 G6 is an 8th-generation Intel platform, not a 16th-generation model. Confirm the exact Core i7 SKU, touchscreen condition, keyboard layout and battery health before payment.",
+      "photos": [
+        "recovered-1002319566",
+        "recovered-1002319567",
+        "recovered-1002319565",
+        "recovered-1002319564"
+      ],
+      "price": 1100000,
+      "ram": 16,
+      "screen": "14”",
+      "source": "Supplied stock list · 17 September 2026 · model family checked against manufacturer documentation",
+      "storage": "256GB SSD",
+      "variants": [],
+      "verification": "Model family checked",
+      "public": true,
+      "imageStatus": "actual-unit"
+    },
+    {
+      "availability": "Confirm availability",
+      "brand": "Apple",
+      "category": "MacBook",
+      "cpu": "Apple M2 Pro · 10-core CPU",
+      "features": [
+        "16-core GPU",
+        "Liquid Retina display"
+      ],
+      "flyer": null,
+      "id": "macm2",
+      "image": "macbook-flyers-tanzania-redesigned-v2-01-redesigned-macbook-pro-m2-pro-chip-2023-14",
+      "name": "Apple MacBook Pro M2 Pro 2023",
+      "note": "",
+      "photos": [],
+      "price": 3750000,
+      "ram": 16,
+      "screen": "14”",
+      "source": "Previous supplied flyer",
+      "storage": "512GB SSD",
+      "variants": [],
+      "public": false,
+      "imageStatus": "verification-needed"
+    },
+    {
+      "availability": "Confirm availability",
+      "brand": "Apple",
+      "category": "MacBook",
+      "cpu": "Apple M3",
+      "features": [],
+      "flyer": null,
+      "id": "macm3",
+      "image": "macbook-flyers-tanzania-redesigned-v2-02-redesigned-macbook-pro-2023-m3-chip",
+      "name": "Apple MacBook Pro M3 2023",
+      "note": "Confirm display size and exact condition with Apex Computers.",
+      "photos": [],
+      "price": 3400000,
+      "ram": 8,
+      "screen": "Confirm size",
+      "source": "Previous supplied flyer",
+      "storage": "512GB SSD",
+      "variants": [],
+      "public": false,
+      "imageStatus": "verification-needed"
+    },
+    {
+      "availability": "Confirm availability",
+      "brand": "Apple",
+      "category": "MacBook",
+      "cpu": "Apple M1 Max · 10-core CPU",
+      "features": [
+        "32-core GPU"
+      ],
+      "flyer": null,
+      "id": "macmax",
+      "image": "macbook-flyers-tanzania-redesigned-v2-03-redesigned-macbook-pro-m1-max-16-beast",
+      "name": "Apple MacBook Pro M1 Max",
+      "note": "",
+      "photos": [],
+      "price": 4990000,
+      "ram": 32,
+      "screen": "16”",
+      "source": "Previous supplied flyer",
+      "storage": "1TB SSD",
+      "variants": [],
+      "public": false,
+      "imageStatus": "verification-needed"
+    },
+    {
+      "availability": "Confirm availability",
+      "brand": "Apple",
+      "category": "MacBook",
+      "cpu": "Apple M1 Pro",
+      "features": [],
+      "flyer": null,
+      "id": "macpro16",
+      "image": "macbook-flyers-tanzania-redesigned-v2-04-redesigned-macbook-pro-m1-pro-2021-16",
+      "name": "Apple MacBook Pro M1 Pro 2021",
+      "note": "",
+      "photos": [],
+      "price": 3200000,
+      "ram": 16,
+      "screen": "16”",
+      "source": "Previous supplied flyer",
+      "storage": "512GB / 1TB SSD",
+      "variants": [
+        {
+          "label": "512GB SSD",
+          "price": 3200000
+        },
+        {
+          "label": "1TB SSD",
+          "price": 3450000
+        }
+      ],
+      "public": false,
+      "imageStatus": "verification-needed"
+    },
+    {
+      "availability": "Confirm availability",
+      "brand": "Apple",
+      "category": "MacBook",
+      "cpu": "Apple M1 Pro",
+      "features": [
+        "Liquid Retina XDR display",
+        "16GB or 32GB unified memory"
+      ],
+      "flyer": null,
+      "id": "macpro14",
+      "image": "macbook-flyers-tanzania-redesigned-v2-05-redesigned-macbook-pro-m1-pro-2021-14",
+      "name": "Apple MacBook Pro 14-inch (2021) · M1 Pro",
+      "note": "Both supplied memory configurations are combined in one model page. Confirm battery health, cycle count, keyboard layout, charger, cosmetic condition and the exact M1 Pro configuration before payment.",
+      "photos": [
+        "macbook-flyers-tanzania-ready-05-macbook-pro-m1-pro-2021-14"
+      ],
+      "price": 2500000,
+      "ram": 16,
+      "screen": "14”",
+      "source": "Previous supplied flyer",
+      "storage": "512GB SSD",
+      "variants": [
+        {
+          "label": "16GB unified memory / 512GB SSD",
+          "price": 2500000
+        },
+        {
+          "label": "32GB unified memory / 512GB SSD",
+          "price": 3150000
+        }
+      ],
+      "summary": [
+        "Apple M1 Pro",
+        "16GB / 32GB memory",
+        "512GB SSD"
+      ],
+      "public": false,
+      "imageStatus": "verification-needed"
+    },
+    {
+      "availability": "Confirm availability",
+      "brand": "Apple",
+      "category": "MacBook",
+      "cpu": "Apple M1",
+      "features": [
+        "Touch Bar"
+      ],
+      "flyer": null,
+      "id": "macm1",
+      "image": "macbook-flyers-tanzania-redesigned-v2-06-redesigned-macbook-pro-2020-m1-13-3-touch-bar",
+      "name": "Apple MacBook Pro M1 2020",
+      "note": "",
+      "photos": [],
+      "price": 2400000,
+      "ram": 8,
+      "screen": "13.3”",
+      "source": "Previous supplied flyer",
+      "storage": "512GB SSD",
+      "variants": [],
+      "public": false,
+      "imageStatus": "verification-needed"
+    },
+    {
+      "availability": "Confirm availability",
+      "brand": "Apple",
+      "category": "MacBook",
+      "cpu": "Intel Core i9",
+      "features": [
+        "Touch Bar",
+        "8GB graphics (supplied)"
+      ],
+      "flyer": null,
+      "id": "maci9",
+      "image": "macbook-flyers-tanzania-redesigned-v2-07-redesigned-macbook-pro-2019-16-core-i9",
+      "name": "Apple MacBook Pro 2019 · i9",
+      "note": "",
+      "photos": [],
+      "price": 2500000,
+      "ram": 64,
+      "screen": "16”",
+      "source": "Previous supplied flyer",
+      "storage": "512GB SSD",
+      "variants": [],
+      "public": false,
+      "imageStatus": "verification-needed"
+    },
+    {
+      "availability": "Confirm availability",
+      "brand": "HP",
+      "category": "Gaming",
+      "cpu": "8th / 10th Gen Intel Core i7 · choose configuration",
+      "features": [
+        "Dedicated NVIDIA graphics",
+        "Four supplied configurations"
+      ],
+      "flyer": null,
+      "id": "omen1",
+      "image": "hp-omen-5-laptop-flyers-pack-01-hp-omen-15-i7-8th-gtx1060-flyer",
+      "name": "HP OMEN 15 Gaming Laptop",
+      "note": "Four previous OMEN 15 cards are now one configuration selector. Confirm the exact OMEN sub-model, processor, GPU, display refresh rate, thermals, battery health and physical condition before payment.",
+      "photos": [
+        "hp-omen-5-laptop-flyers-pack-02-hp-omen-15-i7-10th-gtx1650-flyer",
+        "hp-omen-5-laptop-flyers-pack-03-hp-omen-15-i7-10th-rtx2060-flyer",
+        "hp-omen-5-laptop-flyers-pack-04-hp-omen-15-i7-10th-rtx3060-flyer"
+      ],
+      "price": 1650000,
+      "ram": 16,
+      "screen": "15.6”",
+      "source": "Previous supplied flyer",
+      "storage": "512GB SSD",
+      "variants": [
+        {
+          "label": "Core i7 8th Gen · GTX 1060 6GB · 16GB / 512GB",
+          "price": 1650000
+        },
+        {
+          "label": "Core i7 10th Gen · GTX 1650 4GB · 16GB / 512GB",
+          "price": 1800000
+        },
+        {
+          "label": "Core i7 10th Gen · RTX 2060 6GB · 16GB / 512GB",
+          "price": 1950000
+        },
+        {
+          "label": "Core i7 10th Gen · RTX 3060 6GB · 16GB / 512GB",
+          "price": 2150000
+        }
+      ],
+      "summary": [
+        "4 configurations",
+        "16GB RAM",
+        "512GB SSD"
+      ],
+      "public": false,
+      "imageStatus": "verification-needed"
+    },
+    {
+      "availability": "Confirm availability",
+      "brand": "HP",
+      "category": "Gaming",
+      "cpu": "Core i9 · 13th Gen",
+      "features": [
+        "RTX 4060 · 8GB"
+      ],
+      "flyer": null,
+      "id": "omen5",
+      "image": "hp-omen-5-laptop-flyers-pack-05-hp-omen-16-i9-13th-rtx4060-flyer",
+      "name": "HP OMEN 16 · RTX 4060",
+      "note": "",
+      "photos": [],
+      "price": 3400000,
+      "ram": 16,
+      "screen": "16”",
+      "source": "Previous supplied flyer",
+      "storage": "1TB SSD",
+      "variants": [],
+      "public": false,
+      "imageStatus": "verification-needed"
+    },
+    {
+      "availability": "Confirm availability",
+      "brand": "Lenovo",
+      "category": "All-in-one",
+      "cpu": "Core i7 · 13th Gen",
+      "features": [
+        "DOS"
+      ],
+      "flyer": null,
+      "id": "aio1",
+      "image": "aio-professional-mobile-flyers-pack-v2-01-lenovo-ic-27irh9-i7-13th-27inch",
+      "name": "Lenovo IC 27IRH9",
+      "note": "Previous flyer lists a new all-in-one. Confirm exact model, condition, operating system, keyboard/mouse inclusion and current stock.",
+      "photos": [],
+      "price": 2550000,
+      "ram": 8,
+      "screen": "27”",
+      "source": "Previous supplied flyer",
+      "storage": "512GB SSD",
+      "variants": [],
+      "public": false,
+      "imageStatus": "verification-needed"
+    },
+    {
+      "availability": "Confirm availability",
+      "brand": "HP",
+      "category": "All-in-one",
+      "cpu": "Core i5 · 12th Gen",
+      "features": [
+        "DOS",
+        "Touchscreen"
+      ],
+      "flyer": null,
+      "id": "aio2",
+      "image": "aio-professional-mobile-flyers-pack-v2-02-hp-cb1023nh-i5-12th-24inch-touch",
+      "name": "HP CB1023Nh",
+      "note": "Previous flyer lists a new all-in-one. Confirm exact model, condition, operating system, keyboard/mouse inclusion and current stock.",
+      "photos": [],
+      "price": 2450000,
+      "ram": 8,
+      "screen": "24”",
+      "source": "Previous supplied flyer",
+      "storage": "512GB SSD",
+      "variants": [],
+      "public": false,
+      "imageStatus": "verification-needed"
+    },
+    {
+      "availability": "Confirm availability",
+      "brand": "HP",
+      "category": "All-in-one",
+      "cpu": "Core i5 · 13th Gen",
+      "features": [
+        "DOS"
+      ],
+      "flyer": null,
+      "id": "aio3",
+      "image": "aio-professional-mobile-flyers-pack-v2-03-hp-cr0124nh-i5-13th-24inch",
+      "name": "HP CR0124Nh",
+      "note": "Previous flyer lists a new all-in-one. Confirm exact model, condition, operating system, keyboard/mouse inclusion and current stock.",
+      "photos": [],
+      "price": 2500000,
+      "ram": 8,
+      "screen": "24”",
+      "source": "Previous supplied flyer",
+      "storage": "512GB SSD",
+      "variants": [],
+      "public": false,
+      "imageStatus": "verification-needed"
+    },
+    {
+      "availability": "Confirm availability",
+      "brand": "HP",
+      "category": "All-in-one",
+      "cpu": "Intel Core Ultra 5",
+      "features": [
+        "DOS"
+      ],
+      "flyer": null,
+      "id": "aio4",
+      "image": "aio-professional-mobile-flyers-pack-v2-04-hp-cr1091nh-ultra5-24inch",
+      "name": "HP CR1091Nh",
+      "note": "Previous flyer lists a new all-in-one. Confirm exact model, condition, operating system, keyboard/mouse inclusion and current stock.",
+      "photos": [],
+      "price": 2550000,
+      "ram": 8,
+      "screen": "24”",
+      "source": "Previous supplied flyer",
+      "storage": "512GB SSD",
+      "variants": [],
+      "public": false,
+      "imageStatus": "verification-needed"
+    },
+    {
+      "availability": "Confirm availability",
+      "brand": "HP",
+      "category": "All-in-one",
+      "cpu": "Core i7 · 13th Gen",
+      "features": [
+        "DOS",
+        "White finish"
+      ],
+      "flyer": null,
+      "id": "aio5",
+      "image": "aio-professional-mobile-flyers-pack-v2-05-hp-cr0127-i7-13th-24inch-white",
+      "name": "HP CR0127",
+      "note": "Previous flyer lists a new all-in-one. Confirm exact model, condition, operating system, keyboard/mouse inclusion and current stock.",
+      "photos": [],
+      "price": 2700000,
+      "ram": 8,
+      "screen": "24”",
+      "source": "Previous supplied flyer",
+      "storage": "512GB SSD",
+      "variants": [],
+      "public": false,
+      "imageStatus": "verification-needed"
+    },
+    {
+      "availability": "Confirm stock · Cash only",
+      "category": "All-in-one",
+      "source": "Supplied cash-deal list · 8 September 2026",
+      "variants": [],
+      "brand": "HP",
+      "cpu": "Intel Core Ultra 7 155U",
+      "features": [
+        "FreeDOS",
+        "Non-touch display",
+        "Cash deal only",
+        "White finish"
+      ],
+      "id": "aio6",
+      "image": "online-hp-24-cr1081nh-white",
+      "name": "HP 24-cr1081nh",
+      "note": "Cash deal only. Non-touch configuration requested. Confirm the exact unit, stock, keyboard/mouse inclusion and final specifications before payment.",
+      "photos": [],
+      "price": 2850000,
+      "ram": 8,
+      "screen": "24”",
+      "storage": "512GB SSD",
+      "summary": [
+        "8GB RAM",
+        "512GB SSD",
+        "Non-touch · Cash only"
+      ],
+      "public": true,
+      "imageStatus": "model-reference"
+    },
+    {
+      "availability": "Confirm stock · Cash only",
+      "category": "All-in-one",
+      "source": "Supplied cash-deal list · 8 September 2026",
+      "variants": [],
+      "brand": "HP",
+      "cpu": "Intel Core Ultra 7 (supplied)",
+      "features": [
+        "FreeDOS",
+        "Non-touch display",
+        "Cash deal only",
+        "Black finish"
+      ],
+      "id": "aio7",
+      "image": "online-hp-proone-240-g10-black",
+      "name": "HP ProOne 240 G10",
+      "note": "Cash deal only. Non-touch configuration requested. Confirm the exact Ultra 7 processor, unit, stock and keyboard/mouse inclusion before payment.",
+      "photos": [],
+      "price": 2950000,
+      "ram": 16,
+      "screen": "24”",
+      "storage": "512GB SSD",
+      "summary": [
+        "16GB RAM",
+        "512GB SSD",
+        "Non-touch · Cash only"
+      ],
+      "public": true,
+      "imageStatus": "model-reference"
+    },
+    {
+      "availability": "Confirm stock · Cash only",
+      "category": "All-in-one",
+      "source": "Supplied cash-deal list · 8 September 2026",
+      "variants": [],
+      "brand": "HP",
+      "cpu": "Intel Core Ultra 7 155U",
+      "features": [
+        "FreeDOS",
+        "Non-touch display",
+        "Cash deal only",
+        "White finish"
+      ],
+      "id": "aio8",
+      "image": "online-hp-27-cr1077nh-white",
+      "name": "HP 27-cr1077nh",
+      "note": "Cash deal only. This listing follows the supplied 27-inch, 512GB, non-touch configuration. Confirm the exact SKU and final stock before payment.",
+      "photos": [],
+      "price": 3000000,
+      "ram": 8,
+      "screen": "27” (supplied)",
+      "storage": "512GB SSD",
+      "summary": [
+        "8GB RAM",
+        "512GB SSD",
+        "Non-touch · Cash only"
+      ],
+      "public": true,
+      "imageStatus": "model-reference"
+    },
+    {
+      "availability": "Confirm stock · Cash only",
+      "category": "All-in-one",
+      "source": "Supplied cash-deal list · 8 September 2026",
+      "variants": [
+        {
+          "label": "CR2033NH · White",
+          "price": 3650000,
+          "details": {
+            "name": "HP 27-cr2033nh",
+            "image": "online-hp-27-cr2033nh-white",
+            "photos": [],
+            "features": [
+              "FreeDOS",
+              "Non-touch display",
+              "Cash deal only",
+              "White finish"
+            ]
+          }
+        },
+        {
+          "label": "CR2034NH · Black",
+          "price": 3650000,
+          "details": {
+            "name": "HP 27-cr2034nh",
+            "image": "online-hp-27-cr2034nh-black",
+            "photos": [],
+            "features": [
+              "FreeDOS",
+              "Non-touch display",
+              "Cash deal only",
+              "Black finish"
+            ]
+          }
+        }
+      ],
+      "brand": "HP",
+      "cpu": "Intel Core Ultra 7 255U",
+      "features": [
+        "FreeDOS",
+        "Non-touch display",
+        "Cash deal only",
+        "White finish"
+      ],
+      "id": "aio9",
+      "image": "online-hp-27-cr2033nh-white",
+      "name": "HP 27-cr2033nh / 27-cr2034nh",
+      "note": "Cash deal only. Choose the white CR2033NH or black CR2034NH configuration. Confirm the exact unit, colour and stock before payment.",
+      "photos": [
+        "online-hp-27-cr2034nh-black"
+      ],
+      "price": 3650000,
+      "ram": 16,
+      "screen": "27”",
+      "storage": "1TB SSD",
+      "summary": [
+        "16GB RAM",
+        "1TB SSD",
+        "Non-touch · Cash only"
+      ],
+      "public": true,
+      "imageStatus": "model-reference"
+    },
+    {
+      "availability": "Confirm stock · Cash only",
+      "category": "All-in-one",
+      "source": "Supplied cash-deal list · 8 September 2026",
+      "variants": [],
+      "brand": "HP",
+      "cpu": "Intel Core Ultra 7 155U",
+      "features": [
+        "FreeDOS",
+        "Non-touch stock requested",
+        "Cash deal only",
+        "White finish"
+      ],
+      "id": "aio10",
+      "image": "online-hp-27-cr1063nh-white",
+      "name": "HP 27-cr1063nh · display configuration to confirm",
+      "note": "The requested stock is non-touch, while available CR1063NH/CR0163NH references may be touchscreen. Hold until the exact product number, display type and matching unit photo are supplied.",
+      "photos": [],
+      "price": 3550000,
+      "ram": 8,
+      "screen": "27” (non-touch stock requested)",
+      "storage": "512GB SSD",
+      "summary": [
+        "8GB RAM",
+        "512GB SSD",
+        "Non-touch stock only"
+      ],
+      "public": false,
+      "imageStatus": "verification-needed",
+      "verification": "Evidence hold",
+      "flyer": null
+    },
+    {
+      "availability": "Confirm availability",
+      "brand": "Netac + Hiksemi",
+      "category": "Storage",
+      "features": [
+        "Netac or Hiksemi",
+        "M.2 / SATA",
+        "Up to 1TB"
+      ],
+      "flyer": null,
+      "id": "netac-ssd",
+      "image": "recovered-upgrade-to-speed-with-futuristic-ssds",
+      "name": "Internal SSD Upgrades · Netac & Hiksemi",
+      "note": "Netac and Hiksemi choices from the same supplied price artwork are combined into one compatibility-first listing. Confirm the interface, physical size, available capacity and installation requirements before ordering.",
+      "photos": [],
+      "price": 125000,
+      "source": "Recovered original sales flyer",
+      "specs": [
+        {
+          "label": "Capacity",
+          "value": "256GB / 512GB / 1TB"
+        },
+        {
+          "label": "Form factor",
+          "value": "M.2 or SATA · choose below"
+        },
+        {
+          "label": "Compatibility",
+          "value": "Confirm interface and supported drive size"
+        }
+      ],
+      "summary": [
+        "7 configurations",
+        "M.2 / SATA",
+        "Up to 1TB"
+      ],
+      "variants": [
+        {
+          "label": "Netac 256GB M.2",
+          "price": 125000
+        },
+        {
+          "label": "Hiksemi 256GB M.2",
+          "price": 145000
+        },
+        {
+          "label": "Hiksemi 256GB SATA",
+          "price": 155000
+        },
+        {
+          "label": "Hiksemi 512GB M.2",
+          "price": 215000
+        },
+        {
+          "label": "Hiksemi 512GB SATA",
+          "price": 220000
+        },
+        {
+          "label": "Hiksemi 1TB M.2",
+          "price": 380000
+        },
+        {
+          "label": "Hiksemi 1TB SATA",
+          "price": 370000
+        }
+      ],
+      "public": false,
+      "imageStatus": "verification-needed",
+      "description": "Choose brand, capacity and form factor",
+      "capacity": "256GB / 512GB / 1TB"
+    },
+    {
+      "availability": "Confirm availability",
+      "brand": "HP",
+      "category": "Business",
+      "cpu": "12th Gen Intel Core i5-1235U · 1.3GHz",
+      "features": [
+        "Backlit keyboard",
+        "Fingerprint reader",
+        "Supplied product video"
+      ],
+      "id": "hp-probook-640-g9",
+      "image": "hp-probook-640-g9-video",
+      "name": "HP ProBook 640 G9 · 14-inch",
+      "note": "The supplied video shows the advertised HP ProBook 640 G9. Confirm the exact unit, battery health, condition, keyboard layout and current Sunday offer before payment.",
+      "photos": [],
+      "price": 950000,
+      "ram": 8,
+      "screen": "14” (supplied)",
+      "source": "Supplied product video and listing · 6 September 2026",
+      "storage": "256GB SSD",
+      "variants": [],
+      "public": true,
+      "imageStatus": "supplied-offer"
+    },
+    {
+      "availability": "Confirm availability",
+      "brand": "Microsoft",
+      "category": "Business",
+      "cpu": "10th / 11th Gen Intel Core i5 or i7 · choose configuration",
+      "features": [
+        "Touchscreen",
+        "Backlit keyboard",
+        "Slim and portable"
+      ],
+      "id": "surface-laptop-3",
+      "image": "surface-laptop-shared-07",
+      "name": "Microsoft Surface Laptop 3 / 4",
+      "note": "The supplied photos show one Surface Laptop family and previously appeared on three separate cards. The configurations are now grouped here so images are not repeated. Confirm the exact generation, processor, colour, display size, battery health and physical condition before payment.",
+      "photos": [
+        "surface-laptop-shared-01",
+        "surface-laptop-shared-02",
+        "surface-laptop-shared-03",
+        "surface-laptop-shared-04",
+        "surface-laptop-shared-05",
+        "surface-laptop-shared-06",
+        "surface-laptop-shared-08"
+      ],
+      "price": 880000,
+      "ram": 8,
+      "screen": "Supplied as 14” · confirm exact unit",
+      "source": "Supplied product listing and shared stock-photo set · 6 September 2026",
+      "storage": "256GB SSD",
+      "variants": [
+        {
+          "label": "Surface Laptop 3 · Core i5-1035G7 · 8GB / 256GB",
+          "price": 880000
+        },
+        {
+          "label": "Surface Laptop 4 · Core i5-1145G7 · 16GB / 256GB",
+          "price": 980000
+        },
+        {
+          "label": "Surface Laptop 4 · Core i7-1185G7 · 16GB / 256GB",
+          "price": 1180000
+        }
+      ],
+      "summary": [
+        "3 configurations",
+        "Touchscreen",
+        "8GB / 16GB RAM"
+      ],
+      "public": false,
+      "imageStatus": "verification-needed"
+    },
+    {
+      "availability": "Confirm availability",
+      "brand": "Epson",
+      "category": "Printers",
+      "features": [
+        "Print / Copy / Scan",
+        "Wi-Fi"
+      ],
+      "flyer": null,
+      "id": "epson-l3250",
+      "image": "recovered-sunday-special-epson-printer-promo",
+      "name": "Epson EcoTank L3250",
+      "note": "Price from your archived flyer. Confirm availability, exact model and compatibility with Apex Computers before ordering.",
+      "photos": [],
+      "price": 590000,
+      "source": "Recovered original sales flyer",
+      "specs": [
+        {
+          "label": "Functions",
+          "value": "Print · Copy · Scan"
+        },
+        {
+          "label": "Connectivity",
+          "value": "Wi-Fi / wireless printing"
+        },
+        {
+          "label": "Printing",
+          "value": "Colour · EcoTank ink tank"
+        }
+      ],
+      "summary": [
+        "Print / Copy / Scan",
+        "Wi-Fi"
+      ],
+      "variants": [],
+      "public": false,
+      "imageStatus": "verification-needed",
+      "description": "Colour printing, copying and scanning"
+    },
+    {
+      "availability": "Confirm stock · Cash only",
+      "category": "All-in-one",
+      "source": "Supplied cash-deal list · 8 September 2026",
+      "variants": [],
+      "brand": "Lenovo",
+      "cpu": "Intel Core 5 210H",
+      "features": [
+        "FreeDOS",
+        "Non-touch display",
+        "Cash deal only"
+      ],
+      "id": "aio11",
+      "image": "online-lenovo-thinkcentre-neo-50a-24-gen5",
+      "name": "Lenovo ThinkCentre Neo 50a 24 Gen 5",
+      "note": "Cash deal only. Non-touch configuration requested. Confirm the exact processor, unit, stock and keyboard/mouse inclusion before payment.",
+      "photos": [],
+      "price": 2650000,
+      "ram": 16,
+      "screen": "24”",
+      "storage": "512GB SSD",
+      "summary": [
+        "16GB RAM",
+        "512GB SSD",
+        "Non-touch · Cash only"
+      ],
+      "public": true,
+      "imageStatus": "model-reference"
+    },
+    {
+      "availability": "Confirm stock · Cash only",
+      "category": "All-in-one",
+      "source": "Supplied cash-deal list · 8 September 2026",
+      "variants": [],
+      "brand": "HP",
+      "cpu": "Intel Core Ultra 5 125U",
+      "features": [
+        "FreeDOS",
+        "Non-touch display",
+        "Cash deal only",
+        "White finish"
+      ],
+      "id": "aio12",
+      "image": "online-hp-24-cr1090nh-white",
+      "name": "HP 24-cr1090nh",
+      "note": "Cash deal only. Non-touch white configuration requested. Confirm the exact unit, stock and keyboard/mouse inclusion before payment.",
+      "photos": [],
+      "price": 2550000,
+      "ram": 8,
+      "screen": "24”",
+      "storage": "512GB SSD",
+      "summary": [
+        "8GB RAM",
+        "512GB SSD",
+        "Non-touch · Cash only"
+      ],
+      "public": true,
+      "imageStatus": "model-reference"
+    },
+    {
+      "id": "hp-elite-dragonfly-g2",
+      "name": "HP Elite Dragonfly G2",
+      "brand": "HP",
+      "category": "2-in-1",
+      "cpu": "11th Gen Intel Core i5 · exact SKU to confirm",
+      "ram": 8,
+      "storage": "256GB SSD",
+      "screen": "13.3” touchscreen",
+      "price": 1200000,
+      "features": [
+        "Touchscreen",
+        "360° hinge",
+        "Ultra-light premium design"
+      ],
+      "image": "online-hp-elite-dragonfly-g2",
+      "flyer": null,
+      "photos": [],
+      "variants": [],
+      "availability": "In stock · Confirm today",
+      "source": "Supplied stock list · 17 September 2026 · model family checked against manufacturer documentation",
+      "verification": "Model family checked",
+      "note": "Confirm the exact Core i5 processor, display, keyboard layout, ports and battery health on the available unit before payment.",
+      "public": true,
+      "imageStatus": "model-reference"
+    },
+    {
+      "id": "hp-elite-dragonfly-max",
+      "name": "HP Elite Dragonfly Max",
+      "brand": "HP",
+      "category": "2-in-1",
+      "cpu": "11th Gen Intel Core i7 · exact SKU to confirm",
+      "ram": 32,
+      "storage": "512GB SSD",
+      "screen": "13.3” touchscreen",
+      "price": 1650000,
+      "features": [
+        "Touchscreen",
+        "360° hinge",
+        "Premium collaboration camera"
+      ],
+      "image": "online-hp-elite-dragonfly-max",
+      "flyer": null,
+      "photos": [],
+      "variants": [],
+      "availability": "In stock · Confirm today",
+      "source": "Supplied stock list · 17 September 2026 · model family checked against manufacturer documentation",
+      "verification": "Model family checked",
+      "note": "Confirm the exact Core i7 processor, display, keyboard layout, ports and battery health on the available unit before payment.",
+      "public": true,
+      "imageStatus": "model-reference"
+    },
+    {
+      "id": "hp-elite-dragonfly-g3",
+      "name": "HP Elite Dragonfly 13.5-inch G3",
+      "brand": "HP",
+      "category": "Business",
+      "cpu": "12th Gen Intel Core i7-1265U · 1.8GHz",
+      "ram": 16,
+      "storage": "256GB SSD",
+      "screen": "13.5” touchscreen",
+      "price": 1580000,
+      "features": [
+        "Touchscreen",
+        "Backlit keyboard",
+        "Fingerprint scanner",
+        "Intel Iris Xe Graphics",
+        "DDR5 memory",
+        "Premium ultra-light design"
+      ],
+      "image": "hp-elite-dragonfly-g3-hero",
+      "flyer": null,
+      "photos": [
+        "hp-elite-dragonfly-g3-photo-01",
+        "hp-elite-dragonfly-g3-photo-02",
+        "hp-elite-dragonfly-g3-photo-03",
+        "hp-elite-dragonfly-g3-photo-04",
+        "hp-elite-dragonfly-g3-photo-05",
+        "hp-elite-dragonfly-g3-photo-06",
+        "hp-elite-dragonfly-g3-photo-07"
+      ],
+      "variants": [
+        {
+          "label": "16GB DDR5 · 256GB SSD · Touchscreen",
+          "price": 1580000,
+          "details": {
+            "ram": 16
+          }
+        },
+        {
+          "label": "32GB DDR5 · 256GB SSD · Touchscreen",
+          "price": 1780000,
+          "details": {
+            "ram": 32
+          }
+        }
+      ],
+      "availability": "In stock · Confirm today",
+      "source": "Directly supplied product details and stock photos · 25 September 2026",
+      "verification": "Supplied stock photos",
+      "note": "Supplied stock photos and configuration received from Apex Computers. Confirm battery health, exact display resolution, charger and physical condition before payment.",
+      "public": true,
+      "imageStatus": "actual-stock+cleaned-hero"
+    },
+    {
+      "id": "hp-elitebook-830-g9",
+      "name": "HP EliteBook 830 G9 · Touch",
+      "brand": "HP",
+      "category": "Business",
+      "cpu": "12th Gen Intel Core i5 · exact SKU to confirm",
+      "ram": 16,
+      "storage": "256GB SSD",
+      "screen": "13.3” touchscreen",
+      "price": 1180000,
+      "features": [
+        "Touchscreen",
+        "Premium business laptop",
+        "Thunderbolt 4"
+      ],
+      "image": "online-hp-elitebook-830-g9",
+      "flyer": null,
+      "photos": [],
+      "variants": [],
+      "availability": "In stock · Confirm today",
+      "source": "Supplied stock list · 17 September 2026 · model family checked against manufacturer documentation",
+      "verification": "Model family checked",
+      "note": "Confirm the exact Core i5 processor, touch panel, keyboard layout and battery health on the available unit before payment.",
+      "public": true,
+      "imageStatus": "model-reference"
+    },
+    {
+      "id": "hp-laptop-15-12th-gen",
+      "name": "HP Laptop 15 · 12th Gen i5",
+      "brand": "HP",
+      "category": "Everyday",
+      "cpu": "12th Gen Intel Core i5 · product number required",
+      "ram": 8,
+      "storage": "512GB SSD",
+      "screen": "15.6” (supplied)",
+      "price": 1180000,
+      "features": [
+        "Refurbished with box",
+        "Numeric keyboard",
+        "Full-size display"
+      ],
+      "image": "online-hp-laptop-15-12th-gen",
+      "flyer": null,
+      "photos": [],
+      "variants": [],
+      "availability": "In stock · Confirm today",
+      "source": "Supplied stock list · 17 September 2026 · exact HP product number not supplied",
+      "verification": "Stock code required",
+      "note": "HP sells several 15-inch 12th-gen chassis. The image is a representative HP 15 family reference; request the product number and actual-unit photos to confirm the exact design, processor, display and condition before payment.",
+      "public": false,
+      "imageStatus": "verification-needed"
+    },
+    {
+      "id": "lenovo-ideapad-d330",
+      "name": "Lenovo IdeaPad D330 Detachable",
+      "brand": "Lenovo",
+      "category": "2-in-1",
+      "cpu": "Intel Celeron · exact SKU to confirm",
+      "ram": 4,
+      "storage": "64GB eMMC",
+      "screen": "10.1” touchscreen",
+      "price": 380000,
+      "features": [
+        "Detachable keyboard",
+        "Touchscreen",
+        "Compact 2-in-1"
+      ],
+      "image": "online-lenovo-ideapad-d330",
+      "flyer": null,
+      "photos": [],
+      "variants": [],
+      "availability": "Held for exact model/photo confirmation",
+      "source": "Supplied stock list · 17 September 2026 · corrected to likely D330 family",
+      "verification": "Exact model/photo required",
+      "note": "Held from public shop: “IdeaPad 300 Detachable” was previously mapped to D330 by inference; exact model code/photo must be supplied before publication.",
+      "public": false,
+      "imageStatus": "model-reference"
+    },
+    {
+      "id": "hp-probook-440-g9",
+      "name": "HP ProBook 440 G9",
+      "brand": "HP",
+      "category": "Business",
+      "cpu": "12th Gen Intel Core i5 · exact SKU to confirm",
+      "ram": 8,
+      "storage": "256GB SSD",
+      "screen": "14”",
+      "price": 850000,
+      "features": [
+        "Business-class design",
+        "USB-C connectivity",
+        "Privacy camera shutter"
+      ],
+      "image": "online-hp-probook-440-g9",
+      "flyer": null,
+      "photos": [],
+      "variants": [],
+      "availability": "In stock · Confirm today",
+      "source": "Supplied stock list · 17 September 2026 · model family checked against manufacturer documentation",
+      "verification": "Model family checked",
+      "note": "Confirm the exact Core i5 processor, display, keyboard layout and battery health on the available unit before payment.",
+      "public": true,
+      "imageStatus": "model-reference"
+    },
+    {
+      "id": "lenovo-thinkpad-t14s-gen2",
+      "name": "Lenovo ThinkPad T14s Gen 2 · Intel",
+      "brand": "Lenovo",
+      "category": "Business",
+      "cpu": "11th Gen Intel Core i5 · exact SKU to confirm",
+      "ram": 16,
+      "storage": "512GB SSD",
+      "screen": "14”",
+      "price": 950000,
+      "features": [
+        "Backlit keyboard option",
+        "Thunderbolt 4",
+        "Ultra-light business design"
+      ],
+      "image": "online-lenovo-thinkpad-t14s-gen2",
+      "flyer": null,
+      "photos": [],
+      "variants": [],
+      "availability": "In stock · Confirm today",
+      "source": "Supplied stock list · 17 September 2026 · model family checked against manufacturer documentation",
+      "verification": "Model family checked",
+      "note": "Lenovo offered several 11th-gen Core i5 and display configurations. Confirm the exact processor, touch option, keyboard and battery health before payment.",
+      "public": true,
+      "imageStatus": "model-reference"
+    },
+    {
+      "id": "lenovo-thinkpad-x1-yoga-gen7",
+      "name": "Lenovo ThinkPad X1 Yoga Gen 7",
+      "brand": "Lenovo",
+      "category": "2-in-1",
+      "cpu": "12th Gen Intel Core i7 · exact SKU to confirm",
+      "ram": 16,
+      "storage": "512GB SSD",
+      "screen": "14” touchscreen",
+      "price": 1280000,
+      "features": [
+        "Touchscreen",
+        "360° hinge",
+        "Integrated stylus family"
+      ],
+      "image": "online-lenovo-thinkpad-x1-yoga-gen7",
+      "flyer": null,
+      "photos": [],
+      "variants": [],
+      "availability": "In stock · Confirm today",
+      "source": "Supplied stock list · 17 September 2026 · model family checked against manufacturer documentation",
+      "verification": "Model family checked",
+      "note": "The 12th-gen X1 Yoga is Lenovo’s Gen 7 14-inch convertible family. Confirm the exact Core i7 processor, display, stylus, keyboard and battery health before payment.",
+      "public": true,
+      "imageStatus": "model-reference"
+    },
+    {
+      "id": "hp-zbook-firefly-14-g8",
+      "name": "HP ZBook Firefly 14 G8",
+      "brand": "HP",
+      "category": "Workstation",
+      "cpu": "11th Gen Intel Core i5 · exact SKU to confirm",
+      "ram": 16,
+      "storage": "256GB SSD",
+      "screen": "14-inch non-touch",
+      "price": 880000,
+      "features": [
+        "Mobile workstation",
+        "Thunderbolt 4",
+        "Non-touch display"
+      ],
+      "image": "online-hp-zbook-firefly-14-g8",
+      "flyer": null,
+      "photos": [],
+      "variants": [
+        {
+          "label": "Core i5 · 16GB · 256GB SSD",
+          "price": 880000,
+          "details": {
+            "cpu": "11th Gen Intel Core i5 · exact SKU to confirm",
+            "screen": "14-inch non-touch",
+            "features": [
+              "Mobile workstation",
+              "Thunderbolt 4",
+              "Non-touch display"
+            ]
+          }
+        },
+        {
+          "label": "Core i7 · 16GB · 256GB SSD · Touch",
+          "price": 1180000,
+          "details": {
+            "cpu": "11th Gen Intel Core i7 · exact SKU to confirm",
+            "screen": "14-inch touchscreen",
+            "features": [
+              "Mobile workstation",
+              "Thunderbolt 4",
+              "Touchscreen"
+            ]
+          }
+        }
+      ],
+      "availability": "In stock · Confirm today",
+      "source": "Supplied stock list · 17 September 2026 · model family checked against manufacturer documentation",
+      "verification": "Model family checked",
+      "note": "Choose the supplied i5 non-touch offer or i7 touchscreen offer. Confirm the exact processor, graphics, display, keyboard and battery health before payment.",
+      "public": true,
+      "imageStatus": "model-reference"
+    },
+    {
+      "id": "hp-zbook-firefly-14-g9",
+      "name": "HP ZBook Firefly 14 G9",
+      "brand": "HP",
+      "category": "Workstation",
+      "cpu": "12th Gen Intel Core i7 · exact SKU to confirm",
+      "ram": 16,
+      "storage": "512GB SSD",
+      "screen": "14”",
+      "price": 1350000,
+      "features": [
+        "Mobile workstation",
+        "16:10 display family",
+        "Thunderbolt 4"
+      ],
+      "image": "online-hp-zbook-firefly-14-g9",
+      "flyer": null,
+      "photos": [],
+      "variants": [],
+      "availability": "In stock · Confirm today",
+      "source": "Supplied stock list · 17 September 2026 · model family checked against manufacturer documentation",
+      "verification": "Model family checked",
+      "note": "Confirm the exact Core i7 processor, graphics, display, keyboard and battery health on the available unit before payment.",
+      "public": true,
+      "imageStatus": "model-reference"
+    },
+    {
+      "id": "hp-zbook-firefly-15-g8",
+      "name": "HP ZBook Firefly 15 G8",
+      "brand": "HP",
+      "category": "Workstation",
+      "cpu": "11th Gen Intel Core i7 · exact SKU to confirm",
+      "ram": 16,
+      "storage": "512GB SSD",
+      "screen": "15.6”",
+      "price": 1680000,
+      "features": [
+        "Mobile workstation",
+        "Numeric keyboard"
+      ],
+      "image": "online-hp-zbook-firefly-15-g8",
+      "flyer": null,
+      "photos": [],
+      "variants": [
+        {
+          "label": "Core i7 · 16GB · 512GB SSD",
+          "price": 1680000,
+          "details": {
+            "features": [
+              "Mobile workstation",
+              "Numeric keyboard"
+            ],
+            "note": "Supplied standard 16GB / 512GB configuration. Dedicated graphics are not asserted for this option; confirm the fitted GPU before payment."
+          }
+        },
+        {
+          "label": "Core i7 · 16GB · 512GB SSD · Dedicated graphics 4GB",
+          "price": 1750000,
+          "details": {
+            "features": [
+              "Mobile workstation",
+              "Numeric keyboard",
+              "Dedicated graphics · 4GB (supplied)"
+            ],
+            "note": "Supplied 16GB / 512GB offer with 4GB dedicated graphics. Confirm the exact GPU model and VRAM before payment."
+          }
+        }
+      ],
+      "availability": "In stock · Confirm today",
+      "source": "Supplied stock list · 17 September 2026 · model family checked against manufacturer documentation",
+      "verification": "Model family checked",
+      "note": "Supplied standard 16GB / 512GB configuration. Dedicated graphics are not asserted for this option; confirm the fitted GPU before payment.",
+      "public": true,
+      "imageStatus": "model-reference"
+    },
+    {
+      "id": "hp-probook-x360-435-g9",
+      "name": "HP ProBook x360 435 G9",
+      "brand": "HP",
+      "category": "2-in-1",
+      "cpu": "AMD Ryzen 5 · exact SKU to confirm",
+      "ram": 16,
+      "storage": "256GB SSD",
+      "screen": "13.3” touchscreen",
+      "price": 950000,
+      "features": [
+        "Touchscreen",
+        "360° hinge",
+        "AMD Radeon graphics"
+      ],
+      "image": "online-hp-probook-x360-435-g9",
+      "flyer": null,
+      "photos": [],
+      "variants": [],
+      "availability": "In stock · Confirm today",
+      "source": "Supplied stock list · 17 September 2026 · model family checked against manufacturer documentation",
+      "verification": "Model family checked",
+      "note": "Confirm the exact Ryzen 5 processor, touch panel, keyboard layout and battery health on the available unit before payment.",
+      "public": true,
+      "imageStatus": "model-reference"
+    },
+    {
+      "id": "hp-elitebook-845-g7",
+      "name": "HP EliteBook 845 G7 · Ryzen 5",
+      "brand": "HP",
+      "category": "Business",
+      "cpu": "AMD Ryzen 5 PRO 4650U · family configuration",
+      "ram": 16,
+      "storage": "256GB SSD",
+      "screen": "14”",
+      "price": 850000,
+      "features": [
+        "Premium business laptop",
+        "AMD Radeon graphics",
+        "USB-C connectivity"
+      ],
+      "image": "online-hp-elitebook-845-g7",
+      "flyer": null,
+      "photos": [],
+      "variants": [],
+      "availability": "In stock · Confirm today",
+      "source": "Supplied stock list · 17 September 2026 · model family checked against manufacturer documentation",
+      "verification": "Model family checked",
+      "note": "Confirm the exact Ryzen 5 processor, display, keyboard layout and battery health on the available unit before payment.",
+      "public": true,
+      "imageStatus": "model-reference"
+    },
+    {
+      "id": "hp-prodesk-600-g6",
+      "name": "HP ProDesk 600 G6 MT",
+      "brand": "HP",
+      "category": "Desktop",
+      "cpu": "Intel Core i5 · 10th Gen · 3.2GHz",
+      "ram": 16,
+      "storage": "1TB HDD",
+      "screen": "Tower PC · CPU only",
+      "price": 930000,
+      "features": [
+        "Microtower chassis",
+        "Multiple SSD slots (supplied)",
+        "USB-C port"
+      ],
+      "image": "chat-Oct10-hp-prodesk-600-g6-photo-02",
+      "flyer": "chat-Oct10-hp-prodesk-600-g6-flyer",
+      "photos": [
+        "chat-Oct10-hp-prodesk-600-g6-photo-01",
+        "chat-Oct10-hp-prodesk-600-g6-photo-03"
+      ],
+      "variants": [],
+      "specs": [
+        {
+          "label": "Processor",
+          "value": "Intel Core i5 · 10th Gen · 3.2GHz"
+        },
+        {
+          "label": "Memory",
+          "value": "16GB RAM"
+        },
+        {
+          "label": "Storage",
+          "value": "1TB HDD"
+        },
+        {
+          "label": "Expansion",
+          "value": "Multiple SSD slots (supplied)"
+        },
+        {
+          "label": "Ports",
+          "value": "USB-C"
+        },
+        {
+          "label": "Chassis",
+          "value": "MT · Microtower"
+        }
+      ],
+      "availability": "In stock · Confirm today",
+      "source": "LAPTOP FLYER DESIGN · original user offer and stock photos · 9 October 2026",
+      "verification": "Actual photos supplied",
+      "note": "Latest supplied MT tower offer replaces the older unspecified chassis listing. Confirm the exact Core i5 code, drive health, SSD-slot configuration and included accessories.",
+      "public": true,
+      "imageStatus": "actual-unit"
+    },
+    {
+      "id": "hp-e22-g4",
+      "name": "HP E22 G4 21.5-inch Monitor",
+      "brand": "HP",
+      "category": "Monitors",
+      "screen": "21.5” · marketed as 22”",
+      "price": 370000,
+      "features": [
+        "DisplayPort · HDMI · VGA",
+        "Slim 3-sided bezel",
+        "Supplied product video available"
+      ],
+      "image": "hp-e22-g4-photo-01",
+      "flyer": null,
+      "photos": [
+        "hp-e22-g4-photo-02"
+      ],
+      "variants": [],
+      "specs": [
+        {
+          "label": "Panel size",
+          "value": "21.5-inch viewable · marketed as 22-inch"
+        },
+        {
+          "label": "Resolution",
+          "value": "Full HD · 1920 × 1080"
+        },
+        {
+          "label": "Ports",
+          "value": "DisplayPort · HDMI · VGA"
+        },
+        {
+          "label": "Stand",
+          "value": "Business stand included · confirm cables with seller"
+        }
+      ],
+      "availability": "In stock · video supplied",
+      "source": "Supplied Apex monitor video and selling price · 1 October 2026",
+      "verification": "Actual video supplied",
+      "note": "The supplied video shows the actual HP E22 G4 monitor. Confirm included power cable / video cable, stand condition and screen condition before payment.",
+      "public": true,
+      "imageStatus": "supplied-video",
+      "description": "Business Full HD monitor",
+      "summary": [
+        "21.5-inch FHD display",
+        "HDMI · DisplayPort · VGA",
+        "Stand included"
+      ]
+    },
+    {
+      "id": "dell-p2422h",
+      "name": "Dell P2422H FHD Monitor",
+      "brand": "Dell",
+      "category": "Monitors",
+      "screen": "23.8” viewable · marketed as 24”",
+      "price": 370000,
+      "features": [
+        "3-sided ultrathin bezel",
+        "Height / tilt / swivel / pivot",
+        "ComfortView Plus"
+      ],
+      "image": "chat-Oct10-dell-p2422h-photo-02",
+      "flyer": "chat-Oct10-dell-p2422h-flyer",
+      "photos": [
+        "chat-Oct10-dell-p2422h-photo-01",
+        "chat-Oct10-dell-p2422h-photo-03",
+        "chat-Oct10-dell-p2422h-photo-04"
+      ],
+      "variants": [],
+      "specs": [
+        {
+          "label": "Viewable size",
+          "value": "23.8” · marketed as 24”"
+        },
+        {
+          "label": "Resolution",
+          "value": "Full HD · 1920 × 1080 at 60Hz"
+        },
+        {
+          "label": "Panel",
+          "value": "IPS · anti-glare"
+        },
+        {
+          "label": "Connections",
+          "value": "HDMI · DisplayPort · VGA · USB hub"
+        }
+      ],
+      "availability": "In stock · Confirm today",
+      "source": "LAPTOP FLYER DESIGN · supplied stock photos and latest price · 9 October 2026",
+      "verification": "Actual photos supplied",
+      "note": "Original P2422H stock photos and latest supplied TSh 370,000 offer. Dell specifies a 23.8-inch viewable panel, marketed as 24 inches. Confirm stand condition and included cables before payment.",
+      "public": true,
+      "imageStatus": "actual-unit",
+      "description": "Full HD IPS business monitor",
+      "summary": [
+        "23.8-inch FHD IPS",
+        "HDMI · DisplayPort · VGA",
+        "Adjustable stand"
+      ]
+    },
+    {
+      "id": "hp-prodesk-400-g5-dm-set",
+      "name": "HP ProDesk 400 G5 Desktop Mini Set · full set to confirm",
+      "brand": "HP",
+      "category": "Desktop",
+      "cpu": "9th Gen Intel Core i3 · exact SKU to confirm",
+      "ram": 8,
+      "storage": "500GB storage · type to confirm",
+      "screen": "22” monitor included (supplied)",
+      "price": 770000,
+      "features": [
+        "Desktop Mini PC",
+        "22-inch monitor set",
+        "Space-saving office setup"
+      ],
+      "image": "online-hp-prodesk-400-g5-dm",
+      "flyer": null,
+      "photos": [],
+      "variants": [],
+      "specs": [
+        {
+          "label": "Processor",
+          "value": "9th Gen Intel Core i3 · exact SKU to confirm"
+        },
+        {
+          "label": "Memory",
+          "value": "8GB RAM"
+        },
+        {
+          "label": "Storage",
+          "value": "500GB · drive type to confirm"
+        },
+        {
+          "label": "Display",
+          "value": "22-inch monitor included · exact model to confirm"
+        }
+      ],
+      "availability": "In stock · Confirm today",
+      "source": "Supplied stock list · 17 September 2026 · monitor model not supplied",
+      "verification": "Evidence hold",
+      "note": "The supplied offer is a complete desktop-and-monitor set, but the reference image only identifies the Mini PC family. Hold until an actual photo of the complete set identifies the monitor, storage type, cables, keyboard and mouse.",
+      "public": false,
+      "imageStatus": "verification-needed"
+    },
+    {
+      "id": "hp-elitedisplay-e273m",
+      "name": "HP EliteDisplay E273m 27-inch Monitor",
+      "brand": "HP",
+      "category": "Monitors",
+      "screen": "27” FHD IPS",
+      "price": 650000,
+      "features": [
+        "720p pop-up HD webcam + dual microphones",
+        "Built-in 2 × 2W speakers",
+        "HDMI 1.4 · DisplayPort 1.2 · VGA",
+        "Height · tilt · swivel · pivot adjustment"
+      ],
+      "image": "hp-elitedisplay-e273m-hero",
+      "flyer": null,
+      "photos": [
+        "hp-elitedisplay-e273m-photo-01",
+        "hp-elitedisplay-e273m-photo-02",
+        "hp-elitedisplay-e273m-photo-03",
+        "hp-elitedisplay-e273m-photo-04",
+        "hp-elitedisplay-e273m-photo-05"
+      ],
+      "variants": [],
+      "specs": [
+        {
+          "label": "Display",
+          "value": "27” IPS · Full HD 1920 × 1080"
+        },
+        {
+          "label": "Camera",
+          "value": "Integrated pop-up 720p HD webcam · dual microphones"
+        },
+        {
+          "label": "Speakers",
+          "value": "Built-in stereo speakers · 2W + 2W"
+        },
+        {
+          "label": "Video inputs",
+          "value": "HDMI 1.4 · DisplayPort 1.2 · VGA"
+        },
+        {
+          "label": "USB",
+          "value": "USB-C upstream · 2 × USB-A 3.0"
+        },
+        {
+          "label": "Ergonomics",
+          "value": "Height · tilt · swivel · 90° pivot"
+        }
+      ],
+      "availability": "Confirm availability",
+      "source": "Supplied Apex stock photos and price · 27 September 2026 · HP EliteDisplay E273m specifications checked",
+      "verification": "Model family checked",
+      "note": "The supplied unit matches the EliteDisplay E273m family with pop-up webcam and built-in speakers. Confirm included cables, stand condition and the exact physical unit before payment.",
+      "public": true,
+      "imageStatus": "enhanced-supplied",
+      "description": "27-inch Full HD IPS business monitor",
+      "summary": [
+        "27-inch FHD IPS",
+        "Pop-up webcam + speakers",
+        "HDMI · DisplayPort · VGA"
+      ]
+    },
+    {
+      "id": "hp-elitebook-840-g6",
+      "name": "HP EliteBook 840 G6 14-inch",
+      "brand": "HP",
+      "category": "Business",
+      "cpu": "8th Gen Intel Core i7 · 2.11GHz",
+      "ram": 16,
+      "storage": "512GB SSD",
+      "screen": "14-inch",
+      "price": 880000,
+      "features": [
+        "Backlit keyboard",
+        "Fingerprint reader",
+        "USB-C port",
+        "Silver colour",
+        "Slim and portable"
+      ],
+      "summary": [
+        "14-inch business laptop",
+        "16GB RAM · 512GB SSD",
+        "Backlit keyboard · Fingerprint · USB-C"
+      ],
+      "image": "hp-elitebook-840-g6-cutout",
+      "flyer": null,
+      "photos": [
+        "hp-elitebook-840-g6-photo-03",
+        "hp-elitebook-840-g6-photo-02",
+        "hp-elitebook-840-g6-photo-01",
+        "hp-elitebook-840-g6-photo-04"
+      ],
+      "variants": [],
+      "availability": "Only 2 pcs available",
+      "source": "Supplied Apex stock photos and price · 1 October 2026",
+      "verification": "Actual photos supplied",
+      "note": "Silver colour. Confirm battery health, keyboard lighting, fingerprint sensor, USB-C port and overall condition before payment.",
+      "public": true,
+      "imageStatus": "enhanced-supplied",
+      "specs": [
+        {
+          "label": "Processor",
+          "value": "Intel Core i7 · 8th Gen · 2.11GHz"
+        },
+        {
+          "label": "Memory",
+          "value": "16GB RAM"
+        },
+        {
+          "label": "Storage",
+          "value": "512GB SSD"
+        },
+        {
+          "label": "Keyboard",
+          "value": "Keyboard lights / backlit keyboard"
+        },
+        {
+          "label": "Security",
+          "value": "Fingerprint reader"
+        },
+        {
+          "label": "Ports",
+          "value": "USB-C included"
+        },
+        {
+          "label": "Colour",
+          "value": "Silver"
+        }
+      ]
+    },
+    {
+      "id": "dell-optiplex-7020",
+      "name": "Dell OptiPlex 7020 CPU Tower",
+      "brand": "Dell",
+      "category": "Desktop",
+      "cpu": "Intel Core i5 · 4th Gen",
+      "ram": 20,
+      "storage": "128GB SSD + 500GB HDD",
+      "screen": "CPU only",
+      "price": 480000,
+      "features": [
+        "20GB RAM",
+        "128GB SSD OS drive",
+        "500GB HDD storage",
+        "Powerful & reliable"
+      ],
+      "summary": [
+        "Core i5 4th Gen",
+        "20GB RAM",
+        "128GB SSD OS + 500GB HDD"
+      ],
+      "image": "dell-optiplex-7020-cutout",
+      "flyer": null,
+      "photos": [
+        "dell-optiplex-7020-photo-02",
+        "dell-optiplex-7020-photo-01"
+      ],
+      "variants": [],
+      "specs": [
+        {
+          "label": "Processor",
+          "value": "Intel Core i5 · 4th Gen"
+        },
+        {
+          "label": "Memory",
+          "value": "20GB RAM"
+        },
+        {
+          "label": "System drive",
+          "value": "128GB SSD"
+        },
+        {
+          "label": "Additional storage",
+          "value": "500GB HDD"
+        }
+      ],
+      "availability": "In stock · Confirm today",
+      "source": "Supplied Dell OptiPlex 7020 references and Apex offer · 1 October 2026",
+      "verification": "Reference images supplied",
+      "note": "Tower CPU only. Confirm the exact processor model, ports, storage health and overall physical condition before payment.",
+      "public": true,
+      "imageStatus": "enhanced-reference"
+    },
+    {
+      "id": "hp-elitebook-x360-1040-g8",
+      "name": "HP EliteBook x360 1040 G8",
+      "brand": "HP",
+      "category": "2-in-1",
+      "cpu": "Intel Core i7-1185G7 · 11th Gen · 3.0GHz",
+      "ram": 16,
+      "storage": "512GB SSD",
+      "screen": "14-inch FHD touchscreen",
+      "price": 1450000,
+      "features": [
+        "Touchscreen",
+        "360° hinge",
+        "Backlit keyboard",
+        "Fingerprint reader",
+        "Facial sign-in",
+        "Intel Iris Xe graphics"
+      ],
+      "image": "chat-Oct10-hp-elitebook-x360-1040-g8-photo-01",
+      "photos": [
+        "chat-Oct10-hp-elitebook-x360-1040-g8-photo-02",
+        "chat-Oct10-hp-elitebook-x360-1040-g8-photo-03",
+        "chat-Oct10-hp-elitebook-x360-1040-g8-photo-04",
+        "chat-Oct10-hp-elitebook-x360-1040-g8-photo-05"
+      ],
+      "flyer": null,
+      "variants": [],
+      "availability": "In stock · Confirm today",
+      "source": "LAPTOP FLYER DESIGN · original user offer and stock photos · 7 October 2026",
+      "verification": "Actual photos supplied",
+      "note": "Supplied stock photos and specifications. Confirm fingerprint and facial sign-in operation, battery health, charger and condition before payment.",
+      "public": true,
+      "imageStatus": "actual-unit",
+      "specs": [
+        {
+          "label": "Processor",
+          "value": "Intel Core i7-1185G7 · 11th Gen · 3.0GHz"
+        },
+        {
+          "label": "Memory",
+          "value": "16GB RAM"
+        },
+        {
+          "label": "Storage",
+          "value": "512GB SSD"
+        },
+        {
+          "label": "Display",
+          "value": "14-inch FHD touchscreen"
+        },
+        {
+          "label": "Graphics",
+          "value": "Intel Iris Xe"
+        },
+        {
+          "label": "Design",
+          "value": "x360 convertible · edge-cut design (supplied)"
+        },
+        {
+          "label": "Keyboard",
+          "value": "Backlit keyboard"
+        },
+        {
+          "label": "Security",
+          "value": "Fingerprint scanner · facial sign-in (supplied)"
+        }
+      ]
+    },
+    {
+      "id": "hp-elitedesk-800-g5-sff",
+      "name": "HP EliteDesk 800 G5 SFF",
+      "brand": "HP",
+      "category": "Desktop",
+      "cpu": "Intel Core i7 · 9th Gen · 3.0GHz supplied",
+      "ram": 8,
+      "storage": "500GB HDD",
+      "screen": "SFF desktop · CPU only",
+      "price": 580000,
+      "features": [
+        "Small form factor",
+        "USB-C port",
+        "8th / 9th Gen offers"
+      ],
+      "image": "chat-Oct10-hp-elitedesk-800-g5-sff-photo-02",
+      "photos": [
+        "chat-Oct10-hp-elitedesk-800-g5-sff-photo-01",
+        "chat-Oct10-hp-elitedesk-800-g5-sff-photo-03"
+      ],
+      "flyer": "chat-Oct10-hp-elitedesk-800-g5-sff-flyer",
+      "variants": [
+        {
+          "label": "Core i7 · 9th Gen · 8GB · 500GB HDD",
+          "price": 580000,
+          "details": {
+            "cpu": "Intel Core i7 · 9th Gen · 3.0GHz supplied",
+            "note": "The seller supplied 9th Gen at TSh 580,000 and 8th Gen at TSh 630,000. Photos show the SFF chassis; the visible front label identifies a 9th Gen unit. Confirm the processor of the chosen unit."
+          }
+        },
+        {
+          "label": "Core i7 · 8th Gen · 8GB · 500GB HDD",
+          "price": 630000,
+          "details": {
+            "cpu": "Intel Core i7 · 8th Gen · 3.0GHz supplied",
+            "note": "The supplied 8th Gen offer is TSh 630,000. Stock photos illustrate the same SFF chassis and show a 9th Gen unit; confirm the actual 8th Gen processor code, clock and physical unit before payment.",
+            "imageStatus": "model-reference"
+          }
+        }
+      ],
+      "availability": "In stock · Confirm today",
+      "source": "LAPTOP FLYER DESIGN · original user offer and stock photos · 9 October 2026",
+      "verification": "Actual photos supplied",
+      "note": "The seller supplied 9th Gen at TSh 580,000 and 8th Gen at TSh 630,000. Photos show the SFF chassis; the visible front label identifies a 9th Gen unit. Confirm the processor of the chosen unit.",
+      "public": true,
+      "imageStatus": "actual-unit"
+    },
+    {
+      "id": "dell-latitude-5310-2-in-1",
+      "name": "Dell Latitude 5310 2-in-1",
+      "brand": "Dell",
+      "category": "2-in-1",
+      "cpu": "Intel Core i5 · 10th Gen · 2.11GHz supplied",
+      "ram": 8,
+      "storage": "256GB SSD",
+      "screen": "13.3-inch touchscreen",
+      "price": 770000,
+      "features": [
+        "Touchscreen",
+        "360° rotation",
+        "Backlit keyboard",
+        "Excellent battery (supplied)"
+      ],
+      "image": "chat-Oct10-dell-latitude-5310-2-in-1-photo-02",
+      "photos": [
+        "chat-Oct10-dell-latitude-5310-2-in-1-photo-01",
+        "chat-Oct10-dell-latitude-5310-2-in-1-photo-03",
+        "chat-Oct10-dell-latitude-5310-2-in-1-photo-04",
+        "chat-Oct10-dell-latitude-5310-2-in-1-photo-05",
+        "chat-Oct10-dell-latitude-5310-2-in-1-photo-06"
+      ],
+      "flyer": "chat-Oct10-dell-latitude-5310-2-in-1-flyer",
+      "variants": [],
+      "availability": "Only 1 pc · Confirm today",
+      "source": "LAPTOP FLYER DESIGN · original user offer and stock photos · 9 October 2026",
+      "verification": "Actual photos supplied",
+      "note": "One pc and excellent battery were stated in the October 9 offer. Confirm the exact CPU code, battery health, keyboard lighting, charger and current availability before payment.",
+      "public": true,
+      "imageStatus": "actual-unit",
+      "stockQuantity": 1,
+      "stockDate": "2026-10-09"
+    },
+    {
+      "id": "dell-latitude-7480",
+      "name": "Dell Latitude 7480",
+      "brand": "Dell",
+      "category": "Business",
+      "cpu": "Intel Core i5-7300U · 7th Gen · 2.7GHz",
+      "ram": 8,
+      "storage": "256GB SSD",
+      "screen": "14-inch touchscreen",
+      "price": 650000,
+      "features": [
+        "Touchscreen",
+        "Backlit keyboard",
+        "Great condition (supplied)"
+      ],
+      "image": "chat-Oct10-dell-latitude-7480-photo-01",
+      "photos": [
+        "chat-Oct10-dell-latitude-7480-photo-02",
+        "chat-Oct10-dell-latitude-7480-photo-03",
+        "chat-Oct10-dell-latitude-7480-photo-04",
+        "chat-Oct10-dell-latitude-7480-photo-05",
+        "chat-Oct10-dell-latitude-7480-photo-06"
+      ],
+      "flyer": "chat-Oct10-dell-latitude-7480-flyer",
+      "variants": [],
+      "availability": "50 pcs supplied · Confirm today",
+      "source": "LAPTOP FLYER DESIGN · original user offer and stock photos · 9 October 2026",
+      "verification": "Actual photos supplied",
+      "note": "The October 9 offer states 50 pcs, “delight conditions” and TSh 650,000. Confirm current stock, condition, battery, touchscreen and keyboard lighting of the selected unit before payment.",
+      "public": true,
+      "imageStatus": "actual-unit",
+      "stockQuantity": 50,
+      "stockDate": "2026-10-09"
+    },
+    {
+      "id": "lenovo-27-frameless-monitor",
+      "name": "Lenovo 27-inch Frameless Monitor",
+      "brand": "Lenovo",
+      "category": "Monitors",
+      "screen": "27-inch (supplied)",
+      "price": 680000,
+      "features": [
+        "Frameless design",
+        "Black colour",
+        "Slim profile"
+      ],
+      "image": "chat-Oct10-lenovo-27-frameless-monitor-photo-01",
+      "photos": [
+        "chat-Oct10-lenovo-27-frameless-monitor-photo-02",
+        "chat-Oct10-lenovo-27-frameless-monitor-photo-03",
+        "chat-Oct10-lenovo-27-frameless-monitor-photo-04"
+      ],
+      "flyer": "chat-Oct10-lenovo-27-frameless-monitor-flyer",
+      "variants": [],
+      "availability": "In stock · Confirm today",
+      "source": "LAPTOP FLYER DESIGN · original user offer and stock photos · 9 October 2026",
+      "verification": "Actual photos supplied",
+      "note": "The seller supplied a 27-inch black frameless Lenovo monitor and these actual photos. No exact model code, resolution or port specification was supplied; confirm them on the unit before payment.",
+      "public": true,
+      "imageStatus": "actual-unit",
+      "specs": [
+        {
+          "label": "Brand",
+          "value": "Lenovo"
+        },
+        {
+          "label": "Display",
+          "value": "27-inch (supplied)"
+        },
+        {
+          "label": "Design",
+          "value": "Frameless · slim profile"
+        },
+        {
+          "label": "Colour",
+          "value": "Black"
+        },
+        {
+          "label": "Model code",
+          "value": "Confirm from the unit label"
+        },
+        {
+          "label": "Connections",
+          "value": "Confirm with seller"
+        }
+      ],
+      "description": "27-inch Lenovo monitor",
+      "summary": [
+        "27-inch display",
+        "Frameless design",
+        "Black colour"
+      ]
+    }
+  ]
+};

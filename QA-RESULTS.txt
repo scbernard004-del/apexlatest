@@ -1,0 +1,16 @@
+v2.4.4 QA — 11 October 2026
+
+Catalogue, file-reference, pricing, route and syntax regression checks: 98 passed, 0 failed.
+Render/data, product-type, EN/SW, configuration, metadata, selection, contact and mock order checks: 2236 passed, 0 failed.
+Total: 2334 passed, 0 failed.
+
+Screenshot issue: a shared button rule centered contact-card text. Labels and details now share one left-aligned text column; the icon and arrow occupy separate fixed columns. Long contact details wrap without overlapping the arrow. All five contact destinations, external-link attributes, decorative icons and message languages were checked.
+
+Contact cards retain three columns above 1180px, two between 681px and 1180px, and one at 680px or below. English and Kiswahili use identical card typography. Contact cards also have a visible keyboard focus ring and matching email/Instagram icons.
+Buying-guide and About grids use shrinkable columns. Information-card text and the contact phone highlight can wrap instead of forcing a wider grid.
+
+All 389 media files and both catalogue files match the previous release byte for byte. Existing stock prices, photos, flyers, product IDs and variants are preserved. 71 public product families; 32 held records; 269 public media records.
+All nine HTML pages have current asset versions. Exactly five folders remain, with fewer than 100 files per media folder.
+
+Responsive CSS and cascade reviewed; browser-rendered screenshots, live-device layouts and measured text bounds were not available in this environment. These are source/markup checks, not rendered browser tests.
+SMTP tested with a mock sender only. No real email sent. Live deployment was not performed.
